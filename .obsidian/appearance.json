@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Typora-Vue"
+  "cssTheme": "Royal Velvet",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true
 }
