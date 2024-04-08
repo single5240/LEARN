@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "./乾坤袋",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "spellcheckLanguages": null,
+  "readableLineLength": true,
+  "spellcheck": true
+}

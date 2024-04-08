@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "03dad8e21efc149b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d911d7b009557311",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "准备阶段/未命名.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "8a69372588f190d0"
+      },
+      {
+        "id": "e8baf00ea21ebaad",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "准备阶段/未命名.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "8a69372588f190d0"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c109c6c6232656d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab4ac6b24487d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2af488f303893acc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8f2dac98e1bcf6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed10f553e8efd9d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35588b249ec193af",
+    "type": "split",
+    "children": [
+      {
+        "id": "55905fcdda017b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc81013b21c2a39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "准备阶段/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acc828e96903e20a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "准备阶段/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbcee54caadd838c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70b840e3a6e11ac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "准备阶段/未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d911d7b009557311",
+  "lastOpenFiles": [
+    "准备阶段/快乐婷婷.md",
+    "准备阶段/未命名.md",
+    "2022-09-26.md",
+    "准备阶段/目标院校.md"
+  ]
+}
