@@ -10,6 +10,8 @@ kanban-plugin: basic
 
 ## doing
 
+- [ ] QT上位机
+- [ ] mcu框架
 
 
 ## done
