@@ -26,10 +26,15 @@ kanban-plugin: basic
 - [ ] 电机控制
 
 
+## done
+
+**完成**
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","lane-width":360}
+{"kanban-plugin":"basic","lane-width":360,"show-checkboxes":true}
 ```
 %%
