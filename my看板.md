@@ -18,19 +18,18 @@ kanban-plugin: basic
 - [ ] 毕业生登记表
 
 
-## done
-
-**完成**
-
-
 ## 任务拆分
 
+- [ ] 上位机参数设置
+- [ ] 串口屏驱动
+- [ ] 上位机和mcu通信
+- [ ] 电机控制
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","lane-width":360}
 ```
 %%
