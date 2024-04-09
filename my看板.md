@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## todo
 
+- [ ] 读完厌女
 
 
 ## doing
