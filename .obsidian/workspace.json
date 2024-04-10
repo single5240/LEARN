@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md",
+                "file": "嵌入式/毕设项目/外设使用情况.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md",
+                "file": "嵌入式/毕设项目/外设使用情况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md",
+                "file": "嵌入式/毕设项目/外设使用情况.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md"
+                "file": "嵌入式/毕设项目/外设使用情况.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "e1b055fee0ba2c49",
   "lastOpenFiles": [
-    "嵌入式/毕设项目/毕业论文要求.md",
+    "嵌入式/毕设项目/项目总览.md",
     "嵌入式/毕设项目/论文主体大纲.md",
+    "嵌入式/毕设项目/毕业论文要求.md",
     "my看板.md",
     "社科/人类学通论/基础知识/第六章-物质文化研究.md",
     "社科/人类学通论/基础知识/第五章-生态人类学.md",
@@ -168,7 +169,6 @@
     "社科/人类学通论/模板/分支模板.md",
     "社科/人类学通论/名词解释/惯习和主客观互渗.md",
     "README.md",
-    "嵌入式/毕设项目/项目总览.md",
     "嵌入式/工作",
     "2.md",
     "嵌入式/毕设项目",
