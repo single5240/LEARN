@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文大纲.md",
+                "file": "嵌入式/毕设项目/论文主体大纲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文大纲.md",
+                "file": "嵌入式/毕设项目/论文主体大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文大纲.md",
+                "file": "嵌入式/毕设项目/论文主体大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文大纲.md"
+                "file": "嵌入式/毕设项目/论文主体大纲.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "e1b055fee0ba2c49",
   "lastOpenFiles": [
+    "嵌入式/毕设项目/毕业论文要求.md",
+    "嵌入式/毕设项目/论文主体大纲.md",
     "my看板.md",
-    "嵌入式/毕设项目/毕业论文大纲.md",
     "社科/人类学通论/基础知识/第六章-物质文化研究.md",
     "社科/人类学通论/基础知识/第五章-生态人类学.md",
     "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
@@ -179,7 +180,6 @@
     "社科/人类学通论/名词解释/坎儿井.md",
     "社科/人类学通论/名词解释/交换.md",
     "社科/人类学通论/基础知识/第七章-语言与文化.md",
-    "社科/人类学通论/基础知识/第九章-心理人类学.md",
     "未命名.canvas",
     "社科/乾坤袋/Pasted image 20221008025234.png",
     "社科/乾坤袋/Pasted image 20221008025213.png"
