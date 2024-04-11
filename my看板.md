@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## todo
 
+- [ ] 串口屏驱动
 - [ ] 读完厌女
 - [ ] 读完社会学的想象力
 
@@ -26,7 +27,6 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] 串口屏驱动
 - [ ] mcu发送电机状态
 
 
