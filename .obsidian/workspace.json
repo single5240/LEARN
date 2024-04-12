@@ -11,12 +11,9 @@
             "id": "e1b055fee0ba2c49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文要求.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "my看板.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文要求.md",
+                "file": "my看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文要求.md",
+                "file": "my看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式/毕设项目/毕业论文要求.md"
+                "file": "my看板.md"
               }
             }
           }
@@ -150,10 +147,10 @@
   },
   "active": "e1b055fee0ba2c49",
   "lastOpenFiles": [
+    "嵌入式/毕设项目/毕业论文要求.md",
     "嵌入式/毕设项目/毕设部分/引言.md",
     "嵌入式/毕设项目/论文主体大纲.md",
     "嵌入式/毕设项目/毕设部分",
-    "嵌入式/毕设项目/毕业论文要求.md",
     "my看板.md",
     "嵌入式/毕设项目/外设使用情况.md",
     "嵌入式/毕设项目/项目总览.md",
