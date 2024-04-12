@@ -1,4 +1,11 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"bc229fe6c961ff6b","x":-580,"y":-614,"width":840,"height":394,"type":"group","label":"初始化"},
+		{"id":"65b88e53c0e0fdd1","x":-500,"y":-560,"width":140,"height":50,"type":"text","text":"外设初始化"},
+		{"id":"3976422d763ac582","x":-320,"y":-560,"width":285,"height":50,"type":"text","text":"各抽象层初始化及相应函数注册"},
+		{"id":"83909ce84e9f1265","x":-320,"y":-400,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"a10046b357072614","fromNode":"65b88e53c0e0fdd1","fromSide":"right","toNode":"3976422d763ac582","toSide":"left"}
+	]
 }
