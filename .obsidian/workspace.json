@@ -11,9 +11,14 @@
             "id": "e1b055fee0ba2c49",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "my看板.md"
+                "file": "嵌入式/毕设项目/mcu框架.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -247.9999905395508,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -84,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my看板.md",
+                "file": "嵌入式/毕设项目/mcu框架.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my看板.md",
+                "file": "嵌入式/毕设项目/mcu框架.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my看板.md"
+                "file": "嵌入式/毕设项目/mcu框架.canvas"
               }
             }
           }
@@ -147,15 +152,17 @@
   },
   "active": "e1b055fee0ba2c49",
   "lastOpenFiles": [
+    "嵌入式/毕设项目/项目总览.md",
+    "嵌入式/毕设项目/mcu框架.canvas",
+    "嵌入式/毕设项目/论文主体大纲.md",
+    "嵌入式/毕设项目/毕业论文要求.md",
+    "嵌入式/毕设项目/外设使用情况.md",
+    "my看板.md",
+    "嵌入式/毕设项目/mcu框架.md",
     "README.md",
     "嵌入式/外部资料/外部链接.md",
-    "my看板.md",
-    "嵌入式/毕设项目/毕业论文要求.md",
     "嵌入式/毕设项目/毕设部分/引言.md",
-    "嵌入式/毕设项目/论文主体大纲.md",
     "嵌入式/毕设项目/毕设部分",
-    "嵌入式/毕设项目/外设使用情况.md",
-    "嵌入式/毕设项目/项目总览.md",
     "社科/人类学通论/基础知识/第六章-物质文化研究.md",
     "社科/人类学通论/基础知识/第五章-生态人类学.md",
     "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
@@ -176,9 +183,6 @@
     "社科/人类学通论/基础知识/第三章-体质人类学.md",
     "社科/人类学通论/问题汇总/基本问题.md",
     "社科/人类学通论/名词解释/冷社会与热社会.md",
-    "社科/人类学通论/名词解释/坎儿井.md",
-    "社科/人类学通论/名词解释/交换.md",
-    "未命名.canvas",
     "社科/乾坤袋/Pasted image 20221008025234.png",
     "社科/乾坤袋/Pasted image 20221008025213.png"
   ]
