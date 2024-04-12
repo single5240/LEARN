@@ -11,14 +11,12 @@
             "id": "e1b055fee0ba2c49",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "嵌入式/毕设项目/mcu框架.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -72.63751549483482,
-                  "zoom": 0.5
-                }
+                "file": "嵌入式/毕设项目/毕设部分/引言.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式/毕设项目/mcu框架.canvas",
+                "file": "嵌入式/毕设项目/毕设部分/引言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式/毕设项目/mcu框架.canvas",
+                "file": "嵌入式/毕设项目/毕设部分/引言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式/毕设项目/mcu框架.canvas"
+                "file": "嵌入式/毕设项目/毕设部分/引言.md"
               }
             }
           }
