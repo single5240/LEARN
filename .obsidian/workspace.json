@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "c3caec1d88996ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嵌入式/毕设项目/毕设部分/引言.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64e4e2914f31e722",
             "type": "leaf",
             "state": {
@@ -163,7 +176,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "64e4e2914f31e722",
+  "active": "c3caec1d88996ed2",
   "lastOpenFiles": [
     "嵌入式/毕设项目/毕设部分/乾坤袋/fnsys-13-00074 1.epub",
     "嵌入式/毕设项目/毕设部分/乾坤袋/fnsys-13-00074.epub",
