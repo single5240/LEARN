@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md",
+                "file": "嵌入式/毕设项目/毕设部分/引言.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md",
+                "file": "嵌入式/毕设项目/毕设部分/引言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md",
+                "file": "嵌入式/毕设项目/毕设部分/引言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式/毕设项目/论文主体大纲.md"
+                "file": "嵌入式/毕设项目/毕设部分/引言.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   },
   "active": "e1b055fee0ba2c49",
   "lastOpenFiles": [
+    "嵌入式/毕设项目/论文主体大纲.md",
     "嵌入式/毕设项目/毕业论文要求.md",
     "嵌入式/毕设项目/项目总览.md",
     "嵌入式/毕设项目/毕设部分/正文.md",
     "嵌入式/毕设项目/毕设部分/引言.md",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153708.png",
-    "嵌入式/毕设项目/论文主体大纲.md",
     "嵌入式/毕设项目/毕设部分/乾坤袋/fnsys-13-00074 1.epub",
     "嵌入式/毕设项目/毕设部分/乾坤袋/fnsys-13-00074.epub",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240413160026.png",
