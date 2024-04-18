@@ -11,9 +11,12 @@
             "id": "e1b055fee0ba2c49",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "my看板.md"
+                "file": "嵌入式/毕设项目/项目总览.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my看板.md",
+                "file": "嵌入式/毕设项目/项目总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my看板.md",
+                "file": "嵌入式/毕设项目/项目总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my看板.md"
+                "file": "嵌入式/毕设项目/项目总览.md"
               }
             }
           }
@@ -147,8 +150,8 @@
   },
   "active": "e1b055fee0ba2c49",
   "lastOpenFiles": [
-    "嵌入式/毕设项目/外设使用情况.md",
     "my看板.md",
+    "嵌入式/毕设项目/外设使用情况.md",
     "嵌入式/毕设项目/论文主体大纲.md",
     "未命名.md",
     "未命名",
