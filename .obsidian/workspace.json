@@ -11,9 +11,12 @@
             "id": "e1b055fee0ba2c49",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "my看板.md"
+                "file": "嵌入式/毕设项目/外设使用情况.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my看板.md",
+                "file": "嵌入式/毕设项目/外设使用情况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my看板.md",
+                "file": "嵌入式/毕设项目/外设使用情况.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my看板.md"
+                "file": "嵌入式/毕设项目/外设使用情况.md"
               }
             }
           }
@@ -145,15 +148,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1b055fee0ba2c49",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
+    "嵌入式/毕设项目/毕业论文要求.md",
+    "嵌入式/毕设项目/论文主体大纲.md",
+    "my看板.md",
     "嵌入式/毕设项目/毕设部分/引言.md",
     "嵌入式/毕设项目/毕设部分/正文.md",
-    "嵌入式/毕设项目/毕业论文要求.md",
     "嵌入式/毕设项目/外设使用情况.md",
     "嵌入式/毕设项目/项目总览.md",
-    "my看板.md",
-    "嵌入式/毕设项目/论文主体大纲.md",
     "未命名.md",
     "未命名",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
