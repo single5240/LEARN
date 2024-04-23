@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "esp wifi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "esp wifi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "esp wifi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "esp wifi.md"
               }
             }
           }
@@ -150,8 +150,12 @@
   },
   "active": "25bcdb32e264de92",
   "lastOpenFiles": [
+    "乾坤袋/Pasted image 20240423102026.png",
+    "乾坤袋/Pasted image 20240423102017.png",
+    "乾坤袋/Pasted image 20240423101916.png",
+    "乾坤袋",
     "嵌入式/毕设项目/外设使用情况.md",
-    "未命名 1.md",
+    "esp wifi.md",
     "嵌入式/毕设项目/毕业论文要求.md",
     "嵌入式/毕设项目/论文主体大纲.md",
     "my看板.md",
@@ -188,7 +192,6 @@
     "嵌入式/毕设项目",
     "嵌入式/外部资料",
     "嵌入式",
-    "社科/人类学通论/基础知识/第三章-体质人类学.md",
     "社科/乾坤袋/Pasted image 20221008025234.png",
     "社科/乾坤袋/Pasted image 20221008025213.png"
   ]
