@@ -10,21 +10,19 @@ kanban-plugin: basic
 - [ ] 读完社会学的想象力
 
 
-## mcu
-
-
-
-## 上位机
-
-
-
-## 论文
+## doing
 
 
 
 ## done
 
 **完成**
+
+
+***
+
+## 归档
+
 - [x] 按键和led功能实现
 - [x] 电机被动控制
 - [x] 电机控制
@@ -39,9 +37,6 @@ kanban-plugin: basic
 - [x] 参数设置
 - [x] 串口屏驱动
 - [x] 毕业生登记表
-
-
-
 
 %% kanban:settings
 ```
