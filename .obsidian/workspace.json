@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "社科/人类学通论/基础知识/第九章-心理人类学.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "社科/人类学通论/基础知识/第九章-心理人类学.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "社科/人类学通论/基础知识/第九章-心理人类学.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "社科/人类学通论/基础知识/第九章-心理人类学.md"
+                "file": "README.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,8 +156,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "25bcdb32e264de92",
   "lastOpenFiles": [
+    "乾坤袋/Pasted image 20240423102026.png",
+    "乾坤袋/Pasted image 20240423102017.png",
+    "乾坤袋/Pasted image 20240423101916.png",
+    "社科/人类学通论/基础知识/第九章-心理人类学.md",
     "社科/人类学通论/基础知识/第七章-语言与文化.md",
     "社科/人类学通论/基础知识/第六章-物质文化研究.md",
     "社科/人类学通论/基础知识/第四章-经济人类学.md",
@@ -171,9 +175,6 @@
     "my看板.md",
     "未命名.md",
     "esp wifi.md",
-    "乾坤袋/Pasted image 20240423102026.png",
-    "乾坤袋/Pasted image 20240423102017.png",
-    "乾坤袋/Pasted image 20240423101916.png",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/引言.md",
     "嵌入式/毕设项目/毕设部分/正文.md",
@@ -195,8 +196,6 @@
     "社科/人类学通论/名词解释/历时和共时.md",
     "社科/人类学通论/名词解释/暂未归类.md",
     "社科/人类学通论/模板/人物模板.md",
-    "社科/人类学通论/模板/分支模板.md",
-    "社科/人类学通论/名词解释/惯习和主客观互渗.md",
     "嵌入式/工作",
     "嵌入式/毕设项目",
     "嵌入式/外部资料",
