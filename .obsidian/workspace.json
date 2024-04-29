@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "25ad5d843b4b8f84",
+  "active": "25bcdb32e264de92",
   "lastOpenFiles": [
     "乾坤袋/Pasted image 20240423102026.png",
     "乾坤袋/Pasted image 20240423102017.png",
