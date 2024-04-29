@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#辨析",
+                "query": "本质",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "25bcdb32e264de92",
+  "active": "25ad5d843b4b8f84",
   "lastOpenFiles": [
     "乾坤袋/Pasted image 20240423102026.png",
     "乾坤袋/Pasted image 20240423102017.png",

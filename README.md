@@ -1,22 +1,28 @@
 # LEARN
-[#c name title relation]
-[#d title relation]
-[#e title relation]
-[#v title ]
-[#t title relation]
-[#c name title relation]
-#c dog happy #unhappy
-#c dog unhappy #happy
+#d title relation
+- 456
+#e title relation
+- 789
+#v title 
+- 1010
+#t title relation
+- 1233
+#c name title relation
+- 789
 
 
+#d title relation1
+- 456
+#e title relation1
+- 789
+#v title 
+- 1010
+#t title relation1
+- 1233
+#c name title relation1
+- 789
 
 
-
-
-
-
-#d test  #辨析 
-- 
 
 
 
