@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] 读完厌女
 - [ ] 读完社会学的想象力
+- [ ] 我当黑帮大佬的一天
 
 
 ## doing
@@ -17,6 +17,7 @@ kanban-plugin: basic
 ## done
 
 **完成**
+- [x] 读完厌女
 
 
 ***
