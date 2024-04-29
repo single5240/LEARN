@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#c",
+                "query": "tag:#辨析",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
