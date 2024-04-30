@@ -1,15 +1,18 @@
 # LEARN
-#d title1 #d haapy
-- 456
+#d title1 relation
+456
+
 #e title2 relation
-- 789
+789
+
 #v title3 
 - 1010
-#t title4 relation
+
+#t title4 
 - 1233
+
 #c name title5 relation
 - 789
-
 
 #d title6 relation1
 - 456
@@ -29,8 +32,6 @@
 
 
 # test
-#d title1 relation4
-- 456
 #e title2 relation
 - 789
 #v title3 
@@ -39,8 +40,6 @@
 - 1233
 #c name title5 relation
 - 789
-
-
 #d title6 relation1
 - 456
 #e title7 relation1
