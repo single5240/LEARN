@@ -1,18 +1,2 @@
-## API
-1. `nvs_flash_init` 初始化默认NVS分区
-2.  `nvs_flash_erase` 擦除默认的NVS分区
-3.  `nvs_open` 从默认NVS分区打开具有给定命名空间的非易失性存储
-4.  读取函数
-	```c
-esp_err_t nvs_get_i8  (nvs_handle_t handle, const char* key, int8_t* out_value);
-esp_err_t nvs_get_u8  (nvs_handle_t handle, const char* key, uint8_t* out_value);
-esp_err_t nvs_get_i16 (nvs_handle_t handle, const char* key, int16_t* out_value);
-esp_err_t nvs_get_u16 (nvs_handle_t handle, const char* key, uint16_t* out_value);
-esp_err_t nvs_get_i32 (nvs_handle_t handle, const char* key, int32_t* out_value);
-esp_err_t nvs_get_u32 (nvs_handle_t handle, const char* key, uint32_t* out_value);
-esp_err_t nvs_get_i64 (nvs_handle_t handle, const char* key, int64_t* out_value);
-esp_err_t nvs_get_u64 (nvs_handle_t handle, const char* key, uint64_t* out_value);
-```
-
-
-
+1. [【ESP32-IDF】04-2 存储-NVS-CSDN博客](https://blog.csdn.net/qq_41741344/article/details/116465404?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162303264416780262556738%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=162303264416780262556738&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-12-116465404.pc_search_result_cache&utm_term=esp32+nvs&spm=1018.2226.3001.4187)
+2. 
