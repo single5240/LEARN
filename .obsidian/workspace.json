@@ -11,10 +11,8 @@
             "id": "6cfe47661716abe5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "my看板.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "my看板.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,12 +130,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 485.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +150,8 @@
   "active": "6cfe47661716abe5",
   "lastOpenFiles": [
     "README.md",
+    "my看板.md",
+    "社科/双链.md",
     "乾坤袋/Pasted image 20240423101916.png",
     "乾坤袋/Pasted image 20240423102026.png",
     "嵌入式/毕设项目/毕设部分/引言.md",
@@ -174,7 +170,6 @@
     "社科/人类学通论/基础知识/第四章-经济人类学.md",
     "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
     "社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
-    "my看板.md",
     "未命名.md",
     "esp wifi.md",
     "乾坤袋",
