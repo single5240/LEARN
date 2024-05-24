@@ -1,6 +1,8 @@
 ## 资料
 1. [技术说明 | 霍尔传感器 | 产品 | 旭化成微电子 (AKM)](https://www.akm.com/cn/zh-cn/products/hall-sensor/tutorial/)
-2. 
+2. [三相交流异步电动机的结构与工作原理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/506365761)
+3. [SPWM基本原理详解（图文并茂+公式推导+C程序实现）-CSDN博客](https://blog.csdn.net/u010632165/article/details/110889621)
+4. 
 ###### 反电动势
 - 电机转速越高，反电动势越大。反电动势越大，那么电机电流也就越小
 ###### 级数和极对数
