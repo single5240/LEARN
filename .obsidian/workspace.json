@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "社科/其他资料/网站.md",
+                "file": "FOC/FOC理论.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "社科/其他资料/网站.md",
+                "file": "FOC/FOC理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "社科/其他资料/网站.md",
+                "file": "FOC/FOC理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "社科/其他资料/网站.md"
+                "file": "FOC/FOC理论.md"
               }
             }
           },
@@ -154,14 +154,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "6cfe47661716abe5",
   "lastOpenFiles": [
+    "my看板.md",
+    "FOC/FOC理论.md",
+    "社科/其他资料/网站.md",
+    "FOC",
     "社科/人类学通论/附录/世界语言的谱系及分布.md",
     "README.md",
-    "my看板.md",
     "社科/双链.md",
     "乾坤袋/Pasted image 20240423101916.png",
     "乾坤袋/Pasted image 20240423102026.png",
@@ -184,7 +188,6 @@
     "未命名.md",
     "esp wifi.md",
     "乾坤袋",
-    "未命名",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153708.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋/fnsys-13-00074 1.epub",
@@ -196,8 +199,6 @@
     "嵌入式/毕设项目/毕设部分",
     "社科/人类学通论/基础知识/第五章-生态人类学.md",
     "社科/人类学通论/概念辨析/文化人类学与体质人类学的区别.md",
-    "社科/人类学通论/名词解释/田野工作.md",
-    "社科/人类学通论/基础知识/第十章-田野工作.md",
     "嵌入式/工作",
     "嵌入式/毕设项目",
     "嵌入式/外部资料",

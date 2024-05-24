@@ -12,12 +12,12 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] 毕设论文
 
 
 ## done
 
 **完成**
+- [x] 毕设论文
 
 
 ***
