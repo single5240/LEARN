@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/FOC理论.md",
+                "file": "FOC/理论.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOC/FOC理论.md",
+                "file": "FOC/理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOC/FOC理论.md",
+                "file": "FOC/理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOC/FOC理论.md"
+                "file": "FOC/理论.md"
               }
             }
           },
@@ -162,7 +162,7 @@
   "active": "0aa71f400ef31231",
   "lastOpenFiles": [
     "FOC/工程准备.md",
-    "FOC/FOC理论.md",
+    "FOC/理论.md",
     "未命名.md",
     "my看板.md",
     "社科/其他资料/网站.md",
