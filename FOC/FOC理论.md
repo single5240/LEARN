@@ -22,6 +22,6 @@
 ## SPWM、SVPWM
 1. SPWM：SIN Pulse Width Modulation
 2. SVPWM：Space Vector Pulse Width Modulation
-3. 相电压最大幅值：2/3 * U-dc ≈ 1.15Udc
-4. 线电压最大幅值：2/sqrt3 *  U-dc ≈ 0.866 * Udc
-5. 
+3. 相电压最大幅值：2/3 * U-dc
+4. 线电压最大幅值：2/sqrt3 *  U-dc ≈ 1.15Udc
+5. 最大合成矢量圆：(sqrt3)/2 * Udc  ≈ 0.866 * Udc
