@@ -4,6 +4,7 @@
 3. [SPWM基本原理详解（图文并茂+公式推导+C程序实现）-CSDN博客](https://blog.csdn.net/u010632165/article/details/110889621)
 4. [写一个比SimpleFOC更好的库 (dengfoc.com)](http://dengfoc.com/#/dengfoc/%E7%81%AF%E5%93%A5%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%86%99FOC%E7%AE%97%E6%B3%95/%E5%BA%8F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%87%BA%E8%BF%99%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B.md)
 5. 
+### 基本概念
 ###### 反电动势
 - 电机转速越高，反电动势越大。反电动势越大，那么电机电流也就越小
 ###### 级数和极对数
@@ -17,3 +18,8 @@
 ###### KV值
 - 在1V工作电压下，无刷电机每分钟的空载转速
 - 电机转速(空载) = KV\*电压
+
+## SPWM、SVPWM
+1. SPWM：SIN Pulse Width Modulation
+2. SVPWM：Space Vector Pulse Width Modulation
+3. 
