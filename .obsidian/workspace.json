@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/理论.md",
+                "file": "FOC/启动.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0fc75e844177bb13",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOC/理论.md",
+                "file": "FOC/启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOC/理论.md",
+                "file": "FOC/启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOC/理论.md"
+                "file": "FOC/启动.md"
               }
             }
           },
@@ -162,6 +161,7 @@
   "active": "0aa71f400ef31231",
   "lastOpenFiles": [
     "FOC/工程准备.md",
+    "FOC/启动.md",
     "FOC/理论.md",
     "未命名.md",
     "my看板.md",
@@ -199,7 +199,6 @@
     "嵌入式/毕设项目/mcu框架.canvas",
     "嵌入式/毕设项目/mcu框架.md",
     "嵌入式/毕设项目/毕设部分",
-    "社科/人类学通论/基础知识/第五章-生态人类学.md",
     "嵌入式/工作",
     "嵌入式/毕设项目",
     "嵌入式/外部资料",
