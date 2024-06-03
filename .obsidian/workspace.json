@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0aa71f400ef31231",
+            "id": "27e0f00fd371b12c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/启动.md",
+                "file": "说明书.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOC/启动.md",
+                "file": "说明书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOC/启动.md",
+                "file": "说明书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOC/启动.md"
+                "file": "说明书.md"
               }
             }
           },
@@ -158,10 +158,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0aa71f400ef31231",
+  "active": "27e0f00fd371b12c",
   "lastOpenFiles": [
-    "FOC/工程准备.md",
     "FOC/启动.md",
+    "说明书.md",
+    "FOC/工程准备.md",
     "FOC/理论.md",
     "未命名.md",
     "my看板.md",
@@ -197,7 +198,6 @@
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240413160026.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋",
     "嵌入式/毕设项目/mcu框架.canvas",
-    "嵌入式/毕设项目/mcu框架.md",
     "嵌入式/毕设项目/毕设部分",
     "嵌入式/工作",
     "嵌入式/毕设项目",
