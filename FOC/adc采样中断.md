@@ -8,4 +8,5 @@
 7. 将iq、id进行电流pid计算
 8. 将电流pid输出的Vd、Vq进行反park变换
 9. 然后将反park变换的Voltage_Alpha_Beta进行SVPWM
-10. 
+10. 进行PLL算法
+11. 更新电机的码盘计数值
