@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/adc采样中断.md",
+                "file": "FOC/编码器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOC/adc采样中断.md",
+                "file": "FOC/编码器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOC/adc采样中断.md",
+                "file": "FOC/编码器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOC/adc采样中断.md"
+                "file": "FOC/编码器.md"
               }
             }
           },
@@ -160,9 +160,10 @@
   },
   "active": "115bc38379357c71",
   "lastOpenFiles": [
-    "FOC/启动.md",
     "FOC/adc采样中断.md",
+    "FOC/编码器.md",
     "FOC/周期函数.md",
+    "FOC/启动.md",
     "说明书.md",
     "FOC/工程准备.md",
     "FOC/理论.md",
@@ -189,7 +190,6 @@
     "社科/人类学通论/基础知识/第七章-语言与文化.md",
     "社科/人类学通论/基础知识/第六章-物质文化研究.md",
     "社科/人类学通论/基础知识/第四章-经济人类学.md",
-    "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153708.png",
