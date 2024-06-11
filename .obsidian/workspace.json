@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/PWM.md",
+                "file": "FOC/adc采样中断.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOC/PWM.md",
+                "file": "FOC/adc采样中断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOC/PWM.md",
+                "file": "FOC/adc采样中断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOC/PWM.md"
+                "file": "FOC/adc采样中断.md"
               }
             }
           },
@@ -173,8 +173,10 @@
   },
   "active": "115bc38379357c71",
   "lastOpenFiles": [
-    "FOC/编码器.md",
+    "FOC/乾坤袋/Pasted image 20240611110402.png",
+    "FOC/乾坤袋",
     "FOC/PWM.md",
+    "FOC/编码器.md",
     "FOC/adc采样中断.md",
     "FOC/周期函数.md",
     "FOC/启动.md",
@@ -202,7 +204,6 @@
     "乾坤袋/Pasted image 20240423102017.png",
     "社科/人类学通论/基础知识/第九章-心理人类学.md",
     "社科/人类学通论/基础知识/第七章-语言与文化.md",
-    "社科/人类学通论/基础知识/第六章-物质文化研究.md",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153708.png",
@@ -215,7 +216,6 @@
     "嵌入式/工作",
     "嵌入式/毕设项目",
     "嵌入式/外部资料",
-    "嵌入式",
     "社科/乾坤袋/Pasted image 20221008025234.png",
     "社科/乾坤袋/Pasted image 20221008025213.png"
   ]

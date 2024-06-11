@@ -1,4 +1,4 @@
-### 整理
+### 处理函数
 1. 获取adc电流采样值
 2. Clark变换 adc采样值
 3. cos sin计算
@@ -10,3 +10,5 @@
 9. 然后将反park变换的Voltage_Alpha_Beta进行SVPWM
 10. 进行PLL算法
 11. 更新电机的码盘计数值
+### 采样方案
+![[Pasted image 20240611110402.png]]
