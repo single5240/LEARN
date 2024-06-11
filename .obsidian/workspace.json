@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/编码器.md",
+                "file": "bldc电机/周期函数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/PWM.md",
+                "file": "bldc电机/PWM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOC/编码器.md",
+                "file": "bldc电机/周期函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOC/编码器.md",
+                "file": "bldc电机/周期函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOC/编码器.md"
+                "file": "bldc电机/周期函数.md"
               }
             }
           },
@@ -173,20 +173,21 @@
   },
   "active": "115bc38379357c71",
   "lastOpenFiles": [
-    "FOC/周期函数.md",
-    "FOC/adc采样中断.md",
-    "FOC/启动.md",
-    "FOC/编码器.md",
-    "FOC/乾坤袋/Pasted image 20240611110402.png",
-    "FOC/乾坤袋",
-    "FOC/PWM.md",
+    "bldc电机/硬件.md",
+    "bldc电机/编码器.md",
+    "bldc电机/周期函数.md",
+    "bldc电机/adc采样中断.md",
+    "bldc电机/启动.md",
+    "bldc电机/乾坤袋/Pasted image 20240611110402.png",
+    "bldc电机/乾坤袋",
+    "bldc电机/PWM.md",
     "说明书.md",
-    "FOC/工程准备.md",
-    "FOC/理论.md",
+    "bldc电机/工程准备.md",
+    "bldc电机/理论.md",
     "未命名.md",
     "my看板.md",
     "社科/其他资料/网站.md",
-    "FOC",
+    "bldc电机",
     "社科/人类学通论/附录/世界语言的谱系及分布.md",
     "README.md",
     "社科/双链.md",
