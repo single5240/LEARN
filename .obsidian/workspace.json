@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/编码器.md",
+                "file": "FOC/PWM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOC/编码器.md",
+                "file": "FOC/PWM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOC/编码器.md",
+                "file": "FOC/PWM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOC/编码器.md",
+                "file": "FOC/PWM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOC/编码器.md"
+                "file": "FOC/PWM.md"
               }
             }
           },
@@ -172,10 +171,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "04cfe24f26bbe65a",
+  "active": "115bc38379357c71",
   "lastOpenFiles": [
-    "FOC/adc采样中断.md",
     "FOC/编码器.md",
+    "FOC/PWM.md",
+    "FOC/adc采样中断.md",
     "FOC/周期函数.md",
     "FOC/启动.md",
     "说明书.md",
@@ -203,7 +203,6 @@
     "社科/人类学通论/基础知识/第九章-心理人类学.md",
     "社科/人类学通论/基础知识/第七章-语言与文化.md",
     "社科/人类学通论/基础知识/第六章-物质文化研究.md",
-    "社科/人类学通论/基础知识/第四章-经济人类学.md",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153708.png",
