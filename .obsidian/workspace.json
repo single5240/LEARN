@@ -24,9 +24,12 @@
             "id": "04cfe24f26bbe65a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "FOC/编码器.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
