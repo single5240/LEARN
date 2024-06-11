@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04cfe24f26bbe65a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -158,7 +169,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "115bc38379357c71",
+  "active": "04cfe24f26bbe65a",
   "lastOpenFiles": [
     "FOC/adc采样中断.md",
     "FOC/编码器.md",
