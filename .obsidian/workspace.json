@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/初始化.md",
+                "file": "bldc电机/控制理论/ac motor foc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/初始化.md",
+                "file": "bldc电机/控制理论/ac motor foc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/初始化.md",
+                "file": "bldc电机/控制理论/ac motor foc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/初始化.md"
+                "file": "bldc电机/控制理论/ac motor foc.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "115bc38379357c71",
   "lastOpenFiles": [
-    "bldc电机/工程准备.md",
+    "bldc电机/控制理论/简述.md",
+    "bldc电机/控制理论/ac motor foc.md",
     "bldc电机/初始化.md",
+    "bldc电机/控制理论",
+    "bldc电机/工程准备.md",
     "bldc电机/周期函数.md",
     "bldc电机/硬件.md",
     "bldc电机/编码器.md",
@@ -171,7 +174,6 @@
     "bldc电机/乾坤袋",
     "bldc电机/PWM.md",
     "说明书.md",
-    "bldc电机/理论.md",
     "未命名.md",
     "my看板.md",
     "社科/其他资料/网站.md",
@@ -191,7 +193,6 @@
     "嵌入式/工作/esp32 nvs.md",
     "嵌入式/外部资料/外部链接.md",
     "乾坤袋/Pasted image 20240423102017.png",
-    "社科/人类学通论/基础知识/第九章-心理人类学.md",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153708.png",
@@ -203,7 +204,6 @@
     "嵌入式/毕设项目/毕设部分",
     "嵌入式/工作",
     "嵌入式/毕设项目",
-    "嵌入式/外部资料",
     "社科/乾坤袋/Pasted image 20221008025234.png",
     "社科/乾坤袋/Pasted image 20221008025213.png"
   ]
