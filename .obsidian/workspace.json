@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/启动.md",
+                "file": "bldc电机/硬件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/启动.md",
+                "file": "bldc电机/硬件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/启动.md",
+                "file": "bldc电机/硬件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/启动.md"
+                "file": "bldc电机/硬件.md"
               }
             }
           },
@@ -160,16 +160,16 @@
   },
   "active": "115bc38379357c71",
   "lastOpenFiles": [
+    "bldc电机/初始化.md",
     "bldc电机/硬件.md",
     "bldc电机/PWM.md",
+    "bldc电机/启动.md",
     "bldc电机/编码器.md",
     "bldc电机/周期函数.md",
     "bldc电机/adc采样中断.md",
-    "bldc电机/启动.md",
     "bldc电机/工程准备.md",
     "bldc电机/控制理论/简述.md",
     "bldc电机/控制理论/ac motor foc.md",
-    "bldc电机/初始化.md",
     "bldc电机/控制理论",
     "bldc电机/乾坤袋/Pasted image 20240611110402.png",
     "bldc电机/乾坤袋",
