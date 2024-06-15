@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/硬件.md",
+                "file": "C语言/技巧/宏定义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/硬件.md",
+                "file": "C语言/技巧/宏定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/硬件.md",
+                "file": "C语言/技巧/宏定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/硬件.md"
+                "file": "C语言/技巧/宏定义.md"
               }
             }
           },
@@ -160,8 +160,12 @@
   },
   "active": "115bc38379357c71",
   "lastOpenFiles": [
-    "bldc电机/初始化.md",
     "bldc电机/硬件.md",
+    "C语言/技巧/宏定义.md",
+    "C语言/技巧",
+    "C语言/未命名.md",
+    "C语言",
+    "bldc电机/初始化.md",
     "bldc电机/PWM.md",
     "bldc电机/启动.md",
     "bldc电机/编码器.md",
@@ -190,8 +194,6 @@
     "嵌入式/毕设项目/毕业论文要求.md",
     "嵌入式/毕设项目/外设使用情况.md",
     "嵌入式/工作/esp32 ota升级.md",
-    "嵌入式/工作/esp32 nvs.md",
-    "嵌入式/外部资料/外部链接.md",
     "乾坤袋/Pasted image 20240423102017.png",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
@@ -202,8 +204,6 @@
     "嵌入式/毕设项目/毕设部分/乾坤袋",
     "嵌入式/毕设项目/mcu框架.canvas",
     "嵌入式/毕设项目/毕设部分",
-    "嵌入式/工作",
-    "嵌入式/毕设项目",
     "社科/乾坤袋/Pasted image 20221008025234.png",
     "社科/乾坤袋/Pasted image 20221008025213.png"
   ]
