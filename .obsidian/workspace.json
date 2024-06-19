@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "115bc38379357c71",
+            "id": "63c2d9b19f429847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/adc采样中断.md",
+                "file": "bldc电机/测试.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/adc采样中断.md",
+                "file": "bldc电机/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/adc采样中断.md",
+                "file": "bldc电机/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/adc采样中断.md"
+                "file": "bldc电机/测试.md"
               }
             }
           },
@@ -158,18 +158,20 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "115bc38379357c71",
+  "active": "63c2d9b19f429847",
   "lastOpenFiles": [
-    "bldc电机/编码器.md",
-    "bldc电机/周期函数.md",
-    "bldc电机/adc采样中断.md",
-    "bldc电机/参考.md",
-    "bldc电机/工程准备.md",
+    "bldc电机/工程文件/工程准备.md",
+    "bldc电机/测试.md",
+    "bldc电机/工程文件/adc采样中断.md",
+    "bldc电机/工程文件",
+    "bldc电机/工程文件/编码器.md",
+    "bldc电机/工程文件/周期函数.md",
+    "bldc电机/工程文件/参考.md",
     "bldc电机/控制理论/简述.md",
     "C语言/技巧/宏定义.md",
-    "bldc电机/初始化.md",
-    "bldc电机/硬件.md",
-    "bldc电机/PWM.md",
+    "bldc电机/工程文件/初始化.md",
+    "bldc电机/工程文件/硬件.md",
+    "bldc电机/工程文件/PWM.md",
     "社科/人类学通论/附录/世界语言的谱系及分布.md",
     "C语言/技巧",
     "C语言/未命名.md",
@@ -193,7 +195,6 @@
     "嵌入式/毕设项目/论文主体大纲.md",
     "嵌入式/毕设项目/毕业论文要求.md",
     "嵌入式/毕设项目/外设使用情况.md",
-    "嵌入式/工作/esp32 ota升级.md",
     "乾坤袋/Pasted image 20240423102017.png",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240415153752.png",
@@ -203,7 +204,6 @@
     "嵌入式/毕设项目/毕设部分/乾坤袋/Pasted image 20240413160026.png",
     "嵌入式/毕设项目/毕设部分/乾坤袋",
     "嵌入式/毕设项目/mcu框架.canvas",
-    "嵌入式/毕设项目/毕设部分",
     "社科/乾坤袋/Pasted image 20221008025234.png",
     "社科/乾坤袋/Pasted image 20221008025213.png"
   ]
