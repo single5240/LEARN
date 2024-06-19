@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/编码器.md",
+                "file": "bldc电机/adc采样中断.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/编码器.md",
+                "file": "bldc电机/adc采样中断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/编码器.md",
+                "file": "bldc电机/adc采样中断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/编码器.md"
+                "file": "bldc电机/adc采样中断.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "115bc38379357c71",
   "lastOpenFiles": [
+    "bldc电机/编码器.md",
     "bldc电机/周期函数.md",
     "bldc电机/adc采样中断.md",
     "bldc电机/参考.md",
@@ -169,7 +170,6 @@
     "bldc电机/初始化.md",
     "bldc电机/硬件.md",
     "bldc电机/PWM.md",
-    "bldc电机/编码器.md",
     "社科/人类学通论/附录/世界语言的谱系及分布.md",
     "C语言/技巧",
     "C语言/未命名.md",
