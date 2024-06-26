@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/伺服器连接、配置.md",
+                "file": "bldc电机/工程文件/adc采样中断.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/伺服器连接、配置.md",
+                "file": "bldc电机/工程文件/周期函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/伺服器连接、配置.md",
+                "file": "bldc电机/工程文件/周期函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/伺服器连接、配置.md"
+                "file": "bldc电机/工程文件/周期函数.md"
               }
             }
           },
@@ -160,13 +160,17 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
+    "bldc电机/工程文件/初始化.md",
+    "bldc电机/工程文件/硬件.md",
+    "bldc电机/工程文件/PWM.md",
+    "README.md",
+    "供包台/伺服器连接、配置.md",
     "供包台/乾坤袋/Pasted image 20240620182338.png",
     "供包台/乾坤袋/1718789564040 1.png",
     "供包台/乾坤袋/1718789564040.png",
     "供包台/乾坤袋/1718786779497.png",
     "供包台/乾坤袋",
     "bldc电机/测试.md",
-    "供包台/伺服器连接、配置.md",
     "供包台",
     "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
     "bldc电机/乾坤袋/1718782002439.png",
@@ -179,9 +183,6 @@
     "bldc电机/工程文件/参考.md",
     "bldc电机/控制理论/简述.md",
     "C语言/技巧/宏定义.md",
-    "bldc电机/工程文件/初始化.md",
-    "bldc电机/工程文件/硬件.md",
-    "bldc电机/工程文件/PWM.md",
     "社科/人类学通论/附录/世界语言的谱系及分布.md",
     "C语言/技巧",
     "C语言/未命名.md",
@@ -195,7 +196,6 @@
     "my看板.md",
     "社科/其他资料/网站.md",
     "bldc电机",
-    "README.md",
     "社科/双链.md",
     "乾坤袋/Pasted image 20240423101916.png",
     "乾坤袋/Pasted image 20240423102026.png",
@@ -203,7 +203,6 @@
     "嵌入式/毕设项目/毕设部分/正文.md",
     "嵌入式/毕设项目/项目总览.md",
     "嵌入式/毕设项目/论文主体大纲.md",
-    "乾坤袋/Pasted image 20240423102017.png",
     "乾坤袋",
     "嵌入式/毕设项目/毕设部分/乾坤袋/fnsys-13-00074 1.epub",
     "嵌入式/毕设项目/mcu框架.canvas"
