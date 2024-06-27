@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/工程文件/工程准备.md",
+                "file": "硬件/基础知识/运放.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/工程文件/工程准备.md",
+                "file": "硬件/基础知识/运放.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/工程文件/工程准备.md",
+                "file": "硬件/基础知识/运放.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/工程文件/工程准备.md"
+                "file": "硬件/基础知识/运放.md"
               }
             }
           },
@@ -158,9 +158,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "63c2d9b19f429847",
   "lastOpenFiles": [
-    "未命名",
+    "bldc电机/工程文件/工程准备.md",
+    "硬件/基础知识/运放.md",
+    "硬件/基础知识",
+    "硬件",
     "bldc电机/工程文件/adc采样中断.md",
     "bldc电机/工程文件/周期函数.md",
     "bldc电机/工程文件/初始化.md",
@@ -178,7 +181,6 @@
     "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
     "bldc电机/乾坤袋/1718782002439.png",
     "bldc电机/乾坤袋/1718781908935.png",
-    "bldc电机/工程文件/工程准备.md",
     "bldc电机/工程文件",
     "bldc电机/工程文件/编码器.md",
     "bldc电机/工程文件/参考.md",
@@ -204,8 +206,6 @@
     "嵌入式/毕设项目/毕设部分/正文.md",
     "嵌入式/毕设项目/项目总览.md",
     "嵌入式/毕设项目/论文主体大纲.md",
-    "乾坤袋",
-    "嵌入式/毕设项目/毕设部分/乾坤袋/fnsys-13-00074 1.epub",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
