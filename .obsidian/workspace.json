@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/基础知识/学习链接.md",
+                "file": "硬件/基础知识/电阻.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/基础知识/学习链接.md",
+                "file": "硬件/基础知识/电阻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件/基础知识/学习链接.md",
+                "file": "硬件/基础知识/电阻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/基础知识/学习链接.md"
+                "file": "硬件/基础知识/电阻.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
-    "硬件/基础知识/电容.md",
     "硬件/基础知识/学习链接.md",
+    "硬件/基础知识/电阻.md",
+    "硬件/基础知识/电容.md",
     "硬件/基础知识/运放.md",
     "bldc电机/工程文件/工程准备.md",
     "硬件/基础知识",
@@ -205,7 +206,6 @@
     "乾坤袋/Pasted image 20240423101916.png",
     "乾坤袋/Pasted image 20240423102026.png",
     "嵌入式/毕设项目/毕设部分/引言.md",
-    "嵌入式/毕设项目/毕设部分/正文.md",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
