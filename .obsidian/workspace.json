@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/基础知识/学习链接.md",
+                "file": "硬件/调试/信条.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/基础知识/学习链接.md",
+                "file": "硬件/调试/信条.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件/基础知识/学习链接.md",
+                "file": "硬件/调试/信条.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/基础知识/学习链接.md"
+                "file": "硬件/调试/信条.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
+    "硬件/基础知识/学习链接.md",
+    "硬件/调试/信条.md",
+    "硬件/调试",
     "bldc电机/硬件设计/驱动电路.md",
     "硬件/电路设计/设计步骤.md",
     "bldc电机/硬件设计",
@@ -167,7 +170,6 @@
     "硬件/电路设计",
     "硬件/基础知识/乾坤袋/Pasted image 20240628104705.png",
     "硬件/基础知识/乾坤袋",
-    "硬件/基础知识/学习链接.md",
     "硬件/基础知识/电容.md",
     "硬件/基础知识/运放.md",
     "bldc电机/工程文件/工程准备.md",
@@ -198,13 +200,11 @@
     "社科/人类学通论/附录/世界语言的谱系及分布.md",
     "C语言/技巧",
     "C语言/未命名.md",
-    "C语言",
     "bldc电机/控制理论/ac motor foc.md",
     "bldc电机/乾坤袋/Pasted image 20240611110402.png",
     "说明书.md",
     "未命名.md",
     "my看板.md",
-    "社科/其他资料/网站.md",
     "乾坤袋/Pasted image 20240423101916.png",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
