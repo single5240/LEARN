@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/调试/信条.md",
+                "file": "bldc电机/控制理论/简述.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/调试/信条.md",
+                "file": "bldc电机/控制理论/简述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件/调试/信条.md",
+                "file": "bldc电机/控制理论/简述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/调试/信条.md"
+                "file": "bldc电机/控制理论/简述.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
-    "硬件/基础知识/学习链接.md",
     "硬件/调试/信条.md",
+    "硬件/基础知识/学习链接.md",
     "硬件/调试",
     "bldc电机/硬件设计/驱动电路.md",
     "硬件/电路设计/设计步骤.md",
