@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/控制理论/简述.md",
+                "file": "硬件/基础知识/阻抗匹配.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/控制理论/简述.md",
+                "file": "硬件/基础知识/阻抗匹配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/控制理论/简述.md",
+                "file": "硬件/基础知识/阻抗匹配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/控制理论/简述.md"
+                "file": "硬件/基础知识/阻抗匹配.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
+    "bldc电机/控制理论/简述.md",
+    "硬件/基础知识/阻抗匹配.md",
     "bldc电机/控制理论/乾坤袋/5584a08ff58c27afbecc69143143f1d4.gif",
     "bldc电机/控制理论/乾坤袋",
     "硬件/调试/信条.md",
@@ -197,7 +199,6 @@
     "bldc电机/工程文件",
     "bldc电机/工程文件/编码器.md",
     "bldc电机/工程文件/参考.md",
-    "bldc电机/控制理论/简述.md",
     "C语言/技巧/宏定义.md",
     "社科/人类学通论/附录/世界语言的谱系及分布.md",
     "C语言/未命名.md",
@@ -205,7 +206,6 @@
     "bldc电机/乾坤袋/Pasted image 20240611110402.png",
     "说明书.md",
     "未命名.md",
-    "乾坤袋/Pasted image 20240423101916.png",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
