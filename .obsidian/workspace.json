@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/基础知识/电路噪声.md",
+                "file": "硬件/项目/stm32f1最小系统板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/基础知识/电路噪声.md",
+                "file": "硬件/项目/stm32f1最小系统板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件/基础知识/电路噪声.md",
+                "file": "硬件/项目/stm32f1最小系统板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/基础知识/电路噪声.md"
+                "file": "硬件/项目/stm32f1最小系统板.md"
               }
             }
           },
@@ -158,11 +158,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "63c2d9b19f429847",
   "lastOpenFiles": [
+    "硬件/基础知识/电路噪声.md",
+    "硬件/项目/stm32f1最小系统板.md",
     "硬件/项目",
     "硬件/基础知识/阻抗匹配.md",
-    "硬件/基础知识/电路噪声.md",
     "bldc电机/控制理论/简述.md",
     "bldc电机/控制理论/乾坤袋/5584a08ff58c27afbecc69143143f1d4.gif",
     "bldc电机/控制理论/乾坤袋",
@@ -198,7 +199,6 @@
     "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
     "bldc电机/乾坤袋/1718782002439.png",
     "bldc电机/乾坤袋/1718781908935.png",
-    "bldc电机/工程文件",
     "bldc电机/工程文件/编码器.md",
     "bldc电机/工程文件/参考.md",
     "C语言/技巧/宏定义.md",
