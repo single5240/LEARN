@@ -1,4 +1,7 @@
 ### 原理图
+
+#### 电源电路
+1. 
 #### 时钟设计
 1. Crystal/Ceramic Resonator
 ~~~
