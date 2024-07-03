@@ -14,8 +14,9 @@
 		{"id":"1acf5d15dcb875e6","type":"text","text":"发送“go”","x":-852,"y":-505,"width":120,"height":50},
 		{"id":"1b8be46fb2d2214a","type":"text","text":"确定包裹完全通过，保存包裹数据到包裹队列","x":-1000,"y":520,"width":250,"height":50},
 		{"id":"773aff13fa59900d","type":"text","text":"等待包裹完全通过光幕","x":-828,"y":-140,"width":192,"height":50},
-		{"id":"a6dabe86c36bfa67","type":"text","text":"发送包裹状态","x":-400,"y":-315,"width":160,"height":50},
-		{"id":"bb427074585f31ab","x":-400,"y":-220,"width":220,"height":80,"type":"text","text":"确定第三段传送带为空，然后第二、三段传送带运动，否则在此等待"}
+		{"id":"bb427074585f31ab","x":-400,"y":-195,"width":220,"height":80,"type":"text","text":"确定第三段传送带为空，然后第二、三段传送带运动，否则在此等待"},
+		{"id":"a6dabe86c36bfa67","type":"text","text":"发送包裹状态","x":-370,"y":-292,"width":160,"height":50},
+		{"id":"404332a774f897d1","x":-415,"y":-70,"width":250,"height":60,"type":"text","text":"等待包裹完全通过第二段传送带（通过计算）"}
 	],
 	"edges":[
 		{"id":"4e57f557cccc53f5","fromNode":"25e6d1e05f92b167","fromSide":"right","toNode":"9eaef21d730f46ee","toSide":"left"},
@@ -27,6 +28,8 @@
 		{"id":"1d7b410945721465","fromNode":"a6dabe86c36bfa67","fromSide":"left","toNode":"9eaef21d730f46ee","toSide":"right"},
 		{"id":"66e3a91683b09e98","fromNode":"1b8be46fb2d2214a","fromSide":"right","toNode":"773aff13fa59900d","toSide":"right"},
 		{"id":"59d5a37d09d5addd","fromNode":"9eaef21d730f46ee","fromSide":"bottom","toNode":"773aff13fa59900d","toSide":"top"},
-		{"id":"7070b5f389eb3564","fromNode":"773aff13fa59900d","fromSide":"right","toNode":"bb427074585f31ab","toSide":"left"}
+		{"id":"7070b5f389eb3564","fromNode":"773aff13fa59900d","fromSide":"right","toNode":"bb427074585f31ab","toSide":"left"},
+		{"id":"c21f72159ce02225","fromNode":"a6dabe86c36bfa67","fromSide":"bottom","toNode":"bb427074585f31ab","toSide":"top"},
+		{"id":"baf39e2a68e39ae6","fromNode":"bb427074585f31ab","fromSide":"bottom","toNode":"404332a774f897d1","toSide":"top"}
 	]
 }
