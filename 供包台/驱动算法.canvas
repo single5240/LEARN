@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"5864fb114f7a6db2","type":"group","x":-1100,"y":-340,"width":500,"height":380,"label":"确定包裹"},
 		{"id":"be808d43a486e5b1","type":"group","x":-1100,"y":140,"width":380,"height":500,"label":"光幕检测"},
-		{"id":"6342567ed3fd91b2","type":"group","x":-500,"y":140,"width":500,"height":340,"label":"环线"},
+		{"id":"6342567ed3fd91b2","type":"group","x":-417,"y":140,"width":337,"height":500,"label":"环线"},
 		{"id":"f816bab8ed150433","type":"group","x":100,"y":-340,"width":400,"height":380,"label":"准备上线"},
 		{"id":"58d4e8c258da9c0d","type":"group","x":-440,"y":-340,"width":380,"height":380,"label":"暂存包裹"},
 		{"id":"4747aaf3bf537765","type":"group","x":-1060,"y":-640,"width":360,"height":220,"label":"上位机"},
@@ -21,7 +21,7 @@
 		{"id":"ded608359878c4d0","x":140,"y":-292,"width":250,"height":60,"type":"text","text":"发送填空的环线小车的序号"},
 		{"id":"85c4f796ff7c55f3","x":-951,"y":-600,"width":143,"height":60,"type":"text","text":"接收小车序号"},
 		{"id":"5eedf14f01b49262","type":"text","text":"发送包裹状态","x":185,"y":-180,"width":160,"height":50},
-		{"id":"31b529487727f716","x":-397,"y":216,"width":250,"height":60,"type":"text","text":"就近4台"}
+		{"id":"31b529487727f716","x":-360,"y":160,"width":217,"height":50,"type":"text","text":"发送就近4台小车的状态"}
 	],
 	"edges":[
 		{"id":"4e57f557cccc53f5","fromNode":"25e6d1e05f92b167","fromSide":"right","toNode":"9eaef21d730f46ee","toSide":"left"},
@@ -41,6 +41,7 @@
 		{"id":"d4296ed90b012bbe","fromNode":"5eedf14f01b49262","fromSide":"left","toNode":"a6dabe86c36bfa67","toSide":"right"},
 		{"id":"cccfaf13ee708746","fromNode":"769fae2a47ad9495","fromSide":"right","toNode":"ded608359878c4d0","toSide":"right"},
 		{"id":"b80b3944c51ec5d2","fromNode":"ded608359878c4d0","fromSide":"top","toNode":"85c4f796ff7c55f3","toSide":"right"},
-		{"id":"2af40aa3cc172706","fromNode":"ded608359878c4d0","fromSide":"bottom","toNode":"5eedf14f01b49262","toSide":"top"}
+		{"id":"2af40aa3cc172706","fromNode":"ded608359878c4d0","fromSide":"bottom","toNode":"5eedf14f01b49262","toSide":"top"},
+		{"id":"9fd2b96fb946eace","fromNode":"31b529487727f716","fromSide":"right","toNode":"769fae2a47ad9495","toSide":"bottom"}
 	]
 }
