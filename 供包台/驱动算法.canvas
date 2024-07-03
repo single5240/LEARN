@@ -27,7 +27,7 @@
 		{"id":"934c0eadb6458f4b","type":"text","text":"处理光幕数据","x":-335,"y":60,"width":160,"height":50},
 		{"id":"31b529487727f716","type":"text","text":"发送就近4台小车的状态","x":243,"y":60,"width":217,"height":50},
 		{"id":"7af8b67614538372","type":"text","text":"小车组状态","x":275,"y":145,"width":154,"height":50},
-		{"id":"e6eeaf8cdda1ea48","x":284,"y":240,"width":136,"height":60,"type":"text","text":""}
+		{"id":"e6eeaf8cdda1ea48","x":284,"y":240,"width":136,"height":50,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"4e57f557cccc53f5","fromNode":"25e6d1e05f92b167","fromSide":"right","toNode":"9eaef21d730f46ee","toSide":"left"},
