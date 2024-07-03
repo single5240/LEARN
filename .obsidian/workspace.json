@@ -11,14 +11,9 @@
             "id": "63c2d9b19f429847",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "供包台/驱动算法.canvas",
-                "viewState": {
-                  "x": 411.1842432529038,
-                  "y": -69.65938437834687,
-                  "zoom": -0.3795465111106781
-                }
+                "file": "my看板.md"
               }
             }
           }
@@ -89,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/驱动算法.canvas",
+                "file": "my看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/驱动算法.canvas",
+                "file": "my看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/驱动算法.canvas"
+                "file": "my看板.md"
               }
             }
           },
@@ -162,8 +157,8 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
-    "硬件/基础知识/PCB.md",
     "供包台/驱动算法.canvas",
+    "硬件/基础知识/PCB.md",
     "供包台/未命名.md",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110914.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110343.png",
