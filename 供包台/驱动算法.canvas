@@ -18,7 +18,7 @@
 		{"id":"404332a774f897d1","type":"text","text":"等待包裹完全通过第二段传送带（通过计算）","x":-415,"y":-70,"width":250,"height":60},
 		{"id":"1b8be46fb2d2214a","type":"text","text":"确定包裹完全通过，保存包裹数据到包裹队列","x":-1020,"y":520,"width":250,"height":50},
 		{"id":"5eedf14f01b49262","type":"text","text":"发送包裹状态","x":160,"y":-292,"width":160,"height":50},
-		{"id":"769fae2a47ad9495","type":"text","text":"遍历环线的数据，找到环线空余，计算x时间后，","x":140,"y":-205,"width":250,"height":50}
+		{"id":"769fae2a47ad9495","type":"text","text":"遍历环线的数据，找到环线空余，计算x时间后，启动第三段传送带，速度与环线一样，位置刚好","x":140,"y":-205,"width":250,"height":90}
 	],
 	"edges":[
 		{"id":"4e57f557cccc53f5","fromNode":"25e6d1e05f92b167","fromSide":"right","toNode":"9eaef21d730f46ee","toSide":"left"},
