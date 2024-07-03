@@ -2,27 +2,28 @@
 	"nodes":[
 		{"id":"58d4e8c258da9c0d","type":"group","x":-440,"y":-340,"width":480,"height":500,"label":"暂存包裹"},
 		{"id":"5864fb114f7a6db2","type":"group","x":-1100,"y":-340,"width":500,"height":380,"label":"确定包裹"},
-		{"id":"be808d43a486e5b1","type":"group","x":-420,"y":-1030,"width":380,"height":500,"label":"光幕检测"},
+		{"id":"be808d43a486e5b1","type":"group","x":-390,"y":-980,"width":380,"height":500,"label":"光幕检测"},
+		{"id":"6342567ed3fd91b2","x":-1100,"y":260,"width":500,"height":360,"type":"group","label":"环线"},
 		{"id":"f816bab8ed150433","type":"group","x":880,"y":-340,"width":400,"height":380,"label":"准备上线"},
 		{"id":"4747aaf3bf537765","x":-1060,"y":-640,"width":360,"height":220,"type":"group","label":"上位机"},
-		{"id":"25e6d1e05f92b167","type":"text","text":"等待上位机发送“go”","x":-1060,"y":-300,"width":180,"height":50},
-		{"id":"1acf5d15dcb875e6","x":-850,"y":-480,"width":120,"height":50,"type":"text","text":"发送“go”"},
-		{"id":"74aed490c6960c47","x":-1030,"y":-480,"width":120,"height":50,"type":"text","text":"接收“G”"},
 		{"id":"ef71ce0b209b5bc2","x":-1060,"y":-140,"width":130,"height":60,"type":"text","text":"发送“G”"},
-		{"id":"9eaef21d730f46ee","type":"text","text":"确定第二段传送带为空，然后第一段传送带运动，否则等待","x":-825,"y":-315,"width":190,"height":80},
-		{"id":"773aff13fa59900d","type":"text","text":"确定包裹完全通过光幕，并计算包裹参数","x":-830,"y":-180,"width":200,"height":80},
-		{"id":"2bb48a4e20f15f1b","x":-795,"y":-40,"width":130,"height":50,"type":"text","text":"超时警报"},
-		{"id":"1b8be46fb2d2214a","x":-340,"y":-650,"width":250,"height":50,"type":"text","text":"确定包裹完全通过，保存包裹数据到包裹队列"},
-		{"id":"a6dabe86c36bfa67","x":-380,"y":-305,"width":250,"height":60,"type":"text","text":""}
+		{"id":"9eaef21d730f46ee","type":"text","text":"确定第二段传送带为空，然后第一段传送带运动，否则在此等待","x":-825,"y":-315,"width":185,"height":95},
+		{"id":"a6dabe86c36bfa67","x":-380,"y":-315,"width":200,"height":65,"type":"text","text":""},
+		{"id":"25e6d1e05f92b167","type":"text","text":"等待上位机发送“go”","x":-1060,"y":-292,"width":180,"height":50},
+		{"id":"773aff13fa59900d","type":"text","text":"确定包裹完全通过光幕，并计算包裹参数","x":-832,"y":-180,"width":200,"height":80},
+		{"id":"2bb48a4e20f15f1b","x":-797,"y":-40,"width":130,"height":50,"type":"text","text":"超时警报"},
+		{"id":"1b8be46fb2d2214a","x":-310,"y":-600,"width":250,"height":50,"type":"text","text":"确定包裹完全通过，保存包裹数据到包裹队列"},
+		{"id":"74aed490c6960c47","x":-1030,"y":-505,"width":120,"height":50,"type":"text","text":"接收“G”"},
+		{"id":"1acf5d15dcb875e6","x":-852,"y":-505,"width":120,"height":50,"type":"text","text":"发送“go”"}
 	],
 	"edges":[
 		{"id":"4e57f557cccc53f5","fromNode":"25e6d1e05f92b167","fromSide":"right","toNode":"9eaef21d730f46ee","toSide":"left"},
 		{"id":"2ef2fb4457218b6c","fromNode":"1acf5d15dcb875e6","fromSide":"bottom","toNode":"25e6d1e05f92b167","toSide":"top"},
-		{"id":"adb69c3aa3d89291","fromNode":"9eaef21d730f46ee","fromSide":"bottom","toNode":"773aff13fa59900d","toSide":"top"},
 		{"id":"66e3a91683b09e98","fromNode":"1b8be46fb2d2214a","fromSide":"left","toNode":"773aff13fa59900d","toSide":"right"},
 		{"id":"e814bc1cd25433c4","fromNode":"773aff13fa59900d","fromSide":"left","toNode":"25e6d1e05f92b167","toSide":"bottom"},
 		{"id":"9c62b1d14b6e3a91","fromNode":"773aff13fa59900d","fromSide":"left","toNode":"ef71ce0b209b5bc2","toSide":"right"},
-		{"id":"5a25af6ce938e87e","fromNode":"773aff13fa59900d","fromSide":"bottom","toNode":"2bb48a4e20f15f1b","toSide":"top"},
-		{"id":"6da0cf864b700adf","fromNode":"ef71ce0b209b5bc2","fromSide":"left","toNode":"74aed490c6960c47","toSide":"left"}
+		{"id":"6da0cf864b700adf","fromNode":"ef71ce0b209b5bc2","fromSide":"left","toNode":"74aed490c6960c47","toSide":"left"},
+		{"id":"aaaa5529bf30235a","fromNode":"9eaef21d730f46ee","fromSide":"bottom","toNode":"773aff13fa59900d","toSide":"top"},
+		{"id":"ff758c730252bb81","fromNode":"773aff13fa59900d","fromSide":"bottom","toNode":"2bb48a4e20f15f1b","toSide":"top"}
 	]
 }
