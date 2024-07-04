@@ -11,9 +11,14 @@
             "id": "63c2d9b19f429847",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "my看板.md"
+                "file": "供包台/驱动算法.canvas",
+                "viewState": {
+                  "x": 316.1314948195793,
+                  "y": -146.51528889050493,
+                  "zoom": -0.046213177777344794
+                }
               }
             }
           }
@@ -84,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my看板.md",
+                "file": "供包台/驱动算法.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my看板.md",
+                "file": "供包台/驱动算法.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my看板.md"
+                "file": "供包台/驱动算法.canvas"
               }
             }
           },
@@ -157,6 +162,7 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
+    "my看板.md",
     "供包台/驱动算法.canvas",
     "硬件/基础知识/PCB.md",
     "供包台/未命名.md",
