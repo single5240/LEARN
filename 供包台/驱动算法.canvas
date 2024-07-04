@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"5864fb114f7a6db2","type":"group","x":-500,"y":-360,"width":500,"height":380,"label":"确定包裹"},
-		{"id":"be808d43a486e5b1","type":"group","x":-420,"y":100,"width":340,"height":480,"label":"光幕检测"},
-		{"id":"6342567ed3fd91b2","type":"group","x":183,"y":100,"width":337,"height":480,"label":"环线"},
+		{"id":"be808d43a486e5b1","type":"group","x":-500,"y":200,"width":340,"height":480,"label":"光幕检测"},
+		{"id":"6342567ed3fd91b2","type":"group","x":182,"y":200,"width":337,"height":480,"label":"环线"},
 		{"id":"f816bab8ed150433","type":"group","x":700,"y":-360,"width":400,"height":380,"label":"准备上线"},
 		{"id":"58d4e8c258da9c0d","type":"group","x":161,"y":-360,"width":380,"height":380,"label":"暂存包裹"},
 		{"id":"4747aaf3bf537765","type":"group","x":-430,"y":-760,"width":360,"height":320,"label":"上位机"},
@@ -13,22 +13,23 @@
 		{"id":"25e6d1e05f92b167","type":"text","text":"等待上位机发送“go”","x":-460,"y":-312,"width":180,"height":50},
 		{"id":"ef71ce0b209b5bc2","type":"text","text":"发送“G”","x":-460,"y":-160,"width":130,"height":60},
 		{"id":"773aff13fa59900d","type":"text","text":"等待包裹完全通过光幕","x":-236,"y":-155,"width":208,"height":50},
+		{"id":"829cef28a58ac6e7","type":"text","text":"配置参数","x":-299,"y":-720,"width":99,"height":50},
 		{"id":"2bb48a4e20f15f1b","type":"text","text":"超时警报","x":-197,"y":-60,"width":130,"height":50},
-		{"id":"6fed9252bbe1d995","type":"text","text":"检测到有光幕有遮挡","x":-351,"y":225,"width":192,"height":50},
-		{"id":"0e764b948d5b7c56","type":"text","text":"光幕持续有遮挡，同时检测数据是否有抖动","x":-356,"y":300,"width":203,"height":56},
-		{"id":"d421604737e954cf","type":"text","text":"等待光幕从有遮挡到无遮挡","x":-365,"y":380,"width":220,"height":60},
-		{"id":"1b8be46fb2d2214a","type":"text","text":"确定包裹完全通过，保存包裹数据到包裹队列","x":-380,"y":480,"width":250,"height":60},
-		{"id":"934c0eadb6458f4b","type":"text","text":"处理光幕数据","x":-335,"y":140,"width":160,"height":50},
 		{"id":"404332a774f897d1","type":"text","text":"等待包裹完全通过第二段传送带（通过计算）","x":186,"y":-90,"width":250,"height":60},
 		{"id":"bb427074585f31ab","type":"text","text":"确定第三段传送带为空，然后第二、三段传送带运动，否则在此等待","x":201,"y":-215,"width":220,"height":80},
 		{"id":"a6dabe86c36bfa67","type":"text","text":"发送包裹状态","x":231,"y":-312,"width":160,"height":50},
 		{"id":"ded608359878c4d0","type":"text","text":"发送填空的环线小车的序号","x":740,"y":-312,"width":250,"height":60},
 		{"id":"769fae2a47ad9495","type":"text","text":"遍历环线的数据，找到环线空余，计算x时间后，启动第三段传送带，速度与环线一样，位置刚好到空余位置","x":740,"y":-110,"width":250,"height":100},
 		{"id":"5eedf14f01b49262","type":"text","text":"发送包裹状态","x":785,"y":-200,"width":160,"height":50},
-		{"id":"829cef28a58ac6e7","x":-299,"y":-720,"width":99,"height":50,"type":"text","text":"配置参数"},
-		{"id":"31b529487727f716","type":"text","text":"发送就近4台小车的状态","x":244,"y":140,"width":217,"height":50},
-		{"id":"7af8b67614538372","type":"text","text":"小车组状态","x":276,"y":225,"width":154,"height":50},
-		{"id":"e6eeaf8cdda1ea48","type":"text","text":"上位机在线标志","x":265,"y":306,"width":176,"height":50}
+		{"id":"1b8be46fb2d2214a","type":"text","text":"确定包裹完全通过，保存包裹数据到包裹队列","x":-460,"y":580,"width":250,"height":60},
+		{"id":"d421604737e954cf","type":"text","text":"等待光幕从有遮挡到无遮挡","x":-445,"y":480,"width":220,"height":60},
+		{"id":"0e764b948d5b7c56","type":"text","text":"光幕持续有遮挡，同时检测数据是否有抖动","x":-436,"y":400,"width":203,"height":56},
+		{"id":"6fed9252bbe1d995","type":"text","text":"检测到有光幕有遮挡","x":-431,"y":325,"width":192,"height":50},
+		{"id":"934c0eadb6458f4b","type":"text","text":"处理光幕数据","x":-415,"y":240,"width":160,"height":50},
+		{"id":"529367fbf5a48671","x":227,"y":510,"width":250,"height":60,"type":"text","text":""},
+		{"id":"31b529487727f716","type":"text","text":"发送就近4台小车的状态","x":243,"y":240,"width":217,"height":50},
+		{"id":"e6eeaf8cdda1ea48","type":"text","text":"上位机在线标志","x":264,"y":406,"width":176,"height":50},
+		{"id":"7af8b67614538372","type":"text","text":"小车组状态","x":275,"y":325,"width":154,"height":50}
 	],
 	"edges":[
 		{"id":"4e57f557cccc53f5","fromNode":"25e6d1e05f92b167","fromSide":"right","toNode":"9eaef21d730f46ee","toSide":"left"},
@@ -54,6 +55,9 @@
 		{"id":"021c1c56af6beee3","fromNode":"6fed9252bbe1d995","fromSide":"bottom","toNode":"0e764b948d5b7c56","toSide":"top"},
 		{"id":"a98d5352ed96a55a","fromNode":"0e764b948d5b7c56","fromSide":"bottom","toNode":"d421604737e954cf","toSide":"top"},
 		{"id":"967f1dcef3af252e","fromNode":"d421604737e954cf","fromSide":"bottom","toNode":"1b8be46fb2d2214a","toSide":"top"},
-		{"id":"922b1ce15b7f2c78","fromNode":"5eedf14f01b49262","fromSide":"left","toNode":"bb427074585f31ab","toSide":"right"}
+		{"id":"922b1ce15b7f2c78","fromNode":"5eedf14f01b49262","fromSide":"left","toNode":"bb427074585f31ab","toSide":"right"},
+		{"id":"b41ae16dc5e268c2","fromNode":"e6eeaf8cdda1ea48","fromSide":"left","toNode":"5864fb114f7a6db2","toSide":"bottom"},
+		{"id":"273862cad4d4750b","fromNode":"e6eeaf8cdda1ea48","fromSide":"right","toNode":"f816bab8ed150433","toSide":"bottom"},
+		{"id":"0be3cb7cb2cb23df","fromNode":"e6eeaf8cdda1ea48","fromSide":"left","toNode":"58d4e8c258da9c0d","toSide":"bottom"}
 	]
 }
