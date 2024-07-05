@@ -5,7 +5,7 @@
 		{"id":"6342567ed3fd91b2","type":"group","x":-58,"y":140,"width":337,"height":480,"label":"环线"},
 		{"id":"f816bab8ed150433","type":"group","x":460,"y":-420,"width":400,"height":380,"label":"准备上线"},
 		{"id":"58d4e8c258da9c0d","type":"group","x":-79,"y":-420,"width":379,"height":380,"label":"暂存包裹"},
-		{"id":"b0b38c43f1df4e10","type":"group","x":987,"y":377,"width":373,"height":363,"label":"tip"},
+		{"id":"b0b38c43f1df4e10","type":"group","x":520,"y":257,"width":373,"height":363,"label":"tip"},
 		{"id":"4747aaf3bf537765","type":"group","x":-670,"y":-820,"width":360,"height":320,"label":"上位机"},
 		{"id":"85c4f796ff7c55f3","type":"text","text":"接收小车序号","x":-561,"y":-680,"width":143,"height":60},
 		{"id":"74aed490c6960c47","type":"text","text":"接收“G”","x":-640,"y":-585,"width":120,"height":50},
@@ -31,7 +31,7 @@
 		{"id":"31b529487727f716","type":"text","text":"发送就近4台小车的状态","x":3,"y":180,"width":217,"height":50},
 		{"id":"e6eeaf8cdda1ea48","type":"text","text":"上位机在线标志","x":24,"y":346,"width":176,"height":50},
 		{"id":"7af8b67614538372","type":"text","text":"小车组状态","x":35,"y":265,"width":154,"height":50},
-		{"id":"92968e44ea884ed2","type":"text","text":"1. 增加加速和减速过程中的脉冲数计数，以此计算运输距离\n2. 测试实时计算pwm脉冲","x":1000,"y":396,"width":306,"height":258}
+		{"id":"92968e44ea884ed2","type":"text","text":"1. 增加加速和减速过程中的脉冲数计数，以此计算运输距离\n2. 测试实时计算pwm脉冲","x":533,"y":276,"width":306,"height":258}
 	],
 	"edges":[
 		{"id":"4e57f557cccc53f5","fromNode":"25e6d1e05f92b167","fromSide":"right","toNode":"9eaef21d730f46ee","toSide":"left"},
