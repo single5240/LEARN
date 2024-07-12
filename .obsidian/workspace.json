@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/调试/ARM架构异常中断处理.md",
+                "file": "C语言/调试/keil编译代码大小.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/调试/ARM架构异常中断处理.md",
+                "file": "C语言/调试/keil编译代码大小.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/调试/ARM架构异常中断处理.md",
+                "file": "C语言/调试/keil编译代码大小.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/调试/ARM架构异常中断处理.md"
+                "file": "C语言/调试/keil编译代码大小.md"
               }
             }
           },
@@ -160,11 +160,12 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
+    "C语言/调试/ARM架构异常中断处理.md",
+    "C语言/调试/keil编译代码大小.md",
     "C语言/调试/乾坤袋/Pasted image 20240712141040.png",
     "C语言/调试/乾坤袋/Pasted image 20240712141031.png",
     "C语言/调试/乾坤袋",
     "供包台/驱动算法.canvas",
-    "C语言/调试/ARM架构异常中断处理.md",
     "C语言/调试",
     "社科/其他资料/网站.md",
     "社科/其他资料/读书方法.md",
@@ -194,7 +195,6 @@
     "bldc电机/工程文件/周期函数.md",
     "bldc电机/工程文件/PWM.md",
     "bldc电机/工程文件/初始化.md",
-    "硬件/电路设计/乾坤袋/Pasted image 20240701094202.png",
     "硬件/电路设计/乾坤袋",
     "硬件/项目/stm32f1最小系统板.md",
     "硬件/项目/乾坤袋",
