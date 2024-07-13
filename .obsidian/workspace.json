@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/技巧/地址对齐.md",
+                "file": "供包台/上位机.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/技巧/地址对齐.md",
+                "file": "供包台/上位机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/技巧/地址对齐.md",
+                "file": "供包台/上位机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/技巧/地址对齐.md"
+                "file": "供包台/上位机.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
-    "供包台/上位机.md",
     "C语言/技巧/地址对齐.md",
+    "供包台/上位机.md",
     "供包台/驱动算法.canvas",
     "供包台/伺服器连接、配置.md",
     "网络/基础知识/数据在网络中的传输.md",
