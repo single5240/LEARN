@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/上位机.md",
+                "file": "C语言/调试/keil编译代码大小.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/上位机.md",
+                "file": "C语言/调试/keil编译代码大小.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/上位机.md",
+                "file": "C语言/调试/keil编译代码大小.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/上位机.md"
+                "file": "C语言/调试/keil编译代码大小.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "63c2d9b19f429847",
   "lastOpenFiles": [
     "C语言/技巧/地址对齐.md",
+    "C语言/技巧/宏定义.md",
     "供包台/上位机.md",
     "供包台/驱动算法.canvas",
     "供包台/伺服器连接、配置.md",
@@ -202,7 +203,6 @@
     "bldc电机/工程文件/PWM.md",
     "bldc电机/工程文件/初始化.md",
     "硬件/电路设计/乾坤袋",
-    "硬件/项目/stm32f1最小系统板.md",
     "硬件/项目/乾坤袋",
     "硬件/项目",
     "bldc电机/控制理论/乾坤袋",
