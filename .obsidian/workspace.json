@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d590d6031476a17d",
+        "id": "52c3aa483e2b0199",
         "type": "tabs",
         "children": [
           {
-            "id": "63c2d9b19f429847",
+            "id": "e57edb7e1fc2f593",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,13 +158,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "63c2d9b19f429847",
+  "active": "e57edb7e1fc2f593",
   "lastOpenFiles": [
+    "供包台/驱动算法.canvas",
+    "硬件/基础知识/硬件工程师炼成之路笔记-2024-03-09.pdf",
+    "C语言/技巧/switch case内部的变量定义问题.md",
+    "供包台/上位机.md",
     "C语言/调试/keil编译代码大小.md",
     "C语言/技巧/地址对齐.md",
     "C语言/技巧/宏定义.md",
-    "供包台/上位机.md",
-    "供包台/驱动算法.canvas",
     "供包台/伺服器连接、配置.md",
     "网络/基础知识/数据在网络中的传输.md",
     "网络/基础知识/乾坤袋/640.webp",
@@ -200,13 +202,10 @@
     "bldc电机/工程文件/参考.md",
     "bldc电机/工程文件/adc采样中断.md",
     "bldc电机/工程文件/周期函数.md",
-    "bldc电机/工程文件/PWM.md",
-    "bldc电机/工程文件/初始化.md",
     "硬件/电路设计/乾坤袋",
     "硬件/项目/乾坤袋",
     "硬件/项目",
     "bldc电机/控制理论/乾坤袋",
-    "硬件/调试",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
