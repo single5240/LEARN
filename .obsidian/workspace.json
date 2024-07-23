@@ -11,8 +11,13 @@
             "id": "d07b43b4d1cc95e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "QT/基础/信号重定向QSignalMapper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "QT/基础/信号重定向QSignalMapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "QT/基础/信号重定向QSignalMapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "QT/基础/信号重定向QSignalMapper.md"
+              }
             }
           },
           {
@@ -149,9 +158,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "d07b43b4d1cc95e5",
   "lastOpenFiles": [
-    "未命名",
+    "QT/基础/信号重定向QSignalMapper.md",
+    "QT/基础",
+    "QT",
     "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
     "bldc电机/测试.md",
     "bldc电机/工程文件/adc采样中断.md",
@@ -196,8 +207,6 @@
     "bldc电机/控制理论/乾坤袋/5584a08ff58c27afbecc69143143f1d4.gif",
     "硬件/电路设计/乾坤袋",
     "硬件/项目/乾坤袋",
-    "硬件/项目",
-    "bldc电机/控制理论/乾坤袋",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
