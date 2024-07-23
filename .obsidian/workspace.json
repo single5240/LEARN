@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52c3aa483e2b0199",
+        "id": "f26882b10a39d35c",
         "type": "tabs",
         "children": [
           {
-            "id": "ad96db1333252625",
+            "id": "d07b43b4d1cc95e5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +149,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ad96db1333252625",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
-    "bldc电机/测试.md",
+    "未命名",
     "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
+    "bldc电机/测试.md",
     "bldc电机/工程文件/adc采样中断.md",
     "bldc电机/工程文件/PWM.md",
     "bldc电机/工程文件/硬件.md",
