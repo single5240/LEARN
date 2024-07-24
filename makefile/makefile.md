@@ -17,5 +17,48 @@ TAB 命令
 ### 注释
 `# 注释`
 
+### 变量
+#### 系统常量（可用make -p 查看）
+~~~
+AS： 汇编程序的名称，默认为 as；  
+CC： C编译期名称，默认为 cc；  
+CPP： C预编译期名称，默认为 cc -E；  
+CXX： C++编译器名称，默认为 g++；  
+RM： 文件删除程序别名，默认为 rm -f；
+~~~
+#### 自定义变量
+定义：变量名=变量值  
+使用：$(变量名)， ${变量值}
+~~~
+OBJ=add.o sub.o multi.o calc.o
+TARGET=calc
 
+$(TARGET):$(OBJ)
+	gcc $(OBJ) -o $(TARGET)
+
+add.o:add.cpp
+	gcc -c add.cpp -o add.o
+
+sub.o:sub.cpp
+	gcc -c sub.cpp -o sub.o
+
+multi.o:multi.cpp
+	gcc -c multi.cpp -o multi.o
+
+calc.o:calc.cpp
+	gcc -c calc.cpp -o calc.o
+
+clean:
+	rm -rf *.o calc
+~~~
+#### 系统变量
+~~~
+$*：不包括扩展名的目标文件名称；
+$+：所以的依赖文件，以空格分隔；
+$<：表示规则中的第一个条件；
+$?：所有时间戳比目标文件晚的依赖文件，以空格分隔；
+$@：目标文件的完整名称；
+$^：所有不重复的依赖文件，以空格分隔；
+$%：如果目标是归档成员，则该变量表示目标的归档成员名称；
+~~~
 
