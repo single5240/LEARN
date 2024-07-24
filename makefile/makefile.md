@@ -88,6 +88,7 @@ clean:
 #### 伪目标
 
 #### 模式匹配
-1. `%.o:%.cpp`： .o依赖于对应的.cpp，也就是说`add.o:add.cpp`，都是add，就可以使用`%.o:%.cpp`。**也就是目标和依赖相同部分，可以用%来通配。** `%`就是通配符。
-2. `wildcard`：``；
-3. `patsubst`：`$ (patsubst %.cpp,%.o,./*.cpp)将当前目录下的对应的cpp文件名替换成.o文件名`；
+1. `%.o:%.cpp`： `.o依赖于对应的.cpp，也就是说`add.o:add.cpp`，都是add，就可以使用`%.o:%.cpp`。**也就是目标和依赖相同部分，可以用%来通配。** `%`就是通配符`
+2. `wildcard`：`$ (wildcard ./* .cpp)获取当前目录下所有的.cpp文件`
+3. `patsubst`：`$ (patsubst %.cpp,%.o,./*.cpp)将当前目录下的对应的cpp文件名替换成.o文件名`
+
