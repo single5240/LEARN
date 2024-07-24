@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] esp32 测试并更新版本
 
 
 ## doing
@@ -23,6 +22,7 @@ kanban-plugin: basic
 
 ## 归档
 
+- [x] esp32 测试并更新版本
 - [x] 毕设论文
 - [x] 读完厌女
 - [x] 按键和led功能实现

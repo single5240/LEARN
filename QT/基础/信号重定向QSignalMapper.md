@@ -1,5 +1,4 @@
 - [【Qt开发教程】信号重定向QSignalMapper类详解及实战应用-CSDN博客](https://alextechvision.blog.csdn.net/article/details/140577357)
-#### 
 #### 实例
 ~~~c++
 #include "mainwindow.h"
