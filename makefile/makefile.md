@@ -61,4 +61,27 @@ $@：目标文件的完整名称；
 $^：所有不重复的依赖文件，以空格分隔；
 $%：如果目标是归档成员，则该变量表示目标的归档成员名称；
 ~~~
+#### 优化
+1. 
+~~~
+OBJ=add.o sub.o multi.o calc.o
+TARGET=calc
 
+$(TARGET):$(OBJ)
+	$(CXX) $^ -o $@
+	
+add.o:add.cpp
+	$(CXX) -c $^ -o $@
+
+sub.o:sub.cpp
+	$(CXX) -c $^ -o $@
+
+multi.o:multi.cpp
+	$(CXX) -c $^ -o $@
+
+calc.o:calc.cpp
+	$(CXX) -c $^ -o $@
+
+clean:
+	$(RM) *.o $(TARGET)
+~~~
