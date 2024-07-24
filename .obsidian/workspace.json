@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f26882b10a39d35c",
+        "id": "af3cb23402c2649a",
         "type": "tabs",
         "children": [
           {
-            "id": "d07b43b4d1cc95e5",
+            "id": "e39a7cb6fb4c0a56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QT/基础/信号重定向QSignalMapper.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QT/基础/信号重定向QSignalMapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QT/基础/信号重定向QSignalMapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "QT/基础/信号重定向QSignalMapper.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,7 +149,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d07b43b4d1cc95e5",
+  "active": "e39a7cb6fb4c0a56",
   "lastOpenFiles": [
     "QT/基础/信号重定向QSignalMapper.md",
     "QT/基础",
