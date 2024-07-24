@@ -62,7 +62,6 @@ $^：所有不重复的依赖文件，以空格分隔；
 $%：如果目标是归档成员，则该变量表示目标的归档成员名称；
 ~~~
 #### 优化
-1. 
 ~~~
 OBJ=add.o sub.o multi.o calc.o
 TARGET=calc
@@ -85,3 +84,10 @@ calc.o:calc.cpp
 clean:
 	$(RM) *.o $(TARGET)
 ~~~
+
+#### 伪目标
+
+#### 模式匹配
+1. `%.o:%.cpp`： .o依赖于对应的.cpp，也就是说`add.o:add.cpp`，都是add，就可以使用`%.o:%.cpp`。**也就是目标和依赖相同部分，可以用%来通配。** `%`就是通配符。
+2. `wildcard`：``；
+3. `patsubst`：`$ (patsubst %.cpp,%.o,./*.cpp)将当前目录下的对应的cpp文件名替换成.o文件名`；
