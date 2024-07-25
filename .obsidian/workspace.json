@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "边界/ARM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "边界/ARM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "边界/ARM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "边界/ARM.md"
               }
             }
           },
@@ -160,9 +160,11 @@
   },
   "active": "e39a7cb6fb4c0a56",
   "lastOpenFiles": [
+    "README.md",
+    "边界/ARM.md",
+    "边界",
     "my看板.md",
     "QT/基础/信号重定向QSignalMapper.md",
-    "README.md",
     "说明书.md",
     "未命名.md",
     "makefile/makefile.md",
@@ -202,11 +204,9 @@
     "社科/其他资料/中央民族大学课程/新中国的民族政策.md",
     "社科/其他资料/中央民族大学课程/文化的多样性、发展与社会公正.md",
     "社科/其他资料/中央民族大学课程/人类学的神话研究.md",
-    "社科/其他资料/中央民族大学课程/历史人类学浅论.md",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110914.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110343.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110301.jpg",
-    "硬件/电路设计/乾坤袋",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
