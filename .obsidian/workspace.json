@@ -11,8 +11,13 @@
             "id": "840106cee54f2e05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "freertos/外部链接.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "freertos/外部链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "freertos/外部链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "freertos/外部链接.md"
+              }
             }
           },
           {
@@ -149,8 +158,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "840106cee54f2e05",
   "lastOpenFiles": [
+    "freertos/外部链接.md",
     "freertos",
     "设计模式/链接.md",
     "设计模式/原型模式.md",
@@ -194,7 +204,6 @@
     "网络",
     "C语言/调试/乾坤袋/Pasted image 20240712141040.png",
     "C语言/调试/乾坤袋/Pasted image 20240712141031.png",
-    "C语言/调试/乾坤袋",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110914.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110343.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110301.jpg",
