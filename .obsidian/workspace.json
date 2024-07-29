@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/start.md",
+                "file": "C++/智能指针.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/start.md",
+                "file": "C++/智能指针.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/start.md",
+                "file": "C++/智能指针.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/start.md"
+                "file": "C++/智能指针.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "840106cee54f2e05",
   "lastOpenFiles": [
-    "freertos/外部链接.md",
     "Linux/start.md",
+    "C++/智能指针.md",
+    "C++",
+    "freertos/外部链接.md",
     "Linux",
     "freertos",
     "设计模式/链接.md",
@@ -197,11 +199,9 @@
     "bldc电机/工程文件/adc采样中断.md",
     "bldc电机/工程文件/PWM.md",
     "bldc电机/工程文件/硬件.md",
-    "bldc电机/工程文件/初始化.md",
     "硬件/基础知识/硬件工程师炼成之路笔记-2024-03-09.pdf",
     "网络/基础知识/乾坤袋/640.webp",
     "网络/基础知识/乾坤袋",
-    "网络/基础知识",
     "C语言/调试/乾坤袋/Pasted image 20240712141040.png",
     "C语言/调试/乾坤袋/Pasted image 20240712141031.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110914.png",
