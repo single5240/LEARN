@@ -1,0 +1,2 @@
+1. [如何在Linux上优雅地写代码-Linux生存指南 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzkxNDQzMTI5MQ==&mid=2247484070&idx=1&sn=ae1313a429b4a917b0e81caf6a5a3304&chksm=c16fcef2f61847e48f8d5e3a0e58b685de26a958f347247286bac56f1c132a58e834b85db1b2&cur_album_id=2708385091838541825&scene=190#rd)
+2. 

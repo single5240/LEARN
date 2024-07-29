@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "freertos/外部链接.md",
+                "file": "Linux/start.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "freertos/外部链接.md",
+                "file": "Linux/start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "freertos/外部链接.md",
+                "file": "Linux/start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "freertos/外部链接.md"
+                "file": "Linux/start.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   "active": "840106cee54f2e05",
   "lastOpenFiles": [
     "freertos/外部链接.md",
+    "Linux/start.md",
+    "Linux",
     "freertos",
     "设计模式/链接.md",
     "设计模式/原型模式.md",
@@ -196,12 +198,10 @@
     "bldc电机/工程文件/PWM.md",
     "bldc电机/工程文件/硬件.md",
     "bldc电机/工程文件/初始化.md",
-    "bldc电机/工程文件/周期函数.md",
     "硬件/基础知识/硬件工程师炼成之路笔记-2024-03-09.pdf",
     "网络/基础知识/乾坤袋/640.webp",
     "网络/基础知识/乾坤袋",
     "网络/基础知识",
-    "网络",
     "C语言/调试/乾坤袋/Pasted image 20240712141040.png",
     "C语言/调试/乾坤袋/Pasted image 20240712141031.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110914.png",
