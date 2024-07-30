@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "freertos/空闲任务的钩子函数.md",
+                "file": "freertos/外部链接.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "freertos/空闲任务的钩子函数.md",
+                "file": "freertos/外部链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "freertos/空闲任务的钩子函数.md",
+                "file": "freertos/外部链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "freertos/空闲任务的钩子函数.md"
+                "file": "freertos/外部链接.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "840106cee54f2e05",
   "lastOpenFiles": [
-    "C++/智能指针.md",
     "freertos/空闲任务的钩子函数.md",
+    "C++/智能指针.md",
     "边界/ARM.md",
     "freertos/外部链接.md",
     "freertos/任务调度.md",
