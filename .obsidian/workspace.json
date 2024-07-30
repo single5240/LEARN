@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "freertos/任务调度.md",
+                "file": "freertos/消息队列.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "freertos/任务调度.md",
+                "file": "freertos/消息队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "freertos/任务调度.md",
+                "file": "freertos/消息队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "freertos/任务调度.md"
+                "file": "freertos/消息队列.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "840106cee54f2e05",
   "lastOpenFiles": [
-    "freertos/外部链接.md",
     "freertos/任务调度.md",
+    "freertos/消息队列.md",
+    "freertos/外部链接.md",
     "bldc电机/工程文件/初始化.md",
     "bldc电机/工程文件/硬件.md",
     "bldc电机/工程文件/PWM.md",
@@ -190,7 +191,6 @@
     "README.md",
     "边界",
     "my看板.md",
-    "QT/基础/信号重定向QSignalMapper.md",
     "供包台/乾坤袋/1718789564040.png",
     "makefile",
     "供包台/乾坤袋/1718789564040 1.png",
