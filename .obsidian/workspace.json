@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/智能指针.md",
+                "file": "freertos/空闲任务的钩子函数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/智能指针.md",
+                "file": "freertos/空闲任务的钩子函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/智能指针.md",
+                "file": "freertos/空闲任务的钩子函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/智能指针.md"
+                "file": "freertos/空闲任务的钩子函数.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "840106cee54f2e05",
   "lastOpenFiles": [
+    "C++/智能指针.md",
+    "freertos/空闲任务的钩子函数.md",
     "边界/ARM.md",
     "freertos/外部链接.md",
     "freertos/任务调度.md",
@@ -173,7 +175,6 @@
     "bldc电机/工程文件/adc采样中断.md",
     "bldc电机/工程文件/参考.md",
     "bldc电机/工程文件/工程准备.md",
-    "C++/智能指针.md",
     "Linux/start.md",
     "C++",
     "Linux",
@@ -189,7 +190,6 @@
     "硬件/基础知识/运放.md",
     "硬件/电路设计/设计步骤.md",
     "硬件/电路设计/foc芯片.md",
-    "README.md",
     "边界",
     "供包台/乾坤袋/1718789564040.png",
     "makefile",
