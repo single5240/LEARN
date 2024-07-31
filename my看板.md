@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] 我当黑帮大佬的一天
 
 
 ## done
@@ -22,6 +21,7 @@ kanban-plugin: basic
 
 ## 归档
 
+- [x] 我当黑帮大佬的一天
 - [x] esp32 测试并更新版本
 - [x] 毕设论文
 - [x] 读完厌女
