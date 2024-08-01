@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bldc电机/外部链接.md",
+                "file": "边界/未初始化的全局变量和局部变量的初值.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bldc电机/外部链接.md",
+                "file": "边界/未初始化的全局变量和局部变量的初值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bldc电机/外部链接.md",
+                "file": "边界/未初始化的全局变量和局部变量的初值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bldc电机/外部链接.md"
+                "file": "边界/未初始化的全局变量和局部变量的初值.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "840106cee54f2e05",
   "lastOpenFiles": [
-    "freertos/空闲任务的钩子函数.md",
     "bldc电机/外部链接.md",
+    "边界/未初始化的全局变量和局部变量的初值.md",
+    "freertos/空闲任务的钩子函数.md",
     "freertos/事件组.md",
     "freertos/任务调度.md",
     "freertos/外部链接.md",
@@ -189,7 +190,6 @@
     "设计模式",
     "硬件/基础知识/阻抗匹配.md",
     "硬件/基础知识/学习链接.md",
-    "硬件/基础知识/电容.md",
     "边界",
     "供包台/乾坤袋/1718789564040.png",
     "makefile",
