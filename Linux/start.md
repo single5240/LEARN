@@ -1,2 +1,3 @@
 1. [如何在Linux上优雅地写代码-Linux生存指南 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzkxNDQzMTI5MQ==&mid=2247484070&idx=1&sn=ae1313a429b4a917b0e81caf6a5a3304&chksm=c16fcef2f61847e48f8d5e3a0e58b685de26a958f347247286bac56f1c132a58e834b85db1b2&cur_album_id=2708385091838541825&scene=190#rd)
-2. 
+2. [【超详细】韦东山：史上最全嵌入式Linux学习路线图_韦东山嵌入式-CSDN博客](https://blog.csdn.net/weixin_41213648/article/details/93382265?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-93382265-blog-136074851.235%5Ev43%5Epc_blog_bottom_relevance_base8&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-93382265-blog-136074851.235%5Ev43%5Epc_blog_bottom_relevance_base8&utm_relevant_index=2)
+3. 
