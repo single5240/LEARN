@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "本质",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "840106cee54f2e05",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
     "边界/乾坤袋/Pasted image 20240802151154.png",
     "边界/乾坤袋",
