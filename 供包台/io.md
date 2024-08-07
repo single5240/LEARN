@@ -108,4 +108,8 @@ if (isDeviceRunning == PNIO_TRUE)
         }
 ```
 ###### 与从机交换io数据
-1. 通过状态机函数执行
+1. 通过状态机函数执行，通过处理下面
+```c
+unsigned char *outdata;               // 输出数据缓存地址
+unsigned char *indata;              // 输入数据缓存地址
+```
