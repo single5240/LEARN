@@ -108,3 +108,4 @@ if (isDeviceRunning == PNIO_TRUE)
         }
 ```
 ###### 与从机交换io数据
+1. 通过状态机函数执行
