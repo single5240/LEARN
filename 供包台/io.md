@@ -107,3 +107,4 @@ if (isDeviceRunning == PNIO_TRUE)
 
         }
 ```
+###### 与从机交换io数据
