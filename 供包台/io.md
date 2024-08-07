@@ -31,3 +31,79 @@ if ((Get_device_pluged() > 0) &&
 
     }
 ```
+###### 每4s向从机请求错误信息
+```c
+if (Get_error_start && (Get_device_pluged() > 0))
+
+        {
+
+            /* 循环请求模块错误信息 */
+
+            cycle_slotcallerr++;
+
+            if (cycle_slotcallerr >= (Get_device_pluged() + SLAVE_SOLT_OFFSET))
+
+            {
+
+                cycle_slotcallerr = SLAVE_SOLT_OFFSET;
+
+                Get_error_start = 0;
+
+                Geterr_comm_time_used_store = Geterr_comm_time_used;
+
+            }
+
+            Api_PU_comm_data_creat(&PU_TX_buff, // 要填充的队列
+
+                                   U4_CMD_GET_ERR,
+
+                                   cycle_slotcallerr,
+
+                                   0 // 附加控制码 0x01=优先发送 ;0x03=FIFO 方式发送
+
+            );
+
+            PU_BUS_Send_data(&PU_TX_buff); // 点对点通讯
+
+                                           // todo 从模块异常处理
+
+            Geterr_comm_time_used += TIMER_PULOOP_CNT_READ;
+
+        }
+```
+###### 处理从机状态机
+```c
+if (isDeviceRunning == PNIO_TRUE)
+
+        {
+
+            /* 从模块高频通讯处理 // 周期通讯状态机  */
+
+            Cyc_comm_time_used_store = TIMER_PULOOP_CNT_READ;
+
+            TIMER_PULOOP_RESET;
+
+            Cyc_comm_time_used = TIMER_PULOOP_CNT_READ;
+
+            for (cycle_slotcall = SLAVE_SOLT_OFFSET; cycle_slotcall < (iobus_sulink.device_on_bus + SLAVE_SOLT_OFFSET); cycle_slotcall++) // MAX_SLOT_MODULES
+
+            {
+
+                run_fsm_action(&Slotlist[cycle_slotcall].fsm_h, &Slotlist[cycle_slotcall]); // 循环运行
+
+                if ((TIMER_PULOOP_CNT_READ - Cyc_comm_time_used) > 300)                     // 执行耗时限制, 超时则分割执行
+
+                {
+
+                    OS_WAIT_MS(1); // 任务调度
+
+                    Cyc_comm_time_used = TIMER_PULOOP_CNT_READ;
+
+                    // cycle_wait_flag = PNIO_TRUE;
+
+                }
+
+            }
+
+        }
+```
