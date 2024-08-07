@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/io.md",
+                "file": "边界/面对对象编程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/io.md",
+                "file": "边界/面对对象编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/io.md",
+                "file": "边界/面对对象编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/io.md"
+                "file": "边界/面对对象编程.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "840106cee54f2e05",
   "lastOpenFiles": [
-    "供包台/光幕.md",
     "供包台/io.md",
+    "边界/面对对象编程.md",
+    "供包台/光幕.md",
     "供包台/伺服器连接、配置.md",
     "供包台/驱动算法.canvas",
     "供包台/上位机.md",
@@ -191,7 +192,6 @@
     "C++",
     "Linux",
     "freertos",
-    "设计模式/链接.md",
     "设计模式",
     "边界",
     "供包台/乾坤袋/1718789564040.png",
