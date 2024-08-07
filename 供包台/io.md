@@ -113,3 +113,4 @@ if (isDeviceRunning == PNIO_TRUE)
 unsigned char *outdata;               // 输出数据缓存地址
 unsigned char *indata;              // 输入数据缓存地址
 ```
+2. 将需要交换的io数据存储在outdata和indata中
