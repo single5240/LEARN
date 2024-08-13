@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c91056a3058586a",
+        "id": "a22abeaa36c00e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "840106cee54f2e05",
+            "id": "f25f66003995f4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,15 +158,19 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "840106cee54f2e05",
+  "active": "f25f66003995f4c2",
   "lastOpenFiles": [
-    "供包台/io.md",
+    "信号/信号.md",
+    "社科/其他资料/文化人类学-王梅霞/亲属人类学.md",
+    "社科/其他资料/乡土中国/生育制度.md",
+    "社科/人类学通论/模板/分支模板.md",
+    "社科/人类学通论/模板/人物模板.md",
     "供包台/test.md",
+    "供包台/io.md",
     "社科/人类学通论/基础知识/第八章-认知与文化.md",
     "社科/人类学通论/基础知识/第三章-体质人类学.md",
     "社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
     "C++/智能指针.md",
-    "信号/信号.md",
     "边界/面对对象编程&模块化.md",
     "信号",
     "边界/goto.md",
@@ -186,10 +190,6 @@
     "freertos/外部链接.md",
     "社科/人类学通论/基础知识/第十章-田野工作.md",
     "my看板.md",
-    "边界/ARM.md",
-    "freertos/消息队列.md",
-    "bldc电机/工程文件/初始化.md",
-    "bldc电机/工程文件/硬件.md",
     "C++",
     "Linux",
     "freertos",
