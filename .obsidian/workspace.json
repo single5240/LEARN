@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/test.md",
+                "file": "供包台/硬件接口.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/test.md",
+                "file": "供包台/硬件接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/test.md",
+                "file": "供包台/硬件接口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/test.md"
+                "file": "供包台/硬件接口.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "8473ae869868bf25",
   "lastOpenFiles": [
+    "供包台/test.md",
+    "供包台/硬件接口.md",
     "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
     "社科/人类学通论/重要人物/泰勒.md",
     "社科/人类学通论/重要人物/萨林斯.md",
@@ -168,7 +170,6 @@
     "社科/人类学通论/重要人物/怀特.md",
     "社科/人类学通论/重要人物/哈维兰.md",
     "社科/人类学通论/重要人物/博厄斯.md",
-    "供包台/test.md",
     "信号/信号.md",
     "社科/其他资料/文化人类学-王梅霞/亲属人类学.md",
     "社科/其他资料/乡土中国/生育制度.md",
@@ -189,7 +190,6 @@
     "边界/程序的编译、链接过程分析.md",
     "边界/乾坤袋/Pasted image 20240802151154.png",
     "边界/乾坤袋",
-    "Linux/start.md",
     "C++",
     "Linux",
     "freertos",
