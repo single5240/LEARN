@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/test.md",
+                "file": "供包台/硬件接口.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/test.md",
+                "file": "供包台/硬件接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/test.md",
+                "file": "供包台/硬件接口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/test.md"
+                "file": "供包台/硬件接口.md"
               }
             }
           },
@@ -148,22 +148,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "publish:发布更改": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "8473ae869868bf25",
   "lastOpenFiles": [
+    "供包台/伺服器连接、配置.md",
+    "供包台/乾坤袋/Pasted image 20240819161742.png",
     "供包台/硬件接口.md",
+    "供包台/光幕.md",
+    "供包台/驱动算法.canvas",
+    "供包台/test.md",
     "信号/信号.md",
     "供包台/io.md",
-    "供包台/test.md",
     "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
     "社科/人类学通论/重要人物/泰勒.md",
     "社科/人类学通论/重要人物/萨林斯.md",
@@ -183,11 +187,7 @@
     "边界/面对对象编程&模块化.md",
     "信号",
     "边界/goto.md",
-    "供包台/光幕.md",
-    "供包台/伺服器连接、配置.md",
-    "供包台/驱动算法.canvas",
     "供包台/上位机.md",
-    "边界/程序的编译、链接过程分析.md",
     "边界/乾坤袋/Pasted image 20240802151154.png",
     "边界/乾坤袋",
     "C++",
@@ -206,7 +206,6 @@
     "C语言/调试/乾坤袋/Pasted image 20240712141040.png",
     "C语言/调试/乾坤袋/Pasted image 20240712141031.png",
     "硬件/基础知识/乾坤袋/Pasted image 20240703110914.png",
-    "硬件/基础知识/乾坤袋/Pasted image 20240703110343.png",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
