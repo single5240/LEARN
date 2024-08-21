@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/硬件接口.md",
+                "file": "供包台/串口.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/硬件接口.md",
+                "file": "供包台/串口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/硬件接口.md",
+                "file": "供包台/串口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/硬件接口.md"
+                "file": "供包台/串口.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "8473ae869868bf25",
   "lastOpenFiles": [
+    "供包台/硬件接口.md",
     "供包台/串口.md",
     "供包台/乾坤袋/Pasted image 20240820184635.png",
     "供包台/乾坤袋/Pasted image 20240820184615.png",
@@ -167,7 +168,6 @@
     "PN通信数据.md",
     "供包台/问题汇总.md",
     "边界/日志系统.md",
-    "供包台/硬件接口.md",
     "供包台/伺服器连接、配置.md",
     "供包台/乾坤袋/Pasted image 20240819161742.png",
     "供包台/光幕.md",
