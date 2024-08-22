@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/test记录/08.22.md",
+                "file": "供包台/test记录/08.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0fc75e844177bb13",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/test记录/08.22.md",
+                "file": "供包台/test记录/08.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/test记录/08.22.md",
+                "file": "供包台/test记录/08.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/test记录/08.22.md"
+                "file": "供包台/test记录/08.23.md"
               }
             }
           },
@@ -161,8 +160,9 @@
   },
   "active": "8473ae869868bf25",
   "lastOpenFiles": [
-    "供包台/重要参数.md",
     "供包台/test记录/08.22.md",
+    "供包台/test记录/08.23.md",
+    "供包台/重要参数.md",
     "供包台/test记录",
     "供包台/test.md",
     "供包台/串口.md",
@@ -191,7 +191,6 @@
     "社科/人类学通论/模板/分支模板.md",
     "社科/人类学通论/模板/人物模板.md",
     "社科/人类学通论/基础知识/第八章-认知与文化.md",
-    "社科/人类学通论/基础知识/第三章-体质人类学.md",
     "信号",
     "边界/乾坤袋/Pasted image 20240802151154.png",
     "边界/乾坤袋",
