@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/重要参数.md",
+                "file": "供包台/test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/重要参数.md",
+                "file": "供包台/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/重要参数.md",
+                "file": "供包台/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/重要参数.md"
+                "file": "供包台/test.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "8473ae869868bf25",
   "lastOpenFiles": [
-    "供包台/串口.md",
     "供包台/重要参数.md",
+    "供包台/串口.md",
     "供包台/硬件接口.md",
     "供包台/乾坤袋/Pasted image 20240820184635.png",
     "供包台/乾坤袋/Pasted image 20240820184615.png",
