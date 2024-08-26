@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/光幕.md",
+                "file": "供包台/传送带.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/光幕.md",
+                "file": "供包台/传送带.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/光幕.md",
+                "file": "供包台/传送带.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/光幕.md"
+                "file": "供包台/传送带.md"
               }
             }
           },
@@ -148,25 +148,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
     }
   },
   "active": "f6c52a664d17322f",
   "lastOpenFiles": [
+    "供包台/光幕.md",
+    "供包台/传送带.md",
     "供包台/问题与优化.md",
     "供包台/进度修正.md",
     "供包台/通信数据.md",
     "供包台/串口.md",
     "供包台/驱动算法.canvas",
     "供包台/硬件接口.md",
-    "供包台/光幕.md",
     "供包台/伺服器连接、配置.md",
     "供包台/上位机.md",
     "供包台/test.md",
