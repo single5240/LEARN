@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/进度修正.md",
+                "file": "供包台/修正.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/进度修正.md",
+                "file": "供包台/修正.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/进度修正.md",
+                "file": "供包台/修正.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/进度修正.md"
+                "file": "供包台/修正.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "f6c52a664d17322f",
   "lastOpenFiles": [
+    "供包台/乾坤袋/{F513DB06-C59A-43A5-870B-A479B09400F5}.png",
     "供包台/传送带.md",
-    "供包台/进度修正.md",
+    "供包台/修正.md",
     "供包台/问题与优化.md",
     "供包台/基础信息/串口.md",
     "供包台/基础信息/光幕.md",
