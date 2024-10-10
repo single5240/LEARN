@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/基础信息/通信数据.md",
+                "file": "供包台/环线.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/基础信息/通信数据.md",
+                "file": "供包台/环线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/基础信息/通信数据.md",
+                "file": "供包台/环线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "供包台/基础信息/通信数据.md"
+                "file": "供包台/环线.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "f6c52a664d17322f",
   "lastOpenFiles": [
-    "供包台/问题与优化.md",
     "供包台/基础信息/通信数据.md",
+    "供包台/环线.md",
+    "供包台/问题与优化.md",
     "供包台/基础信息/重要参数.md",
     "供包台/传送带.md",
     "供包台/test记录/09.20.md",
@@ -192,7 +193,6 @@
     "供包台/乾坤袋/Pasted image 20240819161742.png",
     "信号/信号.md",
     "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
-    "社科/人类学通论/重要人物/泰勒.md",
     "信号",
     "边界/乾坤袋/Pasted image 20240802151154.png",
     "边界/乾坤袋",
