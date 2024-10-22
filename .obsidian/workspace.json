@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "96a87e314ad12eb1",
+        "id": "7308f0dfebb286b8",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c52a664d17322f",
+            "id": "f9fb06930231044b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "供包台/test记录/10.22.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/test记录/10.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/test记录/10.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "供包台/test记录/10.22.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +149,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f6c52a664d17322f",
+  "active": "f9fb06930231044b",
   "lastOpenFiles": [
-    "供包台/基础信息/上位机.md",
+    "供包台/Untitled.canvas",
     "供包台/test记录/10.22.md",
+    "供包台/基础信息/上位机.md",
     "供包台/问题与优化.md",
     "供包台/传送带.md",
     "供包台/基础信息/通信数据.md",
@@ -192,7 +184,6 @@
     "边界/日志系统.md",
     "供包台/乾坤袋/Pasted image 20240819161742.png",
     "信号/信号.md",
-    "社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
     "信号",
     "边界/乾坤袋/Pasted image 20240802151154.png",
     "边界/乾坤袋",
