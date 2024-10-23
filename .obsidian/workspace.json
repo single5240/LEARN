@@ -11,8 +11,13 @@
             "id": "f9fb06930231044b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md"
+              }
             }
           },
           {
