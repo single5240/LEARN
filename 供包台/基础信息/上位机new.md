@@ -8,7 +8,9 @@
 	name:
 	addr:
 	type:
-	len:
+	value:
 	R/W:
 }
 ~~~
+
+###
