@@ -11,15 +11,17 @@
             "id": "ee6adb17cbd067a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "供包台/问题与优化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "供包台/Untitled.canvas",
+                "viewState": {
+                  "x": 123,
+                  "y": -29,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "问题与优化"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -178,14 +180,14 @@
   },
   "active": "ee6adb17cbd067a3",
   "lastOpenFiles": [
+    "供包台/传送带.md",
+    "供包台/问题与优化.md",
     "供包台/基础信息/上位机new.md",
     "供包台/基础信息/上位机.md",
-    "供包台/问题与优化.md",
     "C++/智能指针.md",
     "社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
     "供包台/Untitled.canvas",
     "供包台/test记录/10.22.md",
-    "供包台/传送带.md",
     "供包台/基础信息/通信数据.md",
     "供包台/环线.md",
     "供包台/基础信息/重要参数.md",
