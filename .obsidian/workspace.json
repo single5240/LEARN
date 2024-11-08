@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7308f0dfebb286b8",
+        "id": "25cc355a9200c208",
         "type": "tabs",
         "children": [
           {
-            "id": "c620d4f5f02dc7f2",
+            "id": "ea8aef7d3ea1a5b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bldc电机/工程文件/工程准备.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "工程准备"
+              "title": "New tab"
             }
           }
         ],
@@ -176,8 +171,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c620d4f5f02dc7f2",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
+    "网络/基础知识/乾坤袋/640.webp",
+    "bldc电机/工程文件/工程准备.md",
     "bldc电机/工程文件/初始化.md",
     "bldc电机/工程文件/参考.md",
     "bldc电机/工程文件/编码器.md",
@@ -203,8 +200,6 @@
     "供包台/基础信息/重要参数.md",
     "供包台/test记录/09.20.md",
     "供包台/基础信息/灯光.md",
-    "供包台/基础信息/串口.md",
-    "供包台/基础信息/硬件接口.md",
     "供包台/乾坤袋/{F513DB06-C59A-43A5-870B-A479B09400F5}.png",
     "供包台/基础信息",
     "供包台/基础信息/驱动算法.canvas",
@@ -225,7 +220,6 @@
     "供包台/乾坤袋/1718789564040 1.png",
     "供包台/乾坤袋/Pasted image 20240620182338.png",
     "bldc电机/乾坤袋/d1374b4d130308ab4fc165fe63e5d52.jpg",
-    "网络/基础知识/乾坤袋/640.webp",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
 }
