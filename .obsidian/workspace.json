@@ -11,10 +11,15 @@
             "id": "ea8aef7d3ea1a5b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "供包台/问题与优化.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "问题与优化"
             }
           }
         ],
