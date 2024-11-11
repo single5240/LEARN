@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"0c397a4d7e727806","type":"group","x":120,"y":-92,"width":290,"height":412,"label":"创建连接"},
+		{"id":"22010dda6cc3a179","type":"group","x":-1040,"y":-74,"width":290,"height":209,"label":"HAL"},
+		{"id":"079f491d7623ff24","type":"group","x":120,"y":-380,"width":290,"height":180,"label":"参数设置"},
+		{"id":"39314c020f8574a6","type":"text","text":"# 主线程\n串口通讯处理线程\n接收并解析AT指令","x":-340,"y":-71,"width":305,"height":166,"color":"4"},
+		{"id":"5705100812302733","type":"text","text":"AT+CIPRECONNINTV=1000\n设置重连时间","x":140,"y":-360,"width":250,"height":60},
+		{"id":"72d88ea42dd408c2","type":"text","text":"AT+CIPMUX=0\n设置为单连接","x":140,"y":-280,"width":250,"height":60},
+		{"id":"ef3423ae26f100e5","type":"text","text":"透传控制","x":-320,"y":580,"width":250,"height":50},
+		{"id":"66d94c86fd70be8b","type":"text","text":"# TODO\n测试\n1. ERTEC 200P PNv47的 TCP协议栈可以开多少个链接？\n2. 可否同时开服务器与客户端？","x":-660,"y":-440,"width":378,"height":301},
+		{"id":"db400dfb2f7d1758","type":"text","text":"","x":680,"y":-440,"width":250,"height":60},
+		{"id":"12e20621cae9889a","type":"text","text":"HAL 操作系统接口","x":-1020,"y":-54,"width":250,"height":60},
+		{"id":"67b985d2a88478a1","type":"text","text":"HAL  socket接口","x":-1020,"y":55,"width":250,"height":60},
+		{"id":"3a027c1b92fbe34b","type":"text","text":"AT+CIPSERVER=1,8010\n创建TCP服务器","x":140,"y":-72,"width":250,"height":60},
+		{"id":"258105925c169567","type":"text","text":"状态查询","x":140,"y":440,"width":250,"height":60},
+		{"id":"c5a02cd447572f9d","type":"text","text":"数据收发\nAT+CIPSEND=\n设置发送的数据量，","x":140,"y":580,"width":250,"height":100},
+		{"id":"a8a9f16c30ad7d51","type":"text","text":"缺少关闭线程的API, 似乎这eCos只有静态线程","x":140,"y":240,"width":250,"height":60,"color":"2"},
+		{"id":"f752cd9a036d6462","type":"text","text":"通讯线程管理器\n管理通讯线程的建立与删除","x":500,"y":-21,"width":180,"height":111},
+		{"id":"c5cd93657ee994be","type":"text","text":"副线程（动态线程）\n主线程创建，启用，停止，删除\n负责处理网络通讯","x":840,"y":-139,"width":250,"height":135,"color":"5"},
+		{"id":"0e1d9e602a79db45","type":"text","text":"副线程（动态线程）\n主线程创建，启用，停止，删除\n负责处理网络通讯","x":840,"y":47,"width":250,"height":135,"color":"5"},
+		{"id":"a6eb8282baffb0f1","type":"text","text":"AT+CIPSTART=\"TCP\",\"192.168.10.1\",8001\n创建TCP客户端并连接","x":140,"y":6,"width":250,"height":109},
+		{"id":"2484523156ade41d","x":-1320,"y":760,"width":800,"height":280,"type":"text","text":"### AT Command - 一种 AT 命令通信解析模块\n\nAT Command 是一种 AT 命令通信解析模块，支持裸机(at_chat)和OS版本(at)。适用于modem、WIFI模块、蓝牙通信。\n\n> 项目主页： [https://gitee.com/moluo-tech/AT-Command](https://gitee.com/moluo-tech/AT-Command)\n\n其中无OS版本使用链式队列及异步回调方式处理AT命令收发，支持URC处理、自定义命令发送与解析作业。\n\nOS版本使用前需要根据at_util.h规定的操作系统相关的接口进行移植，如提供信号量操作、任务延时等操作。"}
+	],
+	"edges":[
+		{"id":"349d4d83c57d39ba","fromNode":"39314c020f8574a6","fromSide":"right","toNode":"3a027c1b92fbe34b","toSide":"left"},
+		{"id":"9de8148c468dd3ae","fromNode":"39314c020f8574a6","fromSide":"right","toNode":"a6eb8282baffb0f1","toSide":"left"},
+		{"id":"e6fb751bde463ce0","fromNode":"39314c020f8574a6","fromSide":"top","toNode":"5705100812302733","toSide":"left"},
+		{"id":"899f8807d262d2b8","fromNode":"39314c020f8574a6","fromSide":"top","toNode":"72d88ea42dd408c2","toSide":"left"},
+		{"id":"4e9a6948cc5d43e1","fromNode":"0c397a4d7e727806","fromSide":"right","toNode":"f752cd9a036d6462","toSide":"left"},
+		{"id":"3ded48ba1917bfb2","fromNode":"f752cd9a036d6462","fromSide":"right","toNode":"c5cd93657ee994be","toSide":"left"},
+		{"id":"0632f01a98e3dc2d","fromNode":"f752cd9a036d6462","fromSide":"right","toNode":"0e1d9e602a79db45","toSide":"left"},
+		{"id":"3e1e90473344a473","fromNode":"258105925c169567","fromSide":"right","toNode":"f752cd9a036d6462","toSide":"bottom"},
+		{"id":"fcb191849c180137","fromNode":"39314c020f8574a6","fromSide":"bottom","toNode":"258105925c169567","toSide":"left"},
+		{"id":"9ceee9df1a55f215","fromNode":"39314c020f8574a6","fromSide":"bottom","toNode":"c5a02cd447572f9d","toSide":"left"},
+		{"id":"84a8aedf5fda4685","fromNode":"c5a02cd447572f9d","fromSide":"right","toNode":"0e1d9e602a79db45","toSide":"bottom"},
+		{"id":"1fb96a504a46d601","fromNode":"c5a02cd447572f9d","fromSide":"right","toNode":"c5cd93657ee994be","toSide":"bottom"},
+		{"id":"b2fcdcf85950665b","fromNode":"f752cd9a036d6462","fromSide":"bottom","toNode":"c5a02cd447572f9d","toSide":"right","fromEnd":"arrow","color":"5"},
+		{"id":"ece9ae2c2defc1e9","fromNode":"ef3423ae26f100e5","fromSide":"top","toNode":"39314c020f8574a6","toSide":"left"},
+		{"id":"f268667c0bb0edf8","fromNode":"c5a02cd447572f9d","fromSide":"bottom","toNode":"ef3423ae26f100e5","toSide":"bottom"},
+		{"id":"4ee38c069b9ded9d","fromNode":"22010dda6cc3a179","fromSide":"right","toNode":"39314c020f8574a6","toSide":"left"}
+	]
+}

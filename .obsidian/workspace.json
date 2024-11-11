@@ -11,14 +11,11 @@
             "id": "ea8aef7d3ea1a5b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "ERTEC_TCPIF_FSM转移表.excalidraw"
             }
           }
@@ -173,13 +170,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "ea8aef7d3ea1a5b9",
   "lastOpenFiles": [
-    "供包台/pn_tcp cmd.md",
+    "供包台/ERTEC_AT_应用流程图.canvas",
     "供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md",
+    "供包台/pn_tcp cmd.md",
     "供包台/问题与优化.md",
     "网络/基础知识/数据在网络中的传输.md",
     "网络/基础知识/乾坤袋/640.webp",
@@ -205,7 +204,6 @@
     "供包台/test记录/10.22.md",
     "供包台/基础信息/通信数据.md",
     "供包台/环线.md",
-    "供包台/基础信息/重要参数.md",
     "供包台/乾坤袋/{F513DB06-C59A-43A5-870B-A479B09400F5}.png",
     "供包台/基础信息",
     "供包台/基础信息/驱动算法.canvas",
