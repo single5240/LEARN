@@ -11,17 +11,12 @@
             "id": "ea8aef7d3ea1a5b9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "供包台/ERTEC_AT_应用流程图.canvas",
-                "viewState": {
-                  "x": 188.76041666666663,
-                  "y": 291.37044270833326,
-                  "zoom": -0.7873584541461026
-                }
+                "file": "供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "ERTEC_AT_应用流程图"
+              "icon": "excalidraw-icon",
+              "title": "ERTEC_TCPIF_FSM转移表.excalidraw"
             }
           }
         ],
@@ -181,8 +176,8 @@
   },
   "active": "ea8aef7d3ea1a5b9",
   "lastOpenFiles": [
-    "供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md",
     "供包台/ERTEC_AT_应用流程图.canvas",
+    "供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md",
     "供包台/at cmd.md",
     "供包台/乾坤袋/微信图片_20241111174145 1.png",
     "供包台/乾坤袋/微信图片_20241111174145.png",
