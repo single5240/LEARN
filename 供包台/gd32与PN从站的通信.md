@@ -7,6 +7,6 @@
 
 #### gd32通过TCP发给上位机（data_to_TCP）
 1. 帧头：`data_to_TCP[0] = 0xBB
-2. 数据长度：`data_to_TCP[1] = data_`
-3. 数据：`data_to_TCP[2] --- data_to_PLC[65]`
-4. crc校验：`data_to_TCP[66] = crc8`
+2. 数据长度：`data_to_TCP[1] = data_len`
+3. 数据：`data_to_TCP[2] --- data_to_PLC[1+len]`
+4. crc校验：`data_to_TCP[len+2] = crc8`
