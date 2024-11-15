@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/gd32与PN从站的通信.md",
+                "file": "供包台/pn_tcp cmd.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gd32与PN从站的通信"
+              "title": "pn_tcp cmd"
             }
           }
         ],
