@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/Untitled.md",
+                "file": "供包台/上位机与gd32Tcp通信.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "上位机与gd32Tcp通信"
             }
           }
         ],
@@ -173,14 +173,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "f5413685e17205d0",
   "lastOpenFiles": [
     "供包台/问题与优化.md",
-    "供包台/Untitled.md",
+    "供包台/上位机与gd32Tcp通信.md",
     "供包台/pn_tcp cmd.md",
     "供包台/at cmd.md",
     "供包台/gd32与PN从站的通信.md",
