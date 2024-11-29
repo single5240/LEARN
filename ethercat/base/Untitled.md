@@ -1,4 +1,4 @@
--c --cpu Cortex-M4.fp.sp -g -O2 --apcs=interwork --split_sections -I ../ -I ../Ethercat/Inc -I ../Ethercat/src -I ../User -I ../Libraries/STM32F4xx_StdPeriph_Driver/inc -I ../Libraries/CMSIS/Device/ST/STM32F4xx/Include --C99
+-c --cpu Cortex-M4.fp.sp -g -O2 --apcs=interwork --split_sections -I ../ -I ../Ethercat/Inc -I ../Ethercat/src -I ../User -I ./Libraries/STM32F4xx_StdPeriph_Driver/inc -I ./Libraries/CMSIS/Device/ST/STM32F4xx/Include --C99
 -I./RTE/_STM32F40_41xxx
 -IC:/Users/25576/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include
 -IC:/Users/25576/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.16.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include
