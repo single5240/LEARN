@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethercat/base/通信服务和 WKC.md",
+                "file": "ethercat/base/周期性过程数据通信.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通信服务和 WKC"
+              "title": "周期性过程数据通信"
             }
           }
         ],
@@ -179,8 +179,9 @@
   },
   "active": "822e3b56cb3d253b",
   "lastOpenFiles": [
-    "ethercat/base/网络寻址模式.md",
     "ethercat/base/通信服务和 WKC.md",
+    "ethercat/base/周期性过程数据通信.md",
+    "ethercat/base/网络寻址模式.md",
     "ethercat/base/乾坤袋/Pasted image 20241207143915.png",
     "ethercat/base/乾坤袋/Pasted image 20241207113742.png",
     "ethercat/base/乾坤袋/Pasted image 20241207111440.png",
@@ -216,7 +217,6 @@
     "ethercat",
     "供包台/上位机与gd32Tcp通信.md",
     "Untitled.md",
-    "供包台/问题与优化.md",
     "供包台/ERTEC_AT_应用流程图.canvas",
     "供包台/乾坤袋/微信图片_20241111174145 1.png",
     "供包台/乾坤袋/微信图片_20241111174145.png",
