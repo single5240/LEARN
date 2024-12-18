@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "供包台/参数设置上位机使用说明Version_0.0.1.md",
+                "file": "ethercat/base/esp核心板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "参数设置上位机使用说明Version_0.0.1"
+              "title": "esp核心板"
             }
           }
         ],
@@ -179,25 +179,25 @@
   },
   "active": "822e3b56cb3d253b",
   "lastOpenFiles": [
-    "供包台/传送带.md",
+    "ethercat/base/资料.md",
+    "ethercat/base/周期性过程数据通信.md",
+    "ethercat/base/通信服务和 WKC.md",
+    "ethercat/base/ethercat.md",
+    "ethercat/base/主站.md",
+    "ethercat/base/从站.md",
+    "ethercat/移植/移植.md",
+    "ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
+    "ethercat/base/网络寻址模式.md",
     "供包台/参数设置上位机使用说明Version_0.0.1.md",
+    "供包台/传送带.md",
     "ethercat/base/esp核心板.md",
     "ethercat/base/乾坤袋/Pasted image 20241216171750.png",
     "ethercat/base/乾坤袋/Pasted image 20241216171720.png",
-    "ethercat/base/从站.md",
-    "ethercat/base/主站.md",
-    "ethercat/移植/移植.md",
-    "ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "ethercat/移植/乾坤袋/Pasted image 20241210171717.png",
     "ethercat/移植/乾坤袋/Pasted image 20241210171628.png",
     "ethercat/移植/乾坤袋",
-    "ethercat/base/资料.md",
     "ethercat/移植",
     "ethercat/base/乾坤袋/Pasted image 20241209110715.png",
-    "ethercat/base/ethercat.md",
-    "ethercat/base/周期性过程数据通信.md",
-    "ethercat/base/通信服务和 WKC.md",
-    "ethercat/base/网络寻址模式.md",
     "ethercat/base/乾坤袋/Pasted image 20241207143915.png",
     "ethercat/base/乾坤袋/Pasted image 20241207113742.png",
     "ethercat/base/乾坤袋/Pasted image 20241207111440.png",
