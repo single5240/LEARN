@@ -180,6 +180,7 @@
   "active": "822e3b56cb3d253b",
   "lastOpenFiles": [
     "ethercat/base/资料.md",
+    "ethercat/base/esp核心板.md",
     "ethercat/base/周期性过程数据通信.md",
     "ethercat/base/通信服务和 WKC.md",
     "ethercat/base/ethercat.md",
@@ -190,7 +191,6 @@
     "ethercat/base/网络寻址模式.md",
     "供包台/参数设置上位机使用说明Version_0.0.1.md",
     "供包台/传送带.md",
-    "ethercat/base/esp核心板.md",
     "ethercat/base/乾坤袋/Pasted image 20241216171750.png",
     "ethercat/base/乾坤袋/Pasted image 20241216171720.png",
     "ethercat/移植/乾坤袋/Pasted image 20241210171717.png",
