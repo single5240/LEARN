@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "供包台/问题与优化.md",
+                "file": "ethercat/移植/移植.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 问题与优化"
+              "title": "Backlinks for 移植"
             }
           },
           {
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
-    "collapsed": true
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
