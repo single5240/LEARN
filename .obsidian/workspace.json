@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "移植"
             }
+          },
+          {
+            "id": "ec16415405e42f49",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ethercat/移植/乾坤袋/Pasted image 20241220093038.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241220093038"
+            }
           }
         ],
         "stacked": true
@@ -114,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "供包台/问题与优化.md",
+                "file": "ethercat/移植/移植.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 问题与优化"
+              "title": "Outgoing links from 移植"
             }
           },
           {
@@ -157,7 +169,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,6 +191,10 @@
   },
   "active": "822e3b56cb3d253b",
   "lastOpenFiles": [
+    "ethercat/移植/乾坤袋/Pasted image 20241220093038.png",
+    "ethercat/移植/移植.md",
+    "ethercat/移植/乾坤袋/Pasted image 20241220092827.png",
+    "ethercat/移植/乾坤袋/Pasted image 20241220092814.png",
     "ethercat/移植/乾坤袋/Pasted image 20241220092616.png",
     "ethercat/移植/乾坤袋/Pasted image 20241220092339.png",
     "ethercat/base/esp核心板.md",
@@ -187,7 +204,6 @@
     "ethercat/base/ethercat.md",
     "ethercat/base/主站.md",
     "ethercat/base/从站.md",
-    "ethercat/移植/移植.md",
     "ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "ethercat/base/网络寻址模式.md",
     "供包台/参数设置上位机使用说明Version_0.0.1.md",
@@ -199,10 +215,6 @@
     "ethercat/移植/乾坤袋",
     "ethercat/移植",
     "ethercat/base/乾坤袋/Pasted image 20241209110715.png",
-    "ethercat/base/乾坤袋/Pasted image 20241207143915.png",
-    "ethercat/base/乾坤袋/Pasted image 20241207113742.png",
-    "ethercat/base/乾坤袋/Pasted image 20241207111440.png",
-    "ethercat/base/乾坤袋/Pasted image 20241207110331.png",
     "codesys/doc.md",
     "C++/智能指针.md",
     "bldc电机/外部链接.md",
