@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "822e3b56cb3d253b",
+  "active": "665c4101a1482cea",
   "lastOpenFiles": [
     "ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "ethercat/base/从站.md",
