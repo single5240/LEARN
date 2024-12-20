@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "移植"
             }
-          },
-          {
-            "id": "ec16415405e42f49",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ethercat/移植/乾坤袋/Pasted image 20241220093038.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241220093038"
-            }
           }
         ],
         "stacked": true
@@ -174,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 485.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
