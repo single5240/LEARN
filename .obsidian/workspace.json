@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethercat/移植/移植.md",
+                "file": "边界/日志系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "移植"
+              "title": "日志系统"
             }
           }
         ],
@@ -179,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "665c4101a1482cea",
+  "active": "822e3b56cb3d253b",
   "lastOpenFiles": [
+    "ethercat/移植/移植.md",
     "ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "ethercat/base/从站.md",
     "ethercat/base/esp核心板.md",
@@ -190,7 +191,6 @@
     "ethercat/base/网络寻址模式.md",
     "ethercat/base/ethercat.md",
     "ethercat/base/主站.md",
-    "ethercat/移植/移植.md",
     "ethercat/移植/乾坤袋/Pasted image 20241220152057.jpg",
     "ethercat/移植/乾坤袋/Pasted image 20241220151933.png",
     "ethercat/移植/乾坤袋/Pasted image 20241220151807.png",
