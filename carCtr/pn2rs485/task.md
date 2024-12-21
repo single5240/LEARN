@@ -1,5 +1,5 @@
 ### `Init_SU_UARTcomm_App();`监控线程
-#### 
+
 ### `Init_PU_UARTcomm_App();`
 #### `PE1637_slot_flow_Loop();`
 - 串口发送控制循环，包含两个串口
