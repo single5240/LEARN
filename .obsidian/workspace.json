@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carCtr/pn2rs485/usr重要函数.md",
+                "file": "carCtr/pn2rs485/usr重要函数---OBJ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "usr重要函数"
+              "title": "usr重要函数---OBJ"
             }
           }
         ],
@@ -181,7 +181,7 @@
   "active": "822e3b56cb3d253b",
   "lastOpenFiles": [
     "carCtr/pn2rs485/task.md",
-    "carCtr/pn2rs485/usr重要函数.md",
+    "carCtr/pn2rs485/usr重要函数---OBJ.md",
     "carCtr/pn2rs485/pn重要参数.md",
     "carCtr/pn2rs485/pn重要函数.md",
     "边界/日志系统.md",
