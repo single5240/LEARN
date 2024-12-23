@@ -12,4 +12,5 @@
 - 非周期数据在`Solt0RecodParam_dispose`中调用，用以配置小车的参数
 
 ### `MID00B1_IO_PortCommIOData_upload`
-- 在
+- 在[[task#`PE1637_slot_flow_Loop();`]]中调用，更新`InData`数据，但是功能貌似与[[usr函数---OBJ#`MID00B1_IO_PortCommIOData`]]中部分重复
+
