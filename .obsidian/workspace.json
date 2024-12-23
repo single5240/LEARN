@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83e137f678b250ff",
+        "id": "0271b1c30da980d2",
         "type": "tabs",
         "children": [
           {
-            "id": "822e3b56cb3d253b",
+            "id": "9583f4596dcee17d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,9 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "822e3b56cb3d253b",
+  "active": "9583f4596dcee17d",
   "lastOpenFiles": [
     "carCtr/pn2rs485/usr函数---OBJ.md",
+    "C语言/技巧/ISR和DSR.md",
     "carCtr/pn2rs485/usr函数---APP.md",
     "carCtr/pn2rs485/task.md",
     "carCtr/pn2rs485/pn重要参数.md",
@@ -219,7 +220,6 @@
     "设计模式/单例模式.md",
     "设计模式/原型模式.md",
     "freertos/消息队列.md",
-    "freertos/外部链接.md",
     "codesys",
     "ethercat/base/乾坤袋",
     "Untitled",
