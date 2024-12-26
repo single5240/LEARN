@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "芯片资料/通用/定时器级联.md",
+                "file": "芯片资料/gd32f10x/定时器级联.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -180,8 +180,8 @@
   },
   "active": "9583f4596dcee17d",
   "lastOpenFiles": [
-    "芯片资料/gd32f10x/定时器级联.md",
     "芯片资料/通用/定时器级联.md",
+    "芯片资料/gd32f10x/定时器级联.md",
     "芯片资料/通用",
     "芯片资料/通用.md",
     "芯片资料/gd32f10x/乾坤袋/Pasted image 20241225161704.png",
