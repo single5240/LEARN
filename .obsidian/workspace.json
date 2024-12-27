@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newpro/硬件基础配置/串口.md",
+                "file": "单片机good/基础/定时器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "串口"
+              "title": "定时器"
             }
           }
         ],
@@ -174,13 +174,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9583f4596dcee17d",
   "lastOpenFiles": [
-    "芯片资料/gd32f10x/定时器级联.md",
     "newpro/硬件基础配置/串口.md",
+    "单片机good/基础/定时器.md",
+    "单片机good/基础",
+    "单片机good",
+    "芯片资料/gd32f10x/定时器级联.md",
     "newpro/硬件基础配置",
     "newpro",
     "芯片资料/通用/定时器级联.md",
@@ -215,7 +219,6 @@
     "ethercat/base/周期性过程数据通信.md",
     "ethercat/base/通信服务和 WKC.md",
     "ethercat/base/网络寻址模式.md",
-    "ethercat/base/ethercat.md",
     "ethercat/移植/乾坤袋/Pasted image 20241220152057.jpg",
     "ethercat/移植/乾坤袋/Pasted image 20241220151933.png",
     "ethercat/移植/乾坤袋/Pasted image 20241220151807.png",
@@ -223,8 +226,6 @@
     "ethercat/移植/乾坤袋/Pasted image 20241220151043.png",
     "ethercat/移植/乾坤袋/Pasted image 20241220093038.png",
     "ethercat/移植/乾坤袋/Pasted image 20241220092827.png",
-    "ethercat/移植/乾坤袋",
-    "ethercat/移植",
     "供包台/ERTEC_AT_应用流程图.canvas",
     "供包台/Untitled.canvas",
     "供包台/基础信息/驱动算法.canvas",
