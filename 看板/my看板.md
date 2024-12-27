@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## todo
 
+- [ ] [[定时器级联测试]]
 
 
 ## doing
@@ -14,10 +15,7 @@ kanban-plugin: basic
 
 ## done
 
-**完成**
 
-
-***
 
 ## 归档
 
@@ -39,6 +37,9 @@ kanban-plugin: basic
 - [x] 参数设置
 - [x] 串口屏驱动
 - [x] 毕业生登记表
+
+
+
 
 %% kanban:settings
 ```
