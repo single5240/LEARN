@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newpro/测试/pwm.md",
+                "file": "newpro/硬件基础配置/定时器PWM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pwm"
+              "title": "定时器PWM"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "9583f4596dcee17d",
   "lastOpenFiles": [
-    "newpro/硬件基础配置/定时器PWM.md",
     "newpro/测试/pwm.md",
+    "newpro/硬件基础配置/定时器PWM.md",
     "newpro/测试",
     "newpro/Untitled.md",
     "newpro/硬件基础配置/串口.md",
