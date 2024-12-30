@@ -24,6 +24,27 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "66542ce3e105c040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4739906a183a85d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "芯片资料/gd32f10x/定时器级联.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "定时器级联"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +200,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9583f4596dcee17d",
+  "active": "4739906a183a85d9",
   "lastOpenFiles": [
     "单片机good/基础/定时器.md",
     "看板/my看板.md",
