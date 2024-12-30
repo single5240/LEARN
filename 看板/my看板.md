@@ -17,7 +17,9 @@ kanban-plugin: basic
 
 
 
-## 归档
+***
+
+## Archive
 
 - [x] 我当黑帮大佬的一天
 - [x] esp32 测试并更新版本
@@ -37,9 +39,6 @@ kanban-plugin: basic
 - [x] 参数设置
 - [x] 串口屏驱动
 - [x] 毕业生登记表
-
-
-
 
 %% kanban:settings
 ```
