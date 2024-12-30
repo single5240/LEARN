@@ -11,12 +11,15 @@
             "id": "9583f4596dcee17d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "看板/my看板.md"
+                "file": "单片机good/基础/定时器.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "my看板"
+              "icon": "lucide-file",
+              "title": "定时器"
             }
           }
         ],
@@ -177,11 +180,11 @@
   },
   "active": "9583f4596dcee17d",
   "lastOpenFiles": [
+    "看板/my看板.md",
     "定时器级联测试.md",
     "芯片资料/gd32f10x/定时器级联.md",
     "芯片资料/通用/定时器级联.md",
     "newpro/硬件基础配置/定时器PWM.md",
-    "看板/my看板.md",
     "Untitled.md",
     "PN通信数据.md",
     "看板",
