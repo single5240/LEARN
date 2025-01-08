@@ -195,9 +195,10 @@
   },
   "active": "8ed7a4b0e2bb6b6c",
   "lastOpenFiles": [
+    "codesys/doc.md",
+    "newpro/硬件基础配置/硬件.md",
     "芯片资料/gd32f10x/定时器级联.md",
     "newpro/硬件基础配置/定时器PWM.md",
-    "newpro/硬件基础配置/硬件.md",
     "newpro/项目-摆轮控制器.md",
     "芯片资料/gd32f10x/EXTI触发源.md",
     "芯片资料/gd32f10x/乾坤袋/Pasted image 20250108112642.png",
