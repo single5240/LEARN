@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newpro/硬件基础配置/硬件.md",
+                "file": "通信协议/PN协议/启动流程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "硬件"
+              "title": "启动流程"
             }
           }
         ],
@@ -195,16 +195,16 @@
   },
   "active": "8ed7a4b0e2bb6b6c",
   "lastOpenFiles": [
-    "codesys/doc.md",
+    "通信协议/PN协议/重要文件.md",
+    "通信协议/PN协议/启动流程.md",
     "newpro/硬件基础配置/硬件.md",
+    "codesys/doc.md",
     "芯片资料/gd32f10x/定时器级联.md",
     "newpro/硬件基础配置/定时器PWM.md",
     "newpro/项目-摆轮控制器.md",
     "芯片资料/gd32f10x/EXTI触发源.md",
     "芯片资料/gd32f10x/乾坤袋/Pasted image 20250108112642.png",
     "newpro/硬件基础配置/串口.md",
-    "通信协议/PN协议/重要文件.md",
-    "通信协议/PN协议/启动流程.md",
     "通信协议/PN协议/乾坤袋/Pasted image 20250108101159.png",
     "通信协议/PN协议/乾坤袋",
     "通信协议/MODBUS RTC/学习.md",
