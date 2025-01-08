@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通信协议/PN协议/重要文件.md",
+                "file": "芯片资料/gd32f10x/定时器级联.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重要文件"
+              "title": "定时器级联"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "9583f4596dcee17d",
   "lastOpenFiles": [
-    "通信协议/PN协议/启动流程.md",
     "通信协议/PN协议/重要文件.md",
+    "通信协议/PN协议/启动流程.md",
     "通信协议/PN协议/乾坤袋/Pasted image 20250108101159.png",
     "通信协议/PN协议/乾坤袋",
     "通信协议/MODBUS RTC/学习.md",
