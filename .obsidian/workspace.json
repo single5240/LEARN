@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carCtr/pn2rs485/task.md",
+                "file": "通信协议/PN协议/task.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -195,10 +195,12 @@
   },
   "active": "8ed7a4b0e2bb6b6c",
   "lastOpenFiles": [
+    "carCtr/pn2rs485/task.md",
+    "通信协议/PN协议/task.md",
+    "carCtr/pn2rs485/Untitled.md",
     "carCtr/pn2rs485/pn函数.md",
     "carCtr/pn2rs485/参数.md",
     "carCtr/pn2rs485/usr函数---OBJ.md",
-    "carCtr/pn2rs485/task.md",
     "通信协议/PN协议/周期数据.md",
     "通信协议/PN协议/非周期数据.md",
     "通信协议/PN协议/乾坤袋/Pasted image 20250108174820.png",
@@ -233,8 +235,6 @@
     "PN通信数据.md",
     "看板",
     "C语言/调试/keil编译代码大小.md",
-    "C语言/调试/ARM架构异常中断处理.md",
-    "ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "newpro/测试",
     "单片机good/基础",
     "单片机good",
