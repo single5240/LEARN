@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通信协议/PN协议/task.md",
+                "file": "通信协议/PN协议/非周期数据.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "task"
+              "title": "非周期数据"
             }
           }
         ],
@@ -195,9 +195,9 @@
   },
   "active": "8ed7a4b0e2bb6b6c",
   "lastOpenFiles": [
+    "通信协议/PN协议/task.md",
     "通信协议/PN协议/devkit v5.1.md",
     "通信协议/PN协议/乾坤袋/Pasted image 20250109170902.png",
-    "通信协议/PN协议/task.md",
     "carCtr/pn2rs485/task.md",
     "carCtr/pn2rs485/Untitled.md",
     "carCtr/pn2rs485/pn函数.md",
