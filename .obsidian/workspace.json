@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/carCtr/惑/无法修改博图监控表.md",
+                "file": "项目/carCtr/plc_to_ctr通信格式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无法修改博图监控表"
+              "title": "plc_to_ctr通信格式"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "7c4b44bd9d122102",
   "lastOpenFiles": [
-    "项目/newpro/Untitled.md",
     "项目/carCtr/惑/无法修改博图监控表.md",
+    "项目/carCtr/plc_to_ctr通信格式.md",
+    "项目/newpro/Untitled.md",
     "项目/carCtr/惑",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108101159.png",
     "基础知识/通信协议/PN协议/启动流程.md",
@@ -212,7 +213,6 @@
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108174820.png",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108174807.png",
     "项目/newpro/硬件基础配置/硬件.md",
-    "基础知识/codesys/doc.md",
     "基础知识/芯片资料/gd32f10x/乾坤袋/Pasted image 20250108112642.png",
     "基础知识/通信协议/PN协议/乾坤袋",
     "基础知识/通信协议/PN协议",
