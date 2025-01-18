@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"10e70a2618ce2712","x":-700,"y":-440,"width":250,"height":60,"type":"text","text":"PLC"},
+		{"id":"f7b3552e7defe6e0","x":160,"y":-440,"width":250,"height":60,"type":"text","text":"CTR"},
+		{"id":"b4a73eeb27981f51","x":-420,"y":-300,"width":250,"height":60,"type":"text","text":"数据"}
+	],
+	"edges":[
+		{"id":"c8a38d3a418d5e6b","fromNode":"10e70a2618ce2712","fromSide":"bottom","toNode":"b4a73eeb27981f51","toSide":"left"},
+		{"id":"a141999fe991774e","fromNode":"b4a73eeb27981f51","fromSide":"right","toNode":"f7b3552e7defe6e0","toSide":"left"}
+	]
+}
