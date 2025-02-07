@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cecb9d373cb0f902",
+        "id": "cb380085e879fb17",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4b44bd9d122102",
+            "id": "911b3802c005e74f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "项目/carCtr/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 468.6906305608927,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "项目/carCtr/plc_to_ctr通信格式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "plc_to_ctr通信格式"
             }
           }
         ]
@@ -179,15 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c4b44bd9d122102",
+  "active": "911b3802c005e74f",
   "lastOpenFiles": [
-    "基础知识/通信协议/PN协议/概念.md",
-    "项目/carCtr/Untitled.canvas",
     "基础知识/通信协议/PN协议/启动流程.md",
-    "基础知识/通信协议/PN协议/devkit v5.1.md",
     "基础知识/通信协议/PN协议/重要文件.md",
     "基础知识/通信协议/PN协议/周期数据.md",
     "基础知识/通信协议/PN协议/非周期数据.md",
+    "基础知识/通信协议/PN协议/概念.md",
+    "基础知识/通信协议/PN协议/devkit v5.1.md",
+    "基础知识/通信协议/PN协议/task.md",
+    "项目/carCtr/Untitled.canvas",
     "项目/carCtr/plc_to_ctr通信格式.md",
     "项目/carCtr/惑/无法修改博图监控表.md",
     "项目/newpro/Untitled.md",
@@ -210,7 +209,6 @@
     "基础知识/信号/信号.md",
     "项目",
     "基础知识",
-    "基础知识/通信协议/PN协议/task.md",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250109170902.png",
     "carCtr/pn2rs485/Untitled.md",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108174820.png",
