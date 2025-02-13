@@ -208,8 +208,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "1f2c2f6abfd8d7bd",
