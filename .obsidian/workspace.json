@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/芯片资料/gd32f10x/定时器级联.md",
+                "file": "基础知识/硬件/PCB/外.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "定时器级联"
+              "title": "外"
             }
           }
         ],
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,6 +214,10 @@
   },
   "active": "9ea64d974064c6db",
   "lastOpenFiles": [
+    "基础知识/芯片资料/gd32f10x/定时器级联.md",
+    "基础知识/硬件/PCB/外.md",
+    "基础知识/硬件/PCB",
+    "基础知识/硬件/Untitled.md",
     "Untitled/吴树鸿24-12-02.md",
     "定时器级联测试.md",
     "README.md",
@@ -241,10 +244,7 @@
     "项目/carCtr/pn2rs485/task.md",
     "项目/供包台/基础信息/调试接线.md",
     "项目/供包台/基础信息/上位机new.md",
-    "项目/供包台/基础信息/灯光.md",
-    "项目/供包台/基础信息/通信数据.md",
     "项目/供包台/基础信息/驱动算法.canvas",
-    "项目/供包台/基础信息/硬件接口.md",
     "项目",
     "基础知识",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250109170902.png",
@@ -261,7 +261,6 @@
     "项目/newpro/测试/乾坤袋/shot.png",
     "项目/newpro/测试/乾坤袋",
     "看板",
-    "项目/newpro/测试",
     "基础知识/芯片资料/gd32f10x/乾坤袋/Pasted image 20241225161704.png",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
     "供包台/Untitled.canvas",
