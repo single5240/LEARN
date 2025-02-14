@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/硬件/PCB/外.md",
+                "file": "基础知识/通信协议/MODBUS RTC/学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "外"
+              "title": "学习"
             }
           }
         ],
@@ -214,8 +214,8 @@
   },
   "active": "9ea64d974064c6db",
   "lastOpenFiles": [
-    "基础知识/芯片资料/gd32f10x/定时器级联.md",
     "基础知识/硬件/PCB/外.md",
+    "基础知识/芯片资料/gd32f10x/定时器级联.md",
     "基础知识/硬件/PCB",
     "基础知识/硬件/Untitled.md",
     "Untitled/吴树鸿24-12-02.md",
