@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/carCtr/pn2rs485/usr函数---APP.md",
+                "file": "项目/newpro/通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "usr函数---APP"
+              "title": "通信数据"
             }
           }
         ],
@@ -214,13 +214,15 @@
   },
   "active": "9ea64d974064c6db",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/资料.md",
+    "项目/newpro/通信数据.md",
+    "项目/carCtr/pn2rs485/usr函数---APP.md",
     "项目/carCtr/pn2rs485/usr函数---OBJ.md",
     "项目/carCtr/pn2rs485/参数.md",
     "项目/carCtr/pn2rs485/pn函数.md",
     "项目/carCtr/pn2rs485/task.md",
     "项目/carCtr/Untitled.canvas",
     "项目/carCtr/plc_to_ctr通信格式.md",
-    "项目/carCtr/pn2rs485/usr函数---APP.md",
     "基础知识/ethercat/base/网络寻址模式.md",
     "基础知识/ethercat/base/ethercat.md",
     "基础知识/ethercat/base/主站.md",
@@ -239,8 +241,6 @@
     "基础知识/通信协议/PN协议/重要文件.md",
     "基础知识/通信协议/PN协议/非周期数据.md",
     "基础知识/通信协议/PN协议/task.md",
-    "基础知识/通信协议/PN协议/概念.md",
-    "基础知识/通信协议/PN协议/devkit v5.1.md",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108101159.png",
