@@ -3,7 +3,7 @@
 2. 小车对应串口初始化，并 更新对应标志位`PortInitStatus`
 
 ### Check_PLC_RunStatus
-
+- 检测PLC连接状态，并更新对应标志位
 
 
 ### **PE1637_ack_dispose_Loop**
