@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "通信数据"
             }
+          },
+          {
+            "id": "e755534dc1063b00",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "项目/供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ERTEC_TCPIF_FSM转移表.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +224,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ea64d974064c6db",
+  "active": "e755534dc1063b00",
   "lastOpenFiles": [
+    "项目/供包台/传送带.md",
     "基础知识/ethercat/base/资料.md",
     "项目/newpro/通信数据.md",
     "项目/carCtr/pn2rs485/usr函数---APP.md",
@@ -240,7 +253,6 @@
     "基础知识/通信协议/PN协议/启动流程.md",
     "基础知识/通信协议/PN协议/重要文件.md",
     "基础知识/通信协议/PN协议/非周期数据.md",
-    "基础知识/通信协议/PN协议/task.md",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108101159.png",
