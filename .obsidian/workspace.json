@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0fc75e844177bb13",
@@ -238,6 +239,8 @@
   },
   "active": "e755534dc1063b00",
   "lastOpenFiles": [
+    "项目/供包台/传送带.md",
+    "项目/newpro/通信数据.md",
     "项目/供包台/基础信息/光幕.md",
     "项目/供包台/基础信息/伺服器连接、配置.md",
     "项目/供包台/基础信息/上位机.md",
@@ -255,9 +258,7 @@
     "项目/供包台/gd32与PN从站的通信.md",
     "项目/供包台/at cmd.md",
     "项目/供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md",
-    "项目/供包台/传送带.md",
     "基础知识/ethercat/base/资料.md",
-    "项目/newpro/通信数据.md",
     "项目/carCtr/pn2rs485/usr函数---APP.md",
     "项目/carCtr/pn2rs485/usr函数---OBJ.md",
     "项目/carCtr/pn2rs485/参数.md",
