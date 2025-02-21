@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/esp核心板.md",
+                "file": "项目/newpro/通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "esp核心板"
+              "title": "通信数据"
             }
           }
         ],
@@ -238,6 +238,7 @@
   },
   "active": "e755534dc1063b00",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/esp核心板.md",
     "基础知识/ethercat/base/资料.md",
     "基础知识/ethercat/base/周期性过程数据通信.md",
     "基础知识/ethercat/base/通信服务和 WKC.md",
@@ -263,7 +264,6 @@
     "项目/供包台/参数设置上位机使用说明Version_0.0.1.md",
     "项目/供包台/上位机与gd32Tcp通信.md",
     "项目/供包台/gd32与PN从站的通信.md",
-    "项目/供包台/at cmd.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
