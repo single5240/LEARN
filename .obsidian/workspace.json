@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/newpro/通信数据.md",
+                "file": "项目/newpro/项目-摆轮控制器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "通信数据"
+              "title": "项目-摆轮控制器"
             }
           }
         ],
@@ -238,15 +238,20 @@
   },
   "active": "e755534dc1063b00",
   "lastOpenFiles": [
-    "基础知识/ethercat/base/esp核心板.md",
     "项目/newpro/通信数据.md",
+    "项目/newpro/测试/s型曲线.md",
+    "项目/newpro/项目-摆轮控制器.md",
+    "项目/newpro/测试/pwm.md",
+    "基础知识/ethercat/base/esp核心板.md",
     "基础知识/ethercat/base/资料.md",
-    "基础知识/ethercat/base/周期性过程数据通信.md",
-    "基础知识/ethercat/base/通信服务和 WKC.md",
-    "基础知识/ethercat/base/网络寻址模式.md",
-    "基础知识/ethercat/base/ethercat.md",
-    "基础知识/ethercat/base/主站.md",
     "基础知识/ethercat/base/从站.md",
+    "基础知识/ethercat/base/主站.md",
+    "基础知识/ethercat/base/ethercat.md",
+    "基础知识/ethercat/base/网络寻址模式.md",
+    "基础知识/ethercat/base/通信服务和 WKC.md",
+    "基础知识/ethercat/base/周期性过程数据通信.md",
+    "基础知识/社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
+    "基础知识/社科/人类学通论/重要人物/怀特.md",
     "基础知识/ethercat/移植/移植.md",
     "项目/供包台/传送带.md",
     "项目/供包台/基础信息/光幕.md",
@@ -259,11 +264,6 @@
     "项目/供包台/基础信息/通信数据.md",
     "项目/供包台/基础信息/重要参数.md",
     "项目/供包台/基础信息/串口.md",
-    "项目/供包台/基础信息/硬件接口.md",
-    "项目/供包台/问题与优化.md",
-    "项目/供包台/参数设置上位机使用说明Version_0.0.1.md",
-    "项目/供包台/上位机与gd32Tcp通信.md",
-    "项目/供包台/gd32与PN从站的通信.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
