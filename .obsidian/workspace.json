@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/newpro/项目-摆轮控制器.md",
+                "file": "项目/newpro/通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "项目-摆轮控制器"
+              "title": "通信数据"
             }
           }
         ],
@@ -238,9 +238,9 @@
   },
   "active": "e755534dc1063b00",
   "lastOpenFiles": [
+    "项目/newpro/项目-摆轮控制器.md",
     "项目/newpro/通信数据.md",
     "项目/newpro/测试/s型曲线.md",
-    "项目/newpro/项目-摆轮控制器.md",
     "项目/newpro/测试/pwm.md",
     "基础知识/ethercat/base/esp核心板.md",
     "基础知识/ethercat/base/资料.md",
