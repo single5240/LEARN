@@ -232,11 +232,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e755534dc1063b00",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
+    "基础知识/Untitled",
     "项目/newpro/项目-摆轮控制器.md",
     "项目/newpro/通信数据.md",
     "项目/newpro/测试/s型曲线.md",
@@ -262,7 +264,6 @@
     "项目/供包台/基础信息/灯光.md",
     "项目/供包台/基础信息/通信数据.md",
     "项目/供包台/基础信息/重要参数.md",
-    "项目/供包台/基础信息/串口.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
