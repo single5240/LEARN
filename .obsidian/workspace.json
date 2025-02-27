@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/newpro/通信数据.md",
+                "file": "项目/通用上位机/通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -208,16 +208,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9ea64d974064c6db",
   "lastOpenFiles": [
-    "基础知识/第三方组件/Untitled.md",
     "项目/newpro/通信数据.md",
+    "项目/通用上位机/通信数据.md",
+    "项目/通用上位机",
+    "项目/newpro/项目-摆轮控制器.md",
+    "基础知识/第三方组件/Untitled.md",
     "基础知识/第三方组件/easyflash",
     "基础知识/第三方组件",
-    "项目/newpro/项目-摆轮控制器.md",
     "项目/newpro/测试/s型曲线.md",
     "项目/newpro/测试/pwm.md",
     "基础知识/ethercat/base/esp核心板.md",
@@ -257,7 +260,6 @@
     "乾坤袋/Pasted image 20240423102026.png",
     "乾坤袋/Pasted image 20240423102017.png",
     "基础知识/通信协议/MODBUS RTC",
-    "基础知识/通信协议",
     "项目/newpro/测试/乾坤袋/shot.png",
     "基础知识/芯片资料/gd32f10x/乾坤袋/Pasted image 20241225161704.png",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
