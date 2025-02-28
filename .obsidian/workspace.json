@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb380085e879fb17",
+        "id": "987761c0588addce",
         "type": "tabs",
         "children": [
           {
-            "id": "911b3802c005e74f",
+            "id": "9b9456b5d2c372bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "9ea64d974064c6db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/通用上位机/通信数据.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "通信数据"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ea64d974064c6db",
+  "active": "9b9456b5d2c372bc",
   "lastOpenFiles": [
-    "项目/newpro/通信数据.md",
     "项目/通用上位机/通信数据.md",
+    "Untitled.md",
+    "项目/newpro/通信数据.md",
     "项目/通用上位机",
     "项目/newpro/项目-摆轮控制器.md",
     "基础知识/第三方组件/Untitled.md",
@@ -242,7 +218,6 @@
     "项目/供包台/基础信息/调试接线.md",
     "项目/供包台/基础信息/上位机new.md",
     "项目/供包台/基础信息/灯光.md",
-    "项目/供包台/基础信息/通信数据.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
