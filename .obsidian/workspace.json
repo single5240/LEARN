@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "临时.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "临时"
             }
           }
         ]
@@ -190,7 +190,7 @@
   "active": "9b9456b5d2c372bc",
   "lastOpenFiles": [
     "项目/通用上位机/通信数据.md",
-    "Untitled.md",
+    "临时.md",
     "项目/newpro/通信数据.md",
     "项目/通用上位机",
     "项目/newpro/项目-摆轮控制器.md",
