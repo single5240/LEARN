@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临时.md",
+                "file": "项目/newpro/通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "临时"
+              "title": "通信数据"
             }
           }
         ]
@@ -189,11 +189,11 @@
   },
   "active": "9b9456b5d2c372bc",
   "lastOpenFiles": [
+    "项目/newpro/项目-摆轮控制器.md",
     "项目/通用上位机/通信数据.md",
     "临时.md",
     "项目/newpro/通信数据.md",
     "项目/通用上位机",
-    "项目/newpro/项目-摆轮控制器.md",
     "基础知识/第三方组件/Untitled.md",
     "基础知识/第三方组件/easyflash",
     "基础知识/第三方组件",
