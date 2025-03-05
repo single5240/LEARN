@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/newpro/通信数据.md",
+                "file": "基础知识/硬件/芯片/74hc165.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "通信数据"
+              "title": "74hc165"
             }
           }
         ]
@@ -183,15 +183,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9b9456b5d2c372bc",
   "lastOpenFiles": [
+    "项目/newpro/通信数据.md",
+    "基础知识/硬件/芯片/74hc165.md",
+    "基础知识/硬件/芯片",
     "项目/newpro/项目-摆轮控制器.md",
     "项目/通用上位机/通信数据.md",
     "临时.md",
-    "项目/newpro/通信数据.md",
     "项目/通用上位机",
     "基础知识/第三方组件/Untitled.md",
     "基础知识/第三方组件/easyflash",
@@ -216,7 +219,6 @@
     "项目/供包台/基础信息/io.md",
     "项目/供包台/基础信息/调试接线.md",
     "项目/供包台/基础信息/上位机new.md",
-    "项目/供包台/基础信息/灯光.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
@@ -233,7 +235,6 @@
     "乾坤袋/Pasted image 20240423101916.png",
     "乾坤袋/Pasted image 20240423102026.png",
     "乾坤袋/Pasted image 20240423102017.png",
-    "基础知识/通信协议/MODBUS RTC",
     "项目/newpro/测试/乾坤袋/shot.png",
     "基础知识/芯片资料/gd32f10x/乾坤袋/Pasted image 20241225161704.png",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
