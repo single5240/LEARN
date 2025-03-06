@@ -11,10 +11,24 @@
             "id": "5ddc742b0d75e2dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/芯片资料/gd32f10x/看门狗.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "看门狗"
             }
           }
         ]
@@ -175,6 +189,8 @@
   },
   "active": "5ddc742b0d75e2dc",
   "lastOpenFiles": [
+    "基础知识/芯片资料/gd32f10x/乾坤袋/27043757_63092f25be12e3774.webp",
+    "基础知识/芯片资料/gd32f10x/看门狗.md",
     "项目/newpro/伺服驱动器.md",
     "项目/newpro/乾坤袋/Pasted image 20250306101012.png",
     "项目/newpro/乾坤袋",
@@ -205,7 +221,6 @@
     "项目/供包台/基础信息/光幕.md",
     "项目/供包台/基础信息/伺服器连接、配置.md",
     "项目/供包台/基础信息/上位机.md",
-    "项目/供包台/基础信息/io.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
