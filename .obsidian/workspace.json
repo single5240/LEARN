@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/芯片资料/gd32f10x/看门狗.md",
+                "file": "基础知识/C语言/调试/ARM架构异常中断处理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "看门狗"
+              "title": "ARM架构异常中断处理"
             }
           }
         ]
@@ -189,8 +189,10 @@
   },
   "active": "5ddc742b0d75e2dc",
   "lastOpenFiles": [
-    "基础知识/芯片资料/gd32f10x/乾坤袋/27043757_63092f25be12e3774.webp",
+    "基础知识/C语言/调试/keil编译代码大小.md",
+    "基础知识/codesys/doc.md",
     "基础知识/芯片资料/gd32f10x/看门狗.md",
+    "基础知识/芯片资料/gd32f10x/乾坤袋/27043757_63092f25be12e3774.webp",
     "项目/newpro/伺服驱动器.md",
     "项目/newpro/乾坤袋/Pasted image 20250306101012.png",
     "项目/newpro/乾坤袋",
@@ -220,7 +222,6 @@
     "项目/供包台/传送带.md",
     "项目/供包台/基础信息/光幕.md",
     "项目/供包台/基础信息/伺服器连接、配置.md",
-    "项目/供包台/基础信息/上位机.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
@@ -236,7 +237,6 @@
     "乾坤袋/Pasted image 20240423101916.png",
     "乾坤袋/Pasted image 20240423102026.png",
     "乾坤袋/Pasted image 20240423102017.png",
-    "项目/newpro/测试/乾坤袋/shot.png",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
     "供包台/Untitled.canvas",
     "嵌入式/毕设项目/mcu框架.canvas"
