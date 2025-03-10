@@ -11,10 +11,24 @@
             "id": "5ddc742b0d75e2dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "项目/通用上位机/通信数据.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "通信数据"
             }
           }
         ]
@@ -173,20 +187,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "5ddc742b0d75e2dc",
   "lastOpenFiles": [
-    "Untitled/Untitled.canvas",
+    "项目/newpro/通信数据.md",
+    "项目/newpro/项目-摆轮控制器.md",
+    "项目/newpro/伺服驱动器.md",
     "项目/newpro/测试.md",
+    "项目/newpro/硬件基础配置/74hc165 IO.md",
+    "项目/newpro/74hc165.canvas",
+    "项目/newpro/Untitled.md",
+    "Untitled/吴树鸿24-12-02.md",
+    "Untitled/Untitled.canvas",
     "基础知识/C语言/调试/keil编译代码大小.md",
     "基础知识/C语言/调试/ARM架构异常中断处理.md",
     "基础知识/codesys/doc.md",
     "基础知识/芯片资料/gd32f10x/看门狗.md",
     "基础知识/芯片资料/gd32f10x/乾坤袋/27043757_63092f25be12e3774.webp",
-    "项目/newpro/伺服驱动器.md",
     "项目/newpro/乾坤袋/Pasted image 20250306101012.png",
     "项目/newpro/乾坤袋",
-    "项目/newpro/通信数据.md",
-    "项目/newpro/项目-摆轮控制器.md",
     "基础知识/硬件/芯片/74hc165.md",
     "基础知识/硬件/芯片",
     "项目/通用上位机/通信数据.md",
@@ -206,8 +224,6 @@
     "基础知识/ethercat/base/通信服务和 WKC.md",
     "基础知识/ethercat/base/周期性过程数据通信.md",
     "基础知识/社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
-    "基础知识/社科/人类学通论/重要人物/怀特.md",
-    "基础知识/ethercat/移植/移植.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
