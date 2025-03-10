@@ -11,17 +11,10 @@
             "id": "5ddc742b0d75e2dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled/Untitled.canvas",
-                "viewState": {
-                  "x": -170.08934173580784,
-                  "y": -188.33851069287888,
-                  "zoom": -0.3333333333333334
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,10 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ddc742b0d75e2dc",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
-    "项目/newpro/测试.md",
     "Untitled/Untitled.canvas",
+    "项目/newpro/测试.md",
     "基础知识/C语言/调试/keil编译代码大小.md",
     "基础知识/C语言/调试/ARM架构异常中断处理.md",
     "基础知识/codesys/doc.md",
