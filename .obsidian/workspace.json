@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
+                "file": "基础知识/社科/人类学通论/基础知识/第五章-生态人类学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "第二章-文化理论轨迹"
+              "title": "第五章-生态人类学"
             }
           }
         ]
@@ -189,7 +189,14 @@
   },
   "active": "5ddc742b0d75e2dc",
   "lastOpenFiles": [
+    "基础知识/社科/人类学通论/基础知识/第九章-心理人类学.md",
+    "基础知识/社科/人类学通论/基础知识/第三章-体质人类学.md",
+    "基础知识/社科/人类学通论/基础知识/第一章-绪论-人类学的学科属性和内容.md",
     "基础知识/社科/人类学通论/基础知识/第七章-语言与文化.md",
+    "基础知识/社科/人类学通论/基础知识/目录.md",
+    "基础知识/社科/人类学通论/基础知识/导言.md",
+    "基础知识/设计模式/单例模式.md",
+    "基础知识/社科/人类学通论/基础知识/第二章-文化理论轨迹.md",
     "项目/通用上位机/通信数据.md",
     "项目/newpro/通信数据.md",
     "项目/newpro/项目-摆轮控制器.md",
@@ -217,13 +224,6 @@
     "项目/newpro/测试/s型曲线.md",
     "项目/newpro/测试/pwm.md",
     "基础知识/ethercat/base/esp核心板.md",
-    "基础知识/ethercat/base/资料.md",
-    "基础知识/ethercat/base/从站.md",
-    "基础知识/ethercat/base/主站.md",
-    "基础知识/ethercat/base/ethercat.md",
-    "基础知识/ethercat/base/网络寻址模式.md",
-    "基础知识/ethercat/base/通信服务和 WKC.md",
-    "基础知识/ethercat/base/周期性过程数据通信.md",
     "项目/carCtr/Untitled.canvas",
     "基础知识/硬件/PCB",
     "项目/carCtr/惑",
