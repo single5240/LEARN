@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/newpro/测试.md",
+                "file": "项目/newpro/测试数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "测试数据"
             }
           }
         ]
@@ -183,11 +183,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "59d6cc6dd42ab681",
   "lastOpenFiles": [
+    "项目/newpro/测试.md",
+    "项目/newpro/测试数据.md",
     "基础知识/社科/人类学通论/基础知识/第五章-生态人类学.md",
     "基础知识/社科/人类学通论/基础知识/第九章-心理人类学.md",
     "基础知识/社科/人类学通论/基础知识/第三章-体质人类学.md",
@@ -201,10 +204,8 @@
     "项目/newpro/通信数据.md",
     "项目/newpro/项目-摆轮控制器.md",
     "项目/newpro/伺服驱动器.md",
-    "项目/newpro/测试.md",
     "项目/newpro/硬件基础配置/74hc165 IO.md",
     "项目/newpro/74hc165.canvas",
-    "项目/newpro/Untitled.md",
     "Untitled/吴树鸿24-12-02.md",
     "Untitled/Untitled.canvas",
     "基础知识/C语言/调试/keil编译代码大小.md",
