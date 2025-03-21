@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/newpro/测试数据.md",
+                "file": "项目/newpro/问题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "测试数据"
+              "title": "问题"
             }
           }
         ]
@@ -190,7 +190,7 @@
   "active": "59d6cc6dd42ab681",
   "lastOpenFiles": [
     "项目/newpro/测试.md",
-    "项目/newpro/测试数据.md",
+    "项目/newpro/问题.md",
     "基础知识/社科/人类学通论/基础知识/第五章-生态人类学.md",
     "基础知识/社科/人类学通论/基础知识/第九章-心理人类学.md",
     "基础知识/社科/人类学通论/基础知识/第三章-体质人类学.md",
