@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,10 +184,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59d6cc6dd42ab681",
+  "active": "665c4101a1482cea",
   "lastOpenFiles": [
     "项目/newpro/测试.md",
     "项目/newpro/问题.md",
