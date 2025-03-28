@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "伺服",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "665c4101a1482cea",
+  "active": "59d6cc6dd42ab681",
   "lastOpenFiles": [
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328105756.png",
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328105654.png",
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328105554.png",
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328105537.png",
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328105516.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328100318.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328100232.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328095932.jpg",
@@ -236,11 +241,6 @@
     "项目/carCtr/惑",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108101159.png",
     "项目",
-    "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250109170902.png",
-    "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108174820.png",
-    "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108174807.png",
-    "基础知识/芯片资料/gd32f10x/乾坤袋/Pasted image 20250108112642.png",
-    "乾坤袋/Pasted image 20240423101916.png",
     "供包台/Untitled.canvas",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]

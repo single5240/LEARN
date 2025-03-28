@@ -2,14 +2,28 @@
  1. [PROFINET工业以太网教程（16）-GSDML文件详解 - 知乎](https://zhuanlan.zhihu.com/p/562799047)
 
 # 结构
-![[Pasted image 20250328095932.jpg]]
+![[Pasted image 20250328105554.png
+]]
 
 # 细节
 ## profile header
+![[Pasted image 20250328105516.png]]
 ![[Pasted image 20250328100232.png]]
 ## profile header
 ![[Pasted image 20250328100318.png]]
 ## profile body
+![[Pasted image 20250328105654.png]]
+```html
+<DeviceIdentity VendorID="" DeviceID="">
+<!-- VendorID U16H 由PI分配 , DeviceID U16H由供应商分配 -->
+<InfoText TextId="T_DAP_DEV_DESCRIPTION" />
+<VendorName Value="Qyinno" /><!--供应商名称-->
+</DeviceIdentity>
+```
+### device identity![[Pasted image 20250328105756.png]]
+
+### device function
+
 ### application process
 #### Device Access Point List
 ##### Device Access PointItem
