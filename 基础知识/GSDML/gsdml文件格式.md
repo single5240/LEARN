@@ -139,30 +139,34 @@
 ```html
 <VirtualSubmoduleList>  <!--虚拟子模块列表-->
 <!--插槽0的-子插槽0x0001-子模块标识号0x00000001-->
-<VirtualSubmoduleItem ID="DAP 1" SubmoduleIdentNumber="0x00000001" Writeable_IM_Records="1 2 3 4" IM5_Supported="true" MayIssueProcessAlarm="false">
-	<IOData>
-	</IOData>
-	<RecordDataList><!--插槽0-子插槽01：配置数据列表-->
-		<ParameterRecordDataItem Index="10" Length="2" TransferSequence="0"><!--插槽0-子插槽01：配置数据项-Index=1-->
-			<Name TextId="T_Module_Config_Prm" />
-			<Const Data="0x00,0x00" />
-			<!-- 公共 模组参数-->
-			<Ref DataType="Unsigned8" ByteOffset="0" DefaultValue="50"
-			AllowedValues="0..255" Changeable="true" Visible="true"
-                                        TextId="TID_Config_SetBIT_HoldTime" /><!-- 置位时间 ms-->
-                                    <Ref DataType="Unsigned8" ByteOffset="1" DefaultValue="200"
-                                        AllowedValues="0..255" Changeable="true" Visible="true"
-                                        TextId="TID_Config_CommInterval" /><!-- 通讯最小间隔 ms-->
-
-                                </ParameterRecordDataItem>
-                            </RecordDataList>
-                            <ModuleInfo>
-                                <Name TextId="T_DAP1_NAME" />
-                                <InfoText TextId="TID_ModInfo_InfoTextId_DAP8" />
-                            </ModuleInfo>
-                        </VirtualSubmoduleItem>
-                    </VirtualSubmoduleList>
+	<VirtualSubmoduleItem ID="DAP 1" SubmoduleIdentNumber="0x00000001"  
+		Writeable_IM_Records="1 2 3 4" IM5_Supported="true"
+		MayIssueProcessAlarm="false">
+		<IOData>
+		</IOData>
+		<RecordDataList><!--插槽0-子插槽01：配置数据列表-->
+			<ParameterRecordDataItem Index="10" Length="2" TransferSequence="0">
+				<!--插槽0-子插槽01：配置数据项-Index=1-->
+				<Name TextId="T_Module_Config_Prm" />
+				<Const Data="0x00,0x00" />
+				<!-- 公共 模组参数-->
+				<Ref DataType="Unsigned8" ByteOffset="0" DefaultValue="50"
+					AllowedValues="0..255" Changeable="true" Visible="true"
+					TextId="TID_Config_SetBIT_HoldTime" /><!-- 置位时间 ms-->
+				<Ref DataType="Unsigned8" ByteOffset="1" DefaultValue="200"
+					AllowedValues="0..255" Changeable="true" Visible="true"
+					TextId="TID_Config_CommInterval" /><!-- 通讯最小间隔 ms-->
+			</ParameterRecordDataItem>
+		</RecordDataList>
+		<ModuleInfo>
+			<Name TextId="T_DAP1_NAME" />
+			<InfoText TextId="TID_ModInfo_InfoTextId_DAP8" />
+		</ModuleInfo>
+	</VirtualSubmoduleItem>
+</VirtualSubmoduleList>
 ```
+##### System Defined Submodule List
+
 ### **3. `<IOData>` 元素**
 
 xml复制
