@@ -13,17 +13,24 @@
 ![[Pasted image 20250328100318.png]]
 ## profile body
 ![[Pasted image 20250328105654.png]]
+### device identity
+![[Pasted image 20250328105756.png]]
 ```html
 <DeviceIdentity VendorID="" DeviceID="">
 <!-- VendorID U16H 由PI分配 , DeviceID U16H由供应商分配 -->
-<InfoText TextId="T_DAP_DEV_DESCRIPTION" />
-<VendorName Value="Qyinno" /><!--供应商名称-->
+<InfoText TextId="" />
+<VendorName Value="" /><!--供应商名称-->
 </DeviceIdentity>
 ```
-### device identity![[Pasted image 20250328105756.png]]
-
 ### device function
-
+![[Pasted image 20250328110144.png]]
+```html
+<DeviceFunction>            <!-- 设备功能 -->  
+<Family MainFamily="I/O" ProductFamily="PN IO Device " />  
+<!--PN标准设备分类：IO设备，供应商产品分类：产品系列-->  
+</DeviceFunction>
+```
+![[Pasted image 20250328110251.png]]
 ### application process
 #### Device Access Point List
 ##### Device Access PointItem
