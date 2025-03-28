@@ -2,8 +2,7 @@
  1. [PROFINET工业以太网教程（16）-GSDML文件详解 - 知乎](https://zhuanlan.zhihu.com/p/562799047)
 
 # 结构
-![[Pasted image 20250328105554.png
-]]
+![[Pasted image 20250328105554.png]]
 
 # 细节
 ## profile header
@@ -37,6 +36,7 @@
 #### Device Access Point List
 - 结构图
 	- ![[Pasted image 20250328110903.png]]
+	- ![[Pasted image 20250328111240.png]]
 ##### Device Access PointItem
 ###### 1. `ID="DAP 1"`
 - 作用：设备访问点的唯一标识符，用于工程工具或配置中引用此DAP。
