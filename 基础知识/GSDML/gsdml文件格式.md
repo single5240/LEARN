@@ -165,18 +165,16 @@
 	</VirtualSubmoduleItem>
 </VirtualSubmoduleList>
 ```
-##### System Defined Submodule List
+##### System Defined Submodule List（系统预定义子模块）
 
-
-##### Graphics
+##### Graphics（图形化表示）
 ```html
 <Graphics>
 <GraphicItemRef Type="DeviceSymbol" GraphicItemTarget="ID_Graph_1" />
 </Graphics>
 ```
-##### SystemRedundancy
+##### SystemRedundancy（冗余能力）
 ```html
 <SystemRedundancy NumberOfAR_Sets="1" RT_InputOnBackupAR_Supported="false"  
                         MaxSwitchOverTime="30" DeviceType="S2" />
 ```
-
