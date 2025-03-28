@@ -166,3 +166,17 @@
 </VirtualSubmoduleList>
 ```
 ##### System Defined Submodule List
+
+
+##### Graphics
+```html
+<Graphics>
+<GraphicItemRef Type="DeviceSymbol" GraphicItemTarget="ID_Graph_1" />
+</Graphics>
+```
+##### SystemRedundancy
+```html
+<SystemRedundancy NumberOfAR_Sets="1" RT_InputOnBackupAR_Supported="false"  
+                        MaxSwitchOverTime="30" DeviceType="S2" />
+```
+
