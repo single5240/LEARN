@@ -178,3 +178,4 @@
 <SystemRedundancy NumberOfAR_Sets="1" RT_InputOnBackupAR_Supported="false"  
                         MaxSwitchOverTime="30" DeviceType="S2" />
 ```
+#### Module List
