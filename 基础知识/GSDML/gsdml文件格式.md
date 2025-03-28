@@ -32,7 +32,11 @@
 ```
 ![[Pasted image 20250328110251.png]]
 ### application process
+- 结构图 
+	- ![[Pasted image 20250328110751.png]]
 #### Device Access Point List
+- 结构图
+	- ![[Pasted image 20250328110903.png]]
 ##### Device Access PointItem
 ###### 1. `ID="DAP 1"`
 - 作用：设备访问点的唯一标识符，用于工程工具或配置中引用此DAP。
