@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/newpro/GD32 与 PN通信.md",
+                "file": "基础知识/GSDML/gsdml文件格式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GD32 与 PN通信"
+              "title": "gsdml文件格式"
             }
           }
         ]
@@ -183,13 +183,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "59d6cc6dd42ab681",
   "lastOpenFiles": [
-    "项目/通用上位机/通信数据.md",
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328100318.png",
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328100232.png",
+    "基础知识/GSDML/乾坤袋/Pasted image 20250328095932.jpg",
+    "基础知识/GSDML/乾坤袋",
     "项目/newpro/GD32 与 PN通信.md",
+    "基础知识/GSDML/gsdml文件格式.md",
+    "基础知识/GSDML",
+    "项目/通用上位机/通信数据.md",
     "项目/newpro/通信数据.md",
     "项目/供包台/gd32与PN从站的通信.md",
     "项目/newpro/项目-摆轮控制器.md",
@@ -214,8 +221,6 @@
     "项目/供包台/基础信息/串口.md",
     "项目/供包台/基础信息/驱动算法.canvas",
     "项目/newpro/问题.md",
-    "项目/newpro/测试.md",
-    "基础知识/社科/人类学通论/基础知识/第五章-生态人类学.md",
     "项目/newpro/74hc165.canvas",
     "Untitled/Untitled.canvas",
     "基础知识/芯片资料/gd32f10x/乾坤袋/27043757_63092f25be12e3774.webp",
@@ -230,15 +235,11 @@
     "项目/carCtr/惑",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108101159.png",
     "项目",
-    "基础知识",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250109170902.png",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108174820.png",
     "基础知识/通信协议/PN协议/乾坤袋/Pasted image 20250108174807.png",
     "基础知识/芯片资料/gd32f10x/乾坤袋/Pasted image 20250108112642.png",
-    "基础知识/通信协议/PN协议/乾坤袋",
     "乾坤袋/Pasted image 20240423101916.png",
-    "乾坤袋/Pasted image 20240423102026.png",
-    "乾坤袋/Pasted image 20240423102017.png",
     "供包台/Untitled.canvas",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
