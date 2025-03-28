@@ -9,4 +9,4 @@
 ![[Pasted image 20250328100232.png]]
 ### profile header
 ![[Pasted image 20250328100318.png]]
-### 
+### profile body
