@@ -66,3 +66,27 @@
     - LOCAL：本地手动设置（如拨码开关）。
     - DCP：通过PROFINET发现协议动态分配。
 ##### Module Info
+###### 1. `<ModuleInfo> <!-- CategoryRef="CT_Category_C_Series" -->`
+- 作用：定义模块（或设备）的元数据集合，包含名称、版本、厂商等信息。
+- 注释：引用分类标识符（如 CT_Category_C_Series），表示设备所属的类别（例如“C系列产品”），用于工程工具中的分类筛选。
+###### 2.` <Name TextId="" />`
+
+- 作用：模块的显示名称，但通过 TextId 引用外部文本资源（而非直接写死名称）。
+- 注释说明：实际名称需从外部文本列表中根据键值解析，便于多语言支持或集中维护。
+
+###### 3. `<InfoText TextId="T_DAP_DEV_DESCRIPTION_163X" />`
+
+作用：模块的详细描述文本，同样通过 TextId 引用外部资源（如 T_DAP_DEV_DESCRIPTION_163X）。
+典型内容：可能包含设备功能、适用场景等说明。
+###### 4. <VendorName Value="Guangdong QiYuan Innovation Co.,Ltd" />
+
+作用：明确设备制造商名称，此处为广东启元创新科技有限公司。
+###### 5. <OrderNumber Value="PE-1637" />
+
+作用：设备的订单号或型号标识符，用于采购、替换或文档引用（如 PE-1637 表示具体型号）。
+###### 6. <HardwareRelease Value="V0.3" />
+
+作用：硬件版本号（如 V0.3），用于区分硬件修订或改进批次。
+###### 7. <SoftwareRelease Value="V0.5" />
+
+作用：软件（固件）版本号（如 V0.5），标识设备当前运行的内部程序版本。
