@@ -91,3 +91,15 @@
 <SubslotItem SubslotNumber="" TextId="" />
 ```
 ##### IO Config Data
+```html
+   <IOConfigData MaxInputLength="" MaxOutputLength="" MaxDataLength="" />
+```
+##### Useable Modules
+```html
+<UseableModules>  
+<ModuleItemRef ModuleItemTarget="MID_CD00B1" AllowedInSlots="1..4" />  
+<ModuleItemRef ModuleItemTarget="MID_CD00C1" AllowedInSlots="1..4" />  
+</UseableModules>
+```
+##### Virtual Submodule List
+###### 
