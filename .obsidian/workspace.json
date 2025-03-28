@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59d6cc6dd42ab681",
+  "active": "665c4101a1482cea",
   "lastOpenFiles": [
     "基础知识/GSDML/乾坤袋/Pasted image 20250328100318.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328100232.png",
