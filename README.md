@@ -30,9 +30,9 @@ pu_reinit_callback();
 ```
 
 ```c
-+       if(PU_comm_count.PU_RX_link_err_count < 0xff)
-+       {
-+               PU_comm_count.PU_RX_link_err_count++;
-+       }
+if(PU_comm_count.PU_RX_link_err_count < 0xff)
+{
+    PU_comm_count.PU_RX_link_err_count++;
+}
 
 ```
