@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3eedd32276f318f",
+        "id": "691e4b3a6e7b7f23",
         "type": "tabs",
         "children": [
           {
-            "id": "59d6cc6dd42ab681",
+            "id": "cf8892b3c70a0b0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,10 +187,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59d6cc6dd42ab681",
+  "active": "cf8892b3c70a0b0f",
   "lastOpenFiles": [
-    "项目/newpro/通信数据.md",
     "项目/newpro/控制逻辑.md",
+    "项目/newpro/通信数据.md",
     "项目/newpro/项目-摆轮控制器.md",
     "项目/newpro/伺服驱动器.md",
     "README.md",
