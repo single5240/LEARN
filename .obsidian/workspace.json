@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "项目/newpro/控制逻辑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "控制逻辑"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "59d6cc6dd42ab681",
   "lastOpenFiles": [
+    "项目/newpro/通信数据.md",
+    "项目/newpro/控制逻辑.md",
+    "项目/newpro/项目-摆轮控制器.md",
+    "项目/newpro/伺服驱动器.md",
+    "README.md",
     "基础知识/GSDML/gsdml文件格式.md",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328140918.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328111240.png",
@@ -204,9 +209,7 @@
     "项目/newpro/GD32 与 PN通信.md",
     "基础知识/GSDML",
     "项目/通用上位机/通信数据.md",
-    "项目/newpro/通信数据.md",
     "项目/供包台/gd32与PN从站的通信.md",
-    "项目/newpro/项目-摆轮控制器.md",
     "项目/供包台/基础信息/伺服器连接、配置.md",
     "项目/供包台/基础信息/硬件接口.md",
     "项目/供包台/基础信息/光幕.md",
@@ -225,9 +228,7 @@
     "项目/供包台/基础信息/灯光.md",
     "项目/供包台/基础信息/通信数据.md",
     "项目/供包台/基础信息/重要参数.md",
-    "项目/供包台/基础信息/串口.md",
     "项目/供包台/基础信息/驱动算法.canvas",
-    "项目/newpro/问题.md",
     "项目/newpro/74hc165.canvas",
     "Untitled/Untitled.canvas",
     "项目/newpro/乾坤袋",
