@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/GSDML/gsdml文件编写.md",
+                "file": "基础知识/GSDML/gsdml文件格式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gsdml文件编写"
+              "title": "gsdml文件格式"
             }
           }
         ]
@@ -189,9 +189,9 @@
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "基础知识/GSDML/gsdml文件编写.md",
     "基础知识/GSDML/乾坤袋/Pasted image 20250410155521.png",
     "基础知识/GSDML/gsdml文件格式.md",
-    "基础知识/GSDML/gsdml文件编写.md",
     "临时.md",
     "项目/newpro/控制逻辑.md",
     "项目/newpro/通信数据.md",
@@ -207,7 +207,6 @@
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110251.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110144.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328105938.png",
-    "基础知识/GSDML/乾坤袋/Pasted image 20250328105756.png",
     "基础知识/GSDML/乾坤袋",
     "项目/newpro/GD32 与 PN通信.md",
     "基础知识/GSDML",
