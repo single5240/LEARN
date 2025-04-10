@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临时.md",
+                "file": "基础知识/GSDML/gsdml文件编写.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "临时"
+              "title": "gsdml文件编写"
             }
           }
         ]
@@ -189,12 +189,15 @@
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "基础知识/GSDML/乾坤袋/Pasted image 20250410155521.png",
+    "基础知识/GSDML/gsdml文件格式.md",
+    "基础知识/GSDML/gsdml文件编写.md",
+    "临时.md",
     "项目/newpro/控制逻辑.md",
     "项目/newpro/通信数据.md",
     "项目/newpro/项目-摆轮控制器.md",
     "项目/newpro/伺服驱动器.md",
     "README.md",
-    "基础知识/GSDML/gsdml文件格式.md",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328140918.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328111240.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110955.png",
@@ -225,9 +228,6 @@
     "项目/供包台/问题与优化.md",
     "项目/供包台/基础信息/调试接线.md",
     "项目/供包台/基础信息/上位机new.md",
-    "项目/供包台/基础信息/灯光.md",
-    "项目/供包台/基础信息/通信数据.md",
-    "项目/供包台/基础信息/重要参数.md",
     "项目/供包台/基础信息/驱动算法.canvas",
     "项目/newpro/74hc165.canvas",
     "Untitled/Untitled.canvas",
