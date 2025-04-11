@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/GSDML/gsdml文件格式.md",
+                "file": "项目/newpro/测试/0411记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gsdml文件格式"
+              "title": "0411记录"
             }
           }
         ]
@@ -183,14 +183,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "项目/通用上位机/通信数据.md",
+    "项目/newpro/测试/0411记录.md",
+    "基础知识/GSDML/gsdml文件格式.md",
     "基础知识/GSDML/gsdml文件编写.md",
     "基础知识/GSDML/乾坤袋/Pasted image 20250410155521.png",
-    "基础知识/GSDML/gsdml文件格式.md",
     "临时.md",
     "项目/newpro/控制逻辑.md",
     "项目/newpro/通信数据.md",
@@ -209,7 +212,6 @@
     "基础知识/GSDML/乾坤袋",
     "项目/newpro/GD32 与 PN通信.md",
     "基础知识/GSDML",
-    "项目/通用上位机/通信数据.md",
     "项目/供包台/gd32与PN从站的通信.md",
     "项目/供包台/基础信息/伺服器连接、配置.md",
     "项目/供包台/基础信息/硬件接口.md",
