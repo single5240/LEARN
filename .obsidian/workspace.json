@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e91e3721c71c2820",
+  "active": "665c4101a1482cea",
   "lastOpenFiles": [
     "项目/供包台/问题与优化.md",
     "项目/供包台/传送带.md",
