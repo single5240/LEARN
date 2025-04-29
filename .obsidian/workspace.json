@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/供包台/基础信息/伺服器连接、配置.md",
+                "file": "项目/ethercat/基础配置/硬件电路.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "伺服器连接、配置"
+              "title": "硬件电路"
             }
           }
         ]
@@ -189,8 +189,13 @@
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
-    "项目/供包台/基础信息/硬件接口.md",
+    "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429110307.png",
+    "项目/ethercat/基础配置/乾坤袋",
     "项目/供包台/基础信息/伺服器连接、配置.md",
+    "项目/ethercat/基础配置/硬件电路.md",
+    "项目/ethercat/基础配置",
+    "项目/ethercat",
+    "项目/供包台/基础信息/硬件接口.md",
     "项目/供包台/基础信息/驱动算法.canvas",
     "项目/供包台/基础信息/光幕.md",
     "项目/供包台/基础信息/上位机.md",
@@ -212,10 +217,8 @@
     "项目/摆轮/问题.md",
     "项目/摆轮/测试.md",
     "临时.md",
-    "项目/Untitled",
     "定时器级联测试.md",
     "README.md",
-    "项目/远程IO/基础/功能扩展 --- 计算器.md",
     "项目/远程IO/基础",
     "项目/远程IO",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
@@ -237,8 +240,6 @@
     "项目/摆轮/乾坤袋",
     "基础知识/硬件/芯片",
     "项目/通用上位机",
-    "基础知识/第三方组件/easyflash",
-    "基础知识/第三方组件",
     "供包台/Untitled.canvas",
     "嵌入式/毕设项目/mcu框架.canvas"
   ]
