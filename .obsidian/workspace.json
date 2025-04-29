@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/ethercat/基础配置/硬件电路.md",
+                "file": "基础知识/ethercat/移植/移植.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "硬件电路"
+              "title": "移植"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0fc75e844177bb13",
@@ -189,10 +190,11 @@
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "项目/ethercat/基础配置/ssc配置.md",
+    "项目/ethercat/基础配置/硬件电路.md",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429110307.png",
     "项目/ethercat/基础配置/乾坤袋",
     "项目/供包台/基础信息/伺服器连接、配置.md",
-    "项目/ethercat/基础配置/硬件电路.md",
     "项目/ethercat/基础配置",
     "项目/ethercat",
     "项目/供包台/基础信息/硬件接口.md",
@@ -232,7 +234,6 @@
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110751.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110251.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110144.png",
-    "基础知识/GSDML/乾坤袋/Pasted image 20250328105938.png",
     "基础知识/GSDML/乾坤袋",
     "基础知识/GSDML",
     "项目/newpro/74hc165.canvas",
