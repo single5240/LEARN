@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/资料.md",
+                "file": "项目/ethercat/基础配置/硬件电路.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "资料"
+              "title": "硬件电路"
             }
           }
         ]
@@ -189,13 +189,15 @@
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429164628.png",
+    "基础知识/ethercat/移植/移植.md",
+    "基础知识/ethercat/base/资料.md",
     "基础知识/ethercat/base/周期性过程数据通信.md",
     "基础知识/ethercat/base/通信服务和 WKC.md",
     "基础知识/ethercat/base/网络寻址模式.md",
     "基础知识/ethercat/base/ethercat.md",
     "基础知识/ethercat/base/主站.md",
     "基础知识/ethercat/base/从站.md",
-    "基础知识/ethercat/移植/移植.md",
     "基础知识/ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "项目/ethercat/基础配置/ssc配置.md",
     "项目/ethercat/基础配置/硬件电路.md",
@@ -218,8 +220,6 @@
     "项目/供包台/上位机与gd32Tcp通信.md",
     "项目/供包台/参数设置上位机使用说明Version_0.0.1.md",
     "项目/摆轮/伺服驱动器.md",
-    "项目/摆轮/通信数据.md",
-    "项目/摆轮/项目-摆轮控制器.md",
     "项目/远程IO/基础",
     "项目/远程IO",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
