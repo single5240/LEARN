@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/ethercat/基础配置/硬件电路.md",
+                "file": "项目/供包台/基础信息/伺服器连接、配置.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "硬件电路"
+              "title": "伺服器连接、配置"
             }
           }
         ]
@@ -183,24 +183,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/ethercat.md",
+    "基础知识/ethercat/base/网络寻址模式.md",
+    "基础知识/ethercat/base/通信服务和 WKC.md",
+    "基础知识/ethercat/base/周期性过程数据通信.md",
+    "基础知识/ethercat/base/资料.md",
+    "基础知识/ethercat/base/esp核心板.md",
+    "基础知识/freertos/事件组.md",
+    "基础知识/freertos/任务调度.md",
+    "基础知识/freertos/外部链接.md",
+    "基础知识/freertos/空闲任务的钩子函数.md",
+    "基础知识/freertos/消息队列.md",
+    "基础知识/GSDML/gsdml文件格式.md",
+    "临时.md",
+    "定时器级联测试.md",
+    "README.md",
+    "项目/ethercat/基础配置/硬件电路.md",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429164655.png",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429164628.png",
     "基础知识/ethercat/移植/移植.md",
-    "基础知识/ethercat/base/资料.md",
-    "基础知识/ethercat/base/周期性过程数据通信.md",
-    "基础知识/ethercat/base/通信服务和 WKC.md",
-    "基础知识/ethercat/base/网络寻址模式.md",
-    "基础知识/ethercat/base/ethercat.md",
     "基础知识/ethercat/base/主站.md",
     "基础知识/ethercat/base/从站.md",
     "基础知识/ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "项目/ethercat/基础配置/ssc配置.md",
-    "项目/ethercat/基础配置/硬件电路.md",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429110307.png",
     "项目/ethercat/基础配置/乾坤袋",
     "项目/供包台/基础信息/伺服器连接、配置.md",
@@ -211,15 +222,6 @@
     "项目/供包台/基础信息/光幕.md",
     "项目/供包台/基础信息/上位机.md",
     "项目/供包台/基础信息/重要参数.md",
-    "项目/供包台/问题与优化.md",
-    "项目/供包台/传送带.md",
-    "项目/供包台/pn_tcp cmd.md",
-    "项目/供包台/ERTEC_TCPIF_FSM转移表.excalidraw.md",
-    "项目/供包台/at cmd.md",
-    "项目/供包台/gd32与PN从站的通信.md",
-    "项目/供包台/上位机与gd32Tcp通信.md",
-    "项目/供包台/参数设置上位机使用说明Version_0.0.1.md",
-    "项目/摆轮/伺服驱动器.md",
     "项目/远程IO/基础",
     "项目/远程IO",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
@@ -231,7 +233,6 @@
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110903.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110858.png",
     "基础知识/GSDML/乾坤袋/Pasted image 20250328110751.png",
-    "基础知识/GSDML/乾坤袋/Pasted image 20250328110251.png",
     "基础知识/GSDML/乾坤袋",
     "基础知识/GSDML",
     "项目/newpro/74hc165.canvas",
