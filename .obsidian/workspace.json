@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/摆轮/测试/pwm.md",
+                "file": "项目/摆轮/项目-摆轮控制器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pwm"
+              "title": "项目-摆轮控制器"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
-    "项目/摆轮/测试/s型曲线.md",
     "项目/摆轮/测试/pwm.md",
+    "项目/摆轮/测试/s型曲线.md",
     "README.md",
     "定时器级联测试.md",
     "临时.md",
