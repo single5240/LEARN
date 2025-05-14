@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/伺服驱动器/汇川.md",
+                "file": "项目/摆轮/硬件基础配置/串口.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "汇川"
+              "title": "串口"
             }
           }
         ]
@@ -189,12 +189,12 @@
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "基础知识/伺服驱动器/汇川.md",
     "项目/摆轮/硬件基础配置/IO.md",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164542.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164534.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164445.png",
     "项目/摆轮/硬件基础配置/串口.md",
-    "基础知识/伺服驱动器/汇川.md",
     "项目/供包台/基础信息/伺服器连接、配置.md",
     "基础知识/伺服驱动器",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513095718.png",
