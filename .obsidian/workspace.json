@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/摆轮/硬件基础配置/串口.md",
+                "file": "项目/摆轮/测试/0516.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "串口"
+              "title": "0516"
             }
           }
         ]
@@ -183,17 +183,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "项目/摆轮/硬件基础配置/串口.md",
+    "项目/摆轮/测试/0516.md",
     "基础知识/伺服驱动器/汇川.md",
     "项目/摆轮/硬件基础配置/IO.md",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164542.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164534.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164445.png",
-    "项目/摆轮/硬件基础配置/串口.md",
     "项目/供包台/基础信息/伺服器连接、配置.md",
     "基础知识/伺服驱动器",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513095718.png",
