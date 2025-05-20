@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/伺服驱动器/研控.md",
+                "file": "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "研控"
+              "title": "两块板子之间的RS485"
             }
           }
         ]
@@ -183,17 +183,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
+    "项目/摆轮/控制逻辑.md",
+    "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
+    "项目/摆轮/项目-摆轮控制器.md",
+    "项目/摆轮/测试/0516.md",
+    "项目/摆轮/测试/0411记录.md",
+    "项目/摆轮/测试/s型曲线.md",
+    "项目/摆轮/测试/pwm.md",
+    "基础知识/伺服驱动器/研控.md",
+    "基础知识/伺服驱动器/汇川.md",
+    "项目/摆轮/测试.md",
+    "项目/摆轮/问题.md",
+    "项目/摆轮/通信数据.md",
+    "项目/摆轮/伺服驱动器.md",
     "基础知识/伺服驱动器/乾坤袋/Pasted image 20250516160909.png",
     "基础知识/伺服驱动器/乾坤袋",
-    "项目/摆轮/测试/0516.md",
-    "基础知识/伺服驱动器/研控.md",
     "项目/摆轮/硬件基础配置/串口.md",
-    "基础知识/伺服驱动器/汇川.md",
     "项目/摆轮/硬件基础配置/IO.md",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164542.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164534.png",
@@ -205,16 +216,8 @@
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513094802.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513094710.png",
     "项目/摆轮/硬件基础配置/乾坤袋",
-    "项目/摆轮/测试.md",
-    "项目/摆轮/问题.md",
     "项目/摆轮/demo.md",
-    "项目/摆轮/控制逻辑.md",
     "项目/摆轮/GD32 与 PN通信.md",
-    "项目/摆轮/伺服驱动器.md",
-    "项目/摆轮/通信数据.md",
-    "项目/摆轮/项目-摆轮控制器.md",
-    "项目/摆轮/测试/pwm.md",
-    "项目/摆轮/测试/s型曲线.md",
     "README.md",
     "定时器级联测试.md",
     "临时.md",
@@ -223,12 +226,10 @@
     "项目/摆轮/硬件基础配置/74hc165 IO.md",
     "项目/摆轮/硬件基础配置/硬件.md",
     "项目/摆轮/硬件基础配置/定时器PWM.md",
-    "项目/ethercat/基础配置/硬件电路.md",
     "项目/供包台/基础信息/驱动算法.canvas",
     "项目/ethercat/调试",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429164655.png",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429164628.png",
-    "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429110307.png",
     "项目/ethercat/基础配置/乾坤袋",
     "项目/ethercat/基础配置",
     "项目/ethercat",
