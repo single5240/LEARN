@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
+                "file": "项目/摆轮/硬件基础配置/串口.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "两块板子之间的RS485"
+              "title": "串口"
             }
           }
         ]
@@ -183,13 +183,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e91e3721c71c2820",
   "lastOpenFiles": [
-    "项目/摆轮/控制逻辑.md",
     "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
+    "项目/摆轮/控制逻辑.md",
     "项目/摆轮/项目-摆轮控制器.md",
     "项目/摆轮/测试/0516.md",
     "项目/摆轮/测试/0411记录.md",
