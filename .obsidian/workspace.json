@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/飞达/飞达.md",
+                "file": "项目/飞达/飞达控制器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "飞达"
+              "title": "飞达控制器"
             }
           }
         ]
@@ -189,7 +189,7 @@
   },
   "active": "12804179029c1a7e",
   "lastOpenFiles": [
-    "项目/飞达/飞达.md",
+    "项目/飞达/飞达控制器.md",
     "项目/飞达",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
