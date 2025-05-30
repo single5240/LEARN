@@ -15,7 +15,7 @@
               "state": {
                 "file": "项目/飞达/飞达控制器.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
