@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
+                "file": "项目/飞达/电机方向.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "两块板子之间的RS485"
+              "title": "电机方向"
             }
           }
         ]
@@ -183,11 +183,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "12804179029c1a7e",
   "lastOpenFiles": [
+    "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
+    "项目/飞达/电机方向.md",
     "项目/飞达/飞达控制器.md",
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达/飞达控制器 - 副本.md",
@@ -197,7 +200,6 @@
     "项目/通用/通用轴控制.md",
     "项目/摆轮/硬件基础配置/串口.md",
     "项目/通用",
-    "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
     "项目/摆轮/控制逻辑.md",
     "项目/摆轮/项目-摆轮控制器.md",
     "项目/摆轮/测试/0516.md",
