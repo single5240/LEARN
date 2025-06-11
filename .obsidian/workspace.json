@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/飞达/测试/0611测试.md",
+                "file": "项目/飞达/0611.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0611测试"
+              "title": "0611"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "12804179029c1a7e",
   "lastOpenFiles": [
-    "项目/飞达/电机方向.md",
     "项目/飞达/测试/0611测试.md",
+    "项目/飞达/0611.md",
+    "项目/飞达/电机方向.md",
     "项目/飞达/测试",
     "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
     "项目/飞达/飞达控制器.md",
@@ -229,7 +230,6 @@
     "项目/摆轮/硬件基础配置/乾坤袋",
     "项目/摆轮/demo.md",
     "项目/摆轮/GD32 与 PN通信.md",
-    "README.md",
     "项目/供包台/基础信息/驱动算法.canvas",
     "项目/ethercat/调试",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429164655.png",
