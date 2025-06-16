@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/伺服驱动器/研控.md",
+                "file": "临时.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "研控"
+              "title": "临时"
             }
           }
         ]
@@ -183,13 +183,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "12804179029c1a7e",
   "lastOpenFiles": [
-    "基础知识/伺服驱动器/汇川.md",
+    "README.md",
     "基础知识/伺服驱动器/研控.md",
+    "基础知识/伺服驱动器/汇川.md",
     "项目/摆轮/伺服驱动器.md",
     "项目/飞达/0611.md",
     "项目/飞达/测试/0611测试.md",
@@ -228,7 +230,6 @@
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513094710.png",
     "项目/摆轮/硬件基础配置/乾坤袋",
     "项目/摆轮/demo.md",
-    "项目/摆轮/GD32 与 PN通信.md",
     "项目/供包台/基础信息/驱动算法.canvas",
     "项目/ethercat/调试",
     "项目/ethercat/基础配置/乾坤袋/Pasted image 20250429164655.png",
