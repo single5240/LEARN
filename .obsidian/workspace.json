@@ -11,10 +11,24 @@
             "id": "f2226c5ccf7820c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "项目/飞达/测试/0623.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0623"
             }
           }
         ]
@@ -175,6 +189,7 @@
   },
   "active": "f2226c5ccf7820c7",
   "lastOpenFiles": [
+    "项目/飞达/测试/0623.md",
     "临时.md",
     "README.md",
     "基础知识/伺服驱动器/研控.md",
@@ -209,7 +224,6 @@
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164542.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164534.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164445.png",
-    "项目/供包台/基础信息/伺服器连接、配置.md",
     "基础知识/伺服驱动器",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513095718.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513094900.png",
