@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/通用上位机/通信数据.md",
+                "file": "项目/通用上位机/NEW通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "通信数据"
+              "title": "NEW通信数据"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "f2226c5ccf7820c7",
   "lastOpenFiles": [
-    "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
+    "项目/通用上位机/NEW通信数据.md",
+    "项目/通用上位机/添加参数.md",
     "项目/飞达/测试/0623.md",
     "临时.md",
     "README.md",
@@ -220,7 +221,6 @@
     "项目/摆轮/通信数据.md",
     "基础知识/伺服驱动器/乾坤袋/Pasted image 20250516160909.png",
     "基础知识/伺服驱动器/乾坤袋",
-    "项目/摆轮/硬件基础配置/IO.md",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164542.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164534.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164445.png",
