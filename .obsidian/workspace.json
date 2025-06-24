@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/飞达/测试/0623.md",
+                "file": "项目/飞达/IO监控.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0623"
+              "title": "IO监控"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "f2226c5ccf7820c7",
   "lastOpenFiles": [
-    "项目/飞达/IO监控.md",
     "项目/飞达/测试/0623.md",
+    "项目/飞达/IO监控.md",
     "项目/通用上位机/NEW通信数据.md",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
