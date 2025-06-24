@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/通用上位机/NEW通信数据.md",
+                "file": "项目/飞达/测试/0623.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NEW通信数据"
+              "title": "0623"
             }
           }
         ]
@@ -189,12 +189,12 @@
   },
   "active": "f2226c5ccf7820c7",
   "lastOpenFiles": [
-    "项目/通用上位机/通信数据.md",
     "项目/通用上位机/NEW通信数据.md",
     "项目/通用上位机/添加参数.md",
-    "项目/飞达/测试/0623.md",
-    "临时.md",
+    "项目/通用上位机/通信数据.md",
     "README.md",
+    "临时.md",
+    "项目/飞达/测试/0623.md",
     "基础知识/伺服驱动器/研控.md",
     "基础知识/伺服驱动器/汇川.md",
     "项目/摆轮/伺服驱动器.md",
