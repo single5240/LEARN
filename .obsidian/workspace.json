@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临时.md",
+                "file": "基础知识/ethercat/base/esp核心板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "临时"
+              "title": "esp核心板"
             }
           }
         ]
@@ -188,13 +188,22 @@
   },
   "active": "f2226c5ccf7820c7",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/资料.md",
+    "基础知识/ethercat/base/周期性过程数据通信.md",
+    "基础知识/ethercat/base/通信服务和 WKC.md",
+    "基础知识/ethercat/base/网络寻址模式.md",
+    "基础知识/ethercat/base/ethercat.md",
+    "基础知识/ethercat/base/主站.md",
+    "基础知识/ethercat/base/从站.md",
+    "基础知识/ethercat/移植/移植.md",
+    "基础知识/ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
+    "临时.md",
     "项目/飞达/IO监控.md",
     "项目/飞达/测试/0623.md",
     "项目/通用上位机/NEW通信数据.md",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
     "README.md",
-    "临时.md",
     "基础知识/伺服驱动器/研控.md",
     "基础知识/伺服驱动器/汇川.md",
     "项目/摆轮/伺服驱动器.md",
@@ -208,16 +217,7 @@
     "项目/飞达/飞达控制器 - 副本.md",
     "项目/飞达",
     "项目/通用/通用轴控制.md",
-    "项目/摆轮/硬件基础配置/串口.md",
     "项目/通用",
-    "项目/摆轮/控制逻辑.md",
-    "项目/摆轮/项目-摆轮控制器.md",
-    "项目/摆轮/测试/0516.md",
-    "项目/摆轮/测试/0411记录.md",
-    "项目/摆轮/测试/s型曲线.md",
-    "项目/摆轮/测试/pwm.md",
-    "项目/摆轮/测试.md",
-    "项目/摆轮/问题.md",
     "基础知识/伺服驱动器/乾坤袋/Pasted image 20250516160909.png",
     "基础知识/伺服驱动器/乾坤袋",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164542.png",
