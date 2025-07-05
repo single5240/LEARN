@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/esp核心板.md",
+                "file": "临时.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "esp核心板"
+              "title": "临时"
             }
           }
         ]
@@ -183,11 +183,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f2226c5ccf7820c7",
   "lastOpenFiles": [
+    "乾坤袋/Pasted image 20250705112820.png",
+    "基础知识/ethercat/base/esp核心板.md",
     "基础知识/ethercat/base/资料.md",
     "基础知识/ethercat/base/周期性过程数据通信.md",
     "基础知识/ethercat/base/通信服务和 WKC.md",
@@ -214,9 +217,7 @@
     "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
     "项目/飞达/飞达控制器.md",
     "项目/飞达/飞达控制器 - 副本.html",
-    "项目/飞达/飞达控制器 - 副本.md",
     "项目/飞达",
-    "项目/通用/通用轴控制.md",
     "项目/通用",
     "基础知识/伺服驱动器/乾坤袋/Pasted image 20250516160909.png",
     "基础知识/伺服驱动器/乾坤袋",
