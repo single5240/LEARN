@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/从站中的对象字典.md",
+                "file": "基础知识/ethercat/base/外部链接.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "从站中的对象字典"
+              "title": "外部链接"
             }
           }
         ]
@@ -189,9 +189,9 @@
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
-    "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250708170553.png",
     "临时.md",
     "乾坤袋/Pasted image 20250705112820.png",
