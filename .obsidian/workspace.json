@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/动态PDO.md",
+                "file": "基础知识/ethercat/base/外部链接.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "动态PDO"
+              "title": "外部链接"
             }
           }
         ]
@@ -183,13 +183,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
-    "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/动态PDO.md",
+    "基础知识/ethercat/base/外部链接.md",
+    "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250708170553.png",
     "临时.md",
     "乾坤袋/Pasted image 20250705112820.png",
@@ -216,7 +218,6 @@
     "项目/飞达/测试/0611测试.md",
     "项目/飞达/电机方向.md",
     "项目/飞达/测试",
-    "项目/摆轮/硬件基础配置/两块板子之间的RS485.md",
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达",
     "项目/通用",
