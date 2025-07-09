@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/Untitled.md",
+                "file": "基础知识/ethercat/base/动态PDO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "动态PDO"
             }
           }
         ]
@@ -183,14 +183,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
     "基础知识/ethercat/base/从站中的对象字典.md",
-    "基础知识/ethercat/base/Untitled.md",
+    "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250708170553.png",
     "临时.md",
     "乾坤袋/Pasted image 20250705112820.png",
