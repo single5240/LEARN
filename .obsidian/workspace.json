@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/外部链接.md",
+                "file": "基础知识/ethercat/base/源码分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "外部链接"
+              "title": "源码分析"
             }
           }
         ]
@@ -189,9 +189,12 @@
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
-    "基础知识/ethercat/base/从站中的对象字典.md",
-    "基础知识/ethercat/base/外部链接.md",
+    "基础知识/ethercat/base/主站.md",
+    "基础知识/ethercat/base/源码分析.md",
+    "基础知识/ethercat/base/从站.md",
     "基础知识/ethercat/base/动态PDO.md",
+    "基础知识/ethercat/base/外部链接.md",
+    "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250708170553.png",
     "临时.md",
     "乾坤袋/Pasted image 20250705112820.png",
@@ -201,8 +204,6 @@
     "基础知识/ethercat/base/通信服务和 WKC.md",
     "基础知识/ethercat/base/网络寻址模式.md",
     "基础知识/ethercat/base/ethercat.md",
-    "基础知识/ethercat/base/主站.md",
-    "基础知识/ethercat/base/从站.md",
     "基础知识/ethercat/移植/移植.md",
     "基础知识/ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "项目/飞达/IO监控.md",
@@ -216,7 +217,6 @@
     "项目/摆轮/伺服驱动器.md",
     "项目/飞达/0611.md",
     "项目/飞达/测试/0611测试.md",
-    "项目/飞达/电机方向.md",
     "项目/飞达/测试",
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达",
