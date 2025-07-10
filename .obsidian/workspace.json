@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/源码分析.md",
+                "file": "基础知识/ethercat/base/从站.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "源码分析"
+              "title": "从站"
             }
           }
         ]
@@ -189,10 +189,11 @@
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/乾坤袋/Pasted image 20250710113320.png",
+    "基础知识/ethercat/base/源码分析.md",
     "基础知识/ethercat/base/从站.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/邮箱.md",
-    "基础知识/ethercat/base/源码分析.md",
     "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/esp核心板.md",
@@ -216,7 +217,6 @@
     "基础知识/伺服驱动器/研控.md",
     "基础知识/伺服驱动器/汇川.md",
     "项目/摆轮/伺服驱动器.md",
-    "项目/飞达/0611.md",
     "项目/飞达/测试",
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达",
