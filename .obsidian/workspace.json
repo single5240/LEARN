@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/从站.md",
+                "file": "基础知识/ethercat/base/源码分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "从站"
+              "title": "源码分析"
             }
           }
         ]
@@ -189,9 +189,9 @@
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/从站.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250710113320.png",
     "基础知识/ethercat/base/源码分析.md",
-    "基础知识/ethercat/base/从站.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/邮箱.md",
     "基础知识/ethercat/base/动态PDO.md",
@@ -230,7 +230,6 @@
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513095718.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513094900.png",
     "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513094802.png",
-    "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513094710.png",
     "项目/摆轮/硬件基础配置/乾坤袋",
     "项目/供包台/基础信息/驱动算法.canvas",
     "项目/ethercat/调试",
