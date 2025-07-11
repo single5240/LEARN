@@ -52,4 +52,5 @@ if(abort != ABORTIDX_WORKING)
 4. 如果不一样，设置标志位，保存参数
 5. 重新初始化字典，更新相关参数（需要确认哪些参数需要重新初始化）
 ##### 需要重新初始化
-1. 
+1. `UINT8    CheckSmSettings(UINT8 maxChannel)` 
+2. `UINT16 APPL_GenerateMapping(UINT16 *pInputSize,UINT16 *pOutputSize)`
