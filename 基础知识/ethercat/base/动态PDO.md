@@ -47,4 +47,4 @@ if(abort != ABORTIDX_WORKING)
 
 #### 从站流程
 1. 接收主站命令，切换到preop状态
-2. 
+2. 等待主站
