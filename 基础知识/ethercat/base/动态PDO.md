@@ -15,11 +15,11 @@
 #### `SDOS_SdoInd`
 1. 该函数接收到主站的sdo数据会和本地静态数据比较，再写入ESC
 2. 需要将收到与本地不同的数据时，检查配置参数，然后将其加载
-##### 
+##### 构建并发送SDO响应报文到主站
 ```c
 if(abort != ABORTIDX_WORKING)
-    {
-        /*  type cast was added because of warning */
-        SdoRes(abort, command, (UINT8) (sdoHeader & SDOHEADER_COMPLETEACCESS), (UINT16) dataSize, objLength, pSdoInd);
-    }
+{
+	/*  type cast was added because of warning */
+	SdoRes(abort, command, (UINT8) (sdoHeader & SDOHEADER_COMPLETEACCESS), (UINT16) dataSize, objLength, pSdoInd);
+}
 ```
