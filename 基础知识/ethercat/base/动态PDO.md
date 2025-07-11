@@ -45,3 +45,6 @@ if(abort != ABORTIDX_WORKING)
 ##### 静态初始化字典 `UINT16 COE_ObjDictionaryInit(void)`
 - **修改为动态加载，实现掉电保存主站sdo配置**
 
+#### 从站流程
+1. 接收主站命令，切换到preop状态
+2. 
