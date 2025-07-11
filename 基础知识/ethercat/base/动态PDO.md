@@ -37,6 +37,10 @@ if(abort != ABORTIDX_WORKING)
 }
 ```
 #### 字典操作
-##### `void COE_ClearObjDictionary(void)` 清空字典对象
+##### 清空字典对象 `void COE_ClearObjDictionary(void)` 
+##### 返回字典对象指针`OBJCONST TOBJECT OBJMEM * COE_GetObjectDictionary(void)` 
+##### 添加对象到字典 `UINT16 COE_AddObjectToDic(TOBJECT OBJMEM * pNewObjEntry)`
+##### 移除对象 `void COE_RemoveDicEntry(UINT16 index)`
+
 
 #### 链表操作
