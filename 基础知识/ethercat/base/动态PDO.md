@@ -40,7 +40,8 @@ if(abort != ABORTIDX_WORKING)
 ##### 清空字典对象 `void COE_ClearObjDictionary(void)` 
 ##### 返回字典对象指针`OBJCONST TOBJECT OBJMEM * COE_GetObjectDictionary(void)` 
 ##### 添加对象到字典 `UINT16 COE_AddObjectToDic(TOBJECT OBJMEM * pNewObjEntry)`
-##### 移除对象 `void COE_RemoveDicEntry(UINT16 index)`
+##### 从字典移除对象 `void COE_RemoveDicEntry(UINT16 index)`
+##### 批量添加对象到字典 `UINT16 AddObjectsToObjDictionary(TOBJECT OBJMEM * pObjEntry)`
+##### 静态初始化字典 `UINT16 COE_ObjDictionaryInit(void)`
+- **修改为动态加载，实现掉电保存主站sdo配置**
 
-
-#### 链表操作
