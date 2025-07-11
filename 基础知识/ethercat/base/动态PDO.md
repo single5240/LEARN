@@ -27,6 +27,7 @@
 ###### 确定是否与本地存储的sdo数据不一样 
 1. 每个参数逐一比较，0x1C12/0x1C13
 2. 如果是新的，加载到flash中，并设置相关标志位
+3. 需要从链表中将不需要的对象拉出来
 ##### 构建并发送SDO响应报文到主站
 ```c
 if(abort != ABORTIDX_WORKING)
@@ -35,3 +36,7 @@ if(abort != ABORTIDX_WORKING)
 	SdoRes(abort, command, (UINT8) (sdoHeader & SDOHEADER_COMPLETEACCESS), (UINT16) dataSize, objLength, pSdoInd);
 }
 ```
+#### 字典操作
+##### `void COE_ClearObjDictionary(void)` 清空字典对象
+
+#### 链表操作
