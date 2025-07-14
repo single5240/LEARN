@@ -56,4 +56,4 @@ if(abort != ABORTIDX_WORKING)
 
 #### staaaaart
 ##### 修改接收数据
-1. 接收数据和本地加载的字典进行比对
+1. 
