@@ -56,4 +56,5 @@ if(abort != ABORTIDX_WORKING)
 
 #### staaaaart
 ##### 修改接收数据
-1. 
+1. 在应用接口文件中完成同步管理器映射相关接口操作
+2. 
