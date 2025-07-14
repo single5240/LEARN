@@ -54,3 +54,6 @@ if(abort != ABORTIDX_WORKING)
 ##### 需要重新初始化
 1. `UINT8    CheckSmSettings(UINT8 maxChannel)` 
 2. `UINT16 APPL_GenerateMapping(UINT16 *pInputSize,UINT16 *pOutputSize)`
+
+#### staaaaart
+##### 修改接收数据
