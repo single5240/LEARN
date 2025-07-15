@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/Untitled.md",
+                "file": "基础知识/ethercat/base/slots和modules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "slots和modules"
             }
           }
         ]
@@ -190,7 +190,7 @@
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
     "基础知识/ethercat/base/源码分析.md",
-    "基础知识/ethercat/base/Untitled.md",
+    "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/从站.md",
