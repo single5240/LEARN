@@ -18,5 +18,6 @@
 ### modules
 - 每个模块应在单独的表中定义，模块识别应在标题中定义 (图10)。
 - 在模块对象中设置 “DependOnSlot” 的情况下，必须在表头中定义增量信息 (图13)。值将被忽略，增量值在基本应用表中指定，见6.4.1.1插槽。
-- 如果设置了 “PdoIndexIncrement”，则将属性 “DependOnSlot” 添加到PDO映射对象中
+- 如果设置了 “PdoIndexIncrement”，则将属性 “DependOnSlot” 添加到PDO映射对象中(Index is 0x1600 – 0x17FF or 0x1A00 – 0x1BFF).
+- 如果设置了 “IndexIncrement”，则为索引为0x2000和更高的对象设置属性 “DependOnSlot”。
 ![[Pasted image 20250716103905.png]]
