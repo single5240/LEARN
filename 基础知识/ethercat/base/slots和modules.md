@@ -23,4 +23,8 @@
 ![[Pasted image 20250716103905.png]]
 
 #### 实现
-1. ssc可以生成slot，无法生成module
+1. ssc可以生成slot，无法生成module，需要手动实现
+2. 整体代码后续改为手动修改，尽量不使用ssc生成
+3. slot主要修改`asEntryDesc0xF030` `ConfiguredModuleIdentList0xF030`
+4. 在收到主站发来的`0xF030`的数据时，将对应的id的module加载到字典中
+5. 将
