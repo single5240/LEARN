@@ -23,4 +23,4 @@
 ![[Pasted image 20250716103905.png]]
 
 #### 实现
-1. ssc可以生成slot，无法生成module，需要主动生成
+1. ssc可以生成slot，无法生成module
