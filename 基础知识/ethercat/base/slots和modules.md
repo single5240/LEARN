@@ -21,3 +21,6 @@
 - 如果设置了 “PdoIndexIncrement”，则将属性 “DependOnSlot” 添加到PDO映射对象中(Index is 0x1600 – 0x17FF or 0x1A00 – 0x1BFF).
 - 如果设置了 “IndexIncrement”，则为索引为0x2000和更高的对象设置属性 “DependOnSlot”。
 ![[Pasted image 20250716103905.png]]
+
+#### 实现
+1. ssc可以生成slot，无法生成module，需要主动生成
