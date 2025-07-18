@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da1b0a0fdd53767d",
+        "id": "8758fd644778c155",
         "type": "tabs",
         "children": [
           {
-            "id": "c658caca9a26e8ba",
+            "id": "47d5b72c6dc2cde6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
@@ -187,17 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c658caca9a26e8ba",
+  "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/ETG.md",
+    "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172158.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172147.png",
-    "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/源码分析.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/esp核心板.md",
     "基础知识/ethercat/base/从站中的对象字典.md",
-    "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716103905.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716095007.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716094353.png",
@@ -229,7 +229,6 @@
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达",
     "项目/通用",
-    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250516160909.png",
     "基础知识/伺服驱动器/乾坤袋",
     "基础知识/伺服驱动器",
     "项目/摆轮/硬件基础配置/乾坤袋",

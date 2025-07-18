@@ -42,4 +42,6 @@
 ##### `0x7000` Output Entries
 ##### `0x8000` Configuration Parameter
 ##### `0x9000` Information
+##### `0x1000 - 0x1FFF` Communication Area
+##### `0xF000 - 0xFFFF` Device Parameter
 
