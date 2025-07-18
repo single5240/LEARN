@@ -45,3 +45,7 @@
 ##### `0x1000 - 0x1FFF` Communication Area
 ##### `0xF000 - 0xFFFF` Device Parameter
 
+
+#### 问题
+1. `#xf010` 需要实现？ 
+2. 
