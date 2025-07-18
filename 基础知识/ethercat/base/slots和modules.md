@@ -36,7 +36,10 @@
 6. 将module和iobus相结合
 
 #### 进程
-##### `0x16nn`
-##### ~0x1A00~
+##### `0x1600` RxPDOs
+##### `0x1A00` TxPDOs
+##### `0x6000` Input Entries
+##### `0x7000` Output Entries
+##### `0x8000` Configuration Parameter
+##### `0x9000` Information
 
-##### 
