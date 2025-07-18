@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/ETG.md",
+                "file": "基础知识/ethercat/base/slots和modules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ETG"
+              "title": "slots和modules"
             }
           }
         ]
@@ -189,8 +189,10 @@
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
-    "基础知识/ethercat/base/源码分析.md",
+    "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172158.png",
+    "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172147.png",
     "基础知识/ethercat/base/ETG.md",
+    "基础知识/ethercat/base/源码分析.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/esp核心板.md",
@@ -223,14 +225,12 @@
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
     "README.md",
-    "基础知识/伺服驱动器/研控.md",
     "项目/飞达/测试",
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达",
     "项目/通用",
     "基础知识/伺服驱动器/乾坤袋/Pasted image 20250516160909.png",
     "基础知识/伺服驱动器/乾坤袋",
-    "项目/摆轮/硬件基础配置/乾坤袋/Pasted image 20250513164542.png",
     "基础知识/伺服驱动器",
     "项目/摆轮/硬件基础配置/乾坤袋",
     "项目/供包台/基础信息/驱动算法.canvas",

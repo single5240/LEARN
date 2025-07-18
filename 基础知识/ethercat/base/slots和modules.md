@@ -22,6 +22,11 @@
 - 如果设置了 “IndexIncrement”，则为索引为0x2000和更高的对象设置属性 “DependOnSlot”。
 ![[Pasted image 20250716103905.png]]
 
+#### MDP
+![[Pasted image 20250718172147.png]]
+![[Pasted image 20250718172158.png]]
+
+
 #### 实现
 1. ssc可以生成slot，无法生成module，需要手动实现
 2. 整体代码后续改为手动修改，尽量不使用ssc生成
@@ -29,3 +34,9 @@
 4. 在收到主站发来的`0xF030`的数据时，将对应的id的module加载到字典中
 5. 需要TOBJ1C12和TOBJ1C13，动态加载pdo
 6. 将module和iobus相结合
+
+#### 进程
+##### `0x16nn`
+##### ~0x1A00~
+
+##### 
