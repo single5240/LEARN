@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/源码分析.md",
+                "file": "基础知识/ethercat/base/ETG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "源码分析"
+              "title": "ETG"
             }
           }
         ]
@@ -189,13 +189,13 @@
   },
   "active": "c658caca9a26e8ba",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/源码分析.md",
+    "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/esp核心板.md",
     "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/slots和modules.md",
-    "基础知识/ethercat/base/源码分析.md",
-    "基础知识/ethercat/base/Untitled.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716103905.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716095007.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716094353.png",
