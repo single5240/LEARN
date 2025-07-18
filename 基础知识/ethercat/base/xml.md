@@ -13,8 +13,42 @@
 ### `0x1C13` - TxPDO assgin
 ### `0x8000` - Error Module
 ### `0xf000` - Modular device profile
+```c
+<Object>
+	<Index>#xf000</Index>
+	<Name>Modular device profile</Name>
+	<Type>DTF000</Type>
+	<BitSize>48</BitSize>
+	<Info>
+	  <SubItem>
+		<Name>SubIndex 000</Name>
+		<Info>
+		  <DefaultData>02</DefaultData>
+		</Info>
+	  </SubItem>
+	  <SubItem>
+		<Name>Module index distance</Name>
+		<Info>
+		  <DefaultData>0800</DefaultData>
+		</Info>
+	  </SubItem>
+	  <SubItem>
+		<Name>Maximum number of modules</Name>
+		<Info>
+		  <DefaultData>02</DefaultData>
+		</Info>
+	  </SubItem>
+	</Info>
+	<Flags>
+	  <Access>ro</Access>
+	  <Category>o</Category>
+	</Flags>
+</Object>
 
+```
 
 ### `0xF010` - Module profile list
+
+
 ### `0xF030` - Configured module Ident list
 ### `0xF050` - Module detected list
