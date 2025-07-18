@@ -7,4 +7,8 @@
 ### `0x1C00` - Sync manager type
 ### `0x1018` - Identity
 ### `0x10F1` - Error setting
-
+### `0x1C32` - SM output parameter
+### `0x1C33` - SM input parameter
+### `0x1C12` - RxPDO assgin
+### `0x1C13` - TxPDO assgin
+### `0x8000` - Error 
