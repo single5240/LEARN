@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/xml.md",
+                "file": "基础知识/ethercat/移植/移植.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "xml"
+              "title": "移植"
             }
           }
         ]
@@ -189,6 +189,9 @@
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "项目/摆轮/控制逻辑.md",
+    "项目/摆轮/问题.md",
+    "基础知识/ethercat/base/xml.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719113219.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110426.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110111.png",
@@ -196,7 +199,6 @@
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100156.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100148.png",
     "项目/飞达/测试/0623.md",
-    "基础知识/ethercat/base/xml.md",
     "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172158.png",
@@ -208,7 +210,6 @@
     "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716103905.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716095007.png",
-    "基础知识/ethercat/base/乾坤袋/Pasted image 20250716094353.png",
     "learnmate/杜家诺.md",
     "learnmate",
     "基础知识/ethercat/base/从站.md",
@@ -225,7 +226,6 @@
     "项目/飞达/IO监控.md",
     "项目/通用上位机/NEW通信数据.md",
     "项目/通用上位机/添加参数.md",
-    "项目/通用上位机/通信数据.md",
     "项目/飞达/测试",
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达",
