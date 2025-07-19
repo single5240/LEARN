@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/xml.md",
+                "file": "项目/飞达/测试/0623.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "xml"
+              "title": "0623"
             }
           }
         ]
@@ -183,13 +183,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
-    "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/xml.md",
+    "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172158.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172147.png",
