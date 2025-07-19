@@ -47,6 +47,10 @@
 </Object>
 
 ```
+- 模块化设备配置文件对象包含解释模块的功能区域中的对象的所有信息。该对象是只读的，不能进行PDO映射。
+#### Entries
+![[Pasted image 20250719101928.png]]
+1. 
 ### `0xF010` - Module profile list
 ```xml
 <Object>
