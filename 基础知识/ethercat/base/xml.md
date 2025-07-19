@@ -699,7 +699,11 @@
 	</Flags>
 </Object>
 ```
-
+#### Entries
+![[Pasted image 20250719113219.png]]
+- **模块标识号（Module Ident）**：
+	- 通常由两部分组成：高16位为厂商ID（Vendor ID），低16位为产品代码（Product Code）。
+	- 示例：0x00020001（厂商ID=0x0002，产品代码=0x0001）。
 ### 各种设备是否需要配置对应参数（M-必须；C-可选）
 
 ![[Pasted image 20250719100156.png]]
