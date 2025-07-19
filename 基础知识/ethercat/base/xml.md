@@ -268,6 +268,8 @@
 	</Flags>
 </Object>
 ```
+#### Entries
+![[Pasted image 20250719110111.png]]
 ### `0xF030` - Configured module Ident list
 ```xml
 <Object>
@@ -481,6 +483,9 @@
 	</Flags>
 </Object>
 ```
+#### Entries
+![[Pasted image 20250719110426.png]]
+- 数据 - {插入模块数量}{第一个槽位模块的}
 ### `0xF050` - Module detected list
 ```xml
 <Object>
