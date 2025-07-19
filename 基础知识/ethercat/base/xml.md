@@ -485,7 +485,7 @@
 ```
 #### Entries
 ![[Pasted image 20250719110426.png]]
-- 数据 - {插入模块数量}{第一个槽位模块的}
+- 数据 - {插入模块数量}{第1个槽位模块ID}{第2个槽位模块ID}........
 ### `0xF050` - Module detected list
 ```xml
 <Object>
