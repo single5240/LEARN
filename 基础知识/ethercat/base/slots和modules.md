@@ -26,15 +26,6 @@
 ![[Pasted image 20250718172147.png]]
 ![[Pasted image 20250718172158.png]]
 
-
-#### 实现
-1. ssc可以生成slot，无法生成module，需要手动实现
-2. 整体代码后续改为手动修改，尽量不使用ssc生成
-3. slot主要修改`asEntryDesc0xF030` `ConfiguredModuleIdentList0xF030`
-4. 在收到主站发来的`0xF030`的数据时，将对应的id的module加载到字典中
-5. 需要TOBJ1C12和TOBJ1C13，动态加载pdo
-6. 将module和iobus相结合
-
 #### 进程
 ##### `0x1600` RxPDOs
 ##### `0x1A00` TxPDOs
@@ -44,8 +35,3 @@
 ##### `0x9000` Information
 ##### `0x1000 - 0x1FFF` Communication Area
 ##### `0xF000 - 0xFFFF` Device Parameter
-
-
-#### 问题
-1. `#xf010` 需要实现？ 
-2. 
