@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/飞达/测试/0623.md",
+                "file": "基础知识/ethercat/base/xml.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0623"
+              "title": "xml"
             }
           }
         ]
@@ -189,6 +189,9 @@
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100156.png",
+    "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100148.png",
+    "项目/飞达/测试/0623.md",
     "基础知识/ethercat/base/xml.md",
     "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/ETG.md",
@@ -217,15 +220,12 @@
     "基础知识/ethercat/base/主站.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250708170553.png",
     "临时.md",
-    "乾坤袋/Pasted image 20250705112820.png",
     "基础知识/ethercat/移植/移植.md",
     "基础知识/ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
     "项目/飞达/IO监控.md",
-    "项目/飞达/测试/0623.md",
     "项目/通用上位机/NEW通信数据.md",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
-    "README.md",
     "项目/飞达/测试",
     "项目/飞达/飞达控制器 - 副本.html",
     "项目/飞达",

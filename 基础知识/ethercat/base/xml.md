@@ -12,6 +12,7 @@
 ### `0x1C12` - RxPDO assgin
 ### `0x1C13` - TxPDO assgin
 ### `0x8000` - Error Module
+
 ### `0xf000` - Modular device profile
 ```c
 <Object>
@@ -685,3 +686,5 @@
 	</Flags>
 </Object>
 ```
+
+![[Pasted image 20250719100156.png]]
