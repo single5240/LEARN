@@ -187,49 +187,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "39cd63e37fafef54",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0281eed866f9e782",
-        "type": "window",
-        "children": [
-          {
-            "id": "488854774fab9cc0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c4a7fc156e06200e",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "基础知识/ethercat/base/乾坤袋/Pasted image 20250719101928.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250719101928"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 663,
-        "y": 17,
-        "width": 2216,
-        "height": 1352,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
-    "基础知识/ethercat/base/xml.md",
-    "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719101928.png",
+    "基础知识/ethercat/base/xml.md",
+    "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100156.png",
     "基础知识/ethercat/base/源码分析.md",
     "基础知识/ethercat/base/外部链接.md",
