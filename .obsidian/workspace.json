@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/base/slots和modules.md",
+                "file": "基础知识/ethercat/base/ETG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "slots和modules"
+              "title": "ETG"
             }
           }
         ]
@@ -224,13 +224,13 @@
       }
     ]
   },
-  "active": "47d5b72c6dc2cde6",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
-    "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/xml.md",
+    "基础知识/ethercat/base/ETG.md",
+    "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719101928.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100156.png",
-    "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/源码分析.md",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
