@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/ethercat/移植/移植.md",
+                "file": "基础知识/ethercat/base/xml.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "移植"
+              "title": "xml"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "基础知识/ethercat/移植/移植.md",
     "基础知识/ethercat/base/源码分析.md",
     "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/slots和modules.md",
@@ -202,7 +203,6 @@
     "基础知识/ethercat/base/网络寻址模式.md",
     "基础知识/ethercat/base/ethercat.md",
     "基础知识/ethercat/base/主站.md",
-    "基础知识/ethercat/移植/移植.md",
     "项目/摆轮/控制逻辑.md",
     "项目/摆轮/问题.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719113219.png",
