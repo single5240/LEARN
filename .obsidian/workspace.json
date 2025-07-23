@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/伺服驱动器/研控.md",
+                "file": "项目/摆轮/demo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "研控"
+              "title": "demo"
             }
           }
         ]
@@ -189,18 +189,23 @@
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
-    "项目/摆轮/测试/0516.md",
-    "项目/摆轮/测试/0411记录.md",
-    "项目/摆轮/测试/pwm.md",
-    "项目/摆轮/测试/s型曲线.md",
-    "项目/摆轮/通信数据.md",
-    "项目/摆轮/项目-摆轮控制器.md",
-    "项目/摆轮/demo.md",
-    "项目/摆轮/控制逻辑.md",
     "项目/摆轮/GD32 与 PN通信.md",
+    "项目/摆轮/控制逻辑.md",
     "项目/摆轮/问题.md",
     "项目/摆轮/测试.md",
     "项目/摆轮/伺服驱动器.md",
+    "项目/摆轮/通信数据.md",
+    "项目/摆轮/项目-摆轮控制器.md",
+    "基础知识/伺服驱动器/研控.md",
+    "基础知识/伺服驱动器/汇川.md",
+    "项目/通用上位机/添加参数.md",
+    "项目/通用上位机/通信数据.md",
+    "项目/摆轮/测试/0516.md",
+    "项目/摆轮/测试/s型曲线.md",
+    "项目/摆轮/测试/0411记录.md",
+    "项目/摆轮/测试/pwm.md",
+    "项目/通用上位机/NEW通信数据.md",
+    "项目/摆轮/demo.md",
     "基础知识/ethercat/移植/ID信息.md",
     "基础知识/ethercat/base/xml.md",
     "基础知识/ethercat/移植/移植.md",
@@ -212,15 +217,10 @@
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/从站中的对象字典.md",
-    "基础知识/ethercat/base/esp核心板.md",
-    "基础知识/ethercat/base/网络寻址模式.md",
-    "基础知识/ethercat/base/ethercat.md",
-    "基础知识/ethercat/base/主站.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719113219.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110426.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110111.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100148.png",
-    "项目/飞达/测试/0623.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172158.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172147.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250716103905.png",
