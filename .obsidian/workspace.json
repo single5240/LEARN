@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/伺服驱动器/信捷.md",
+                "file": "临时.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "信捷"
+              "title": "临时"
             }
           }
         ]
@@ -187,8 +187,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f2c2f6abfd8d7bd",
+  "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "基础知识/伺服驱动器/信捷.md",
     "项目/摆轮/项目-摆轮控制器.md",
     "项目/摆轮/通信数据.md",
     "项目/摆轮/伺服驱动器.md",
@@ -197,7 +198,6 @@
     "项目/摆轮/控制逻辑.md",
     "项目/摆轮/demo.md",
     "项目/摆轮/问题.md",
-    "基础知识/伺服驱动器/信捷.md",
     "基础知识/伺服驱动器/汇川.md",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
