@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/摆轮/demo.md",
+                "file": "基础知识/伺服驱动器/信捷.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "demo"
+              "title": "信捷"
             }
           }
         ]
@@ -187,16 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47d5b72c6dc2cde6",
+  "active": "1f2c2f6abfd8d7bd",
   "lastOpenFiles": [
+    "项目/摆轮/项目-摆轮控制器.md",
+    "项目/摆轮/通信数据.md",
+    "项目/摆轮/伺服驱动器.md",
+    "项目/摆轮/测试.md",
     "项目/摆轮/GD32 与 PN通信.md",
     "项目/摆轮/控制逻辑.md",
+    "项目/摆轮/demo.md",
     "项目/摆轮/问题.md",
-    "项目/摆轮/测试.md",
-    "项目/摆轮/伺服驱动器.md",
-    "项目/摆轮/通信数据.md",
-    "项目/摆轮/项目-摆轮控制器.md",
-    "基础知识/伺服驱动器/研控.md",
+    "基础知识/伺服驱动器/信捷.md",
     "基础知识/伺服驱动器/汇川.md",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
@@ -205,7 +206,6 @@
     "项目/摆轮/测试/0411记录.md",
     "项目/摆轮/测试/pwm.md",
     "项目/通用上位机/NEW通信数据.md",
-    "项目/摆轮/demo.md",
     "基础知识/ethercat/移植/ID信息.md",
     "基础知识/ethercat/base/xml.md",
     "基础知识/ethercat/移植/移植.md",
