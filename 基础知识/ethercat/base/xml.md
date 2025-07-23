@@ -11,7 +11,8 @@
 ### `0x1C12` - RxPDO assgin
 ### `0x1C13` - TxPDO assgin
 ### `0x8000` - Error Module
-
+### `0x9000` - Information Data object area
+1. 非周期数据?
 ### `0xf000` - Modular device profile
 ```c
 <Object>
