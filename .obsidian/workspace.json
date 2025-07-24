@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临时.md",
+                "file": "基础知识/伺服驱动器/信捷.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "临时"
+              "title": "信捷"
             }
           }
         ]
@@ -189,6 +189,8 @@
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "基础知识/伺服驱动器/汇川.md",
+    "临时.md",
     "基础知识/伺服驱动器/信捷.md",
     "项目/摆轮/项目-摆轮控制器.md",
     "项目/摆轮/通信数据.md",
@@ -198,7 +200,6 @@
     "项目/摆轮/控制逻辑.md",
     "项目/摆轮/demo.md",
     "项目/摆轮/问题.md",
-    "基础知识/伺服驱动器/汇川.md",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
     "项目/摆轮/测试/0516.md",
@@ -216,7 +217,6 @@
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100156.png",
     "基础知识/ethercat/base/外部链接.md",
     "基础知识/ethercat/base/动态PDO.md",
-    "基础知识/ethercat/base/从站中的对象字典.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719113219.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110426.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110111.png",
