@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/伺服驱动器/信捷.md",
+                "file": "项目/通用上位机/NEW通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "信捷"
+              "title": "NEW通信数据"
             }
           }
         ]
@@ -183,14 +183,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "项目/通用上位机/添加参数.md",
+    "项目/通用上位机/通信数据.md",
+    "基础知识/伺服驱动器/信捷.md",
     "基础知识/伺服驱动器/汇川.md",
     "临时.md",
-    "基础知识/伺服驱动器/信捷.md",
     "项目/摆轮/项目-摆轮控制器.md",
     "项目/摆轮/通信数据.md",
     "项目/摆轮/伺服驱动器.md",
@@ -199,8 +202,6 @@
     "项目/摆轮/控制逻辑.md",
     "项目/摆轮/demo.md",
     "项目/摆轮/问题.md",
-    "项目/通用上位机/添加参数.md",
-    "项目/通用上位机/通信数据.md",
     "项目/摆轮/测试/0516.md",
     "项目/摆轮/测试/s型曲线.md",
     "项目/摆轮/测试/0411记录.md",
