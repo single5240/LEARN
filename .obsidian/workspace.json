@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/通用上位机/NEW通信数据.md",
+                "file": "基础知识/伺服驱动器/合信.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NEW通信数据"
+              "title": "合信"
             }
           }
         ]
@@ -189,6 +189,9 @@
   },
   "active": "47d5b72c6dc2cde6",
   "lastOpenFiles": [
+    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250725190601.png",
+    "项目/通用上位机/NEW通信数据.md",
+    "基础知识/伺服驱动器/合信.md",
     "项目/通用上位机/添加参数.md",
     "项目/通用上位机/通信数据.md",
     "基础知识/伺服驱动器/信捷.md",
@@ -206,7 +209,6 @@
     "项目/摆轮/测试/s型曲线.md",
     "项目/摆轮/测试/0411记录.md",
     "项目/摆轮/测试/pwm.md",
-    "项目/通用上位机/NEW通信数据.md",
     "基础知识/ethercat/移植/ID信息.md",
     "基础知识/ethercat/base/xml.md",
     "基础知识/ethercat/移植/移植.md",
@@ -215,8 +217,6 @@
     "基础知识/ethercat/base/slots和modules.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719101928.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100156.png",
-    "基础知识/ethercat/base/外部链接.md",
-    "基础知识/ethercat/base/动态PDO.md",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719113219.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110426.png",
     "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110111.png",
