@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd0b6640fef65bf3",
+        "id": "3c264d04cdd75d18",
         "type": "tabs",
         "children": [
           {
-            "id": "92dc25176fb67531",
+            "id": "448ce69d5e2def52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/飞达/测试/0731.md",
+                "file": "项目/摆轮/通信数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0731"
+              "title": "通信数据"
+            }
+          },
+          {
+            "id": "998fab776f1b09d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/grbl/DIY/task.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "task"
+            }
+          },
+          {
+            "id": "3206e7219f772791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "bdd97a70fb1bd168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/ethercat/base/slots和modules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "slots和modules"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,8 +235,8 @@
             "state": {
               "type": "modevol-outline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "modevol-outline"
             }
           }
         ],
@@ -176,6 +249,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,59 +257,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92dc25176fb67531",
+  "active": "bdd97a70fb1bd168",
   "lastOpenFiles": [
-    "项目/飞达/测试/0729.md",
-    "项目/飞达/测试/0731.md",
-    "项目/飞达/IO监控.md",
-    "基础知识/伺服驱动器/信捷.md",
-    "基础知识/伺服驱动器/汇川.md",
-    "模板.md",
-    "项目/上位机/摆轮上位机使用手册.md",
-    "Untitled.canvas",
-    "项目/上位机/添加参数.md",
-    "项目/上位机/通信数据.md",
-    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250730101118.png",
-    "基础知识/伺服驱动器/合信.md",
-    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250725203454.png",
-    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250725203446.png",
-    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250725192607.png",
-    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250725192515.png",
-    "基础知识/伺服驱动器/乾坤袋/Pasted image 20250725190601.png",
-    "项目/上位机/NEW通信数据.md",
     "临时.md",
-    "项目/摆轮/项目-摆轮控制器.md",
-    "项目/摆轮/通信数据.md",
-    "项目/摆轮/伺服驱动器.md",
-    "项目/摆轮/测试.md",
-    "项目/摆轮/GD32 与 PN通信.md",
-    "项目/摆轮/控制逻辑.md",
-    "项目/摆轮/demo.md",
-    "项目/摆轮/问题.md",
-    "项目/摆轮/测试/0516.md",
-    "项目/摆轮/测试/s型曲线.md",
-    "项目/摆轮/测试/0411记录.md",
-    "项目/摆轮/测试/pwm.md",
-    "基础知识/ethercat/移植/ID信息.md",
+    "基础知识/ethercat/base/ETG.md",
     "基础知识/ethercat/base/xml.md",
-    "基础知识/ethercat/base/乾坤袋/Pasted image 20250719101928.png",
-    "基础知识/ethercat/base/乾坤袋/Pasted image 20250719100156.png",
-    "基础知识/ethercat/base/乾坤袋/Pasted image 20250719113219.png",
-    "基础知识/ethercat/base/乾坤袋/Pasted image 20250719110426.png",
-    "learnmate",
-    "项目/飞达/测试",
-    "项目/飞达/飞达控制器 - 副本.html",
-    "项目/飞达",
-    "项目/通用",
-    "基础知识/伺服驱动器/乾坤袋",
-    "基础知识/伺服驱动器",
-    "项目/摆轮/硬件基础配置/乾坤袋",
+    "基础知识/ethercat/base/外部链接.md",
+    "基础知识/ethercat/base/源码分析.md",
+    "基础知识/ethercat/base/slots和modules.md",
+    "基础知识/ethercat/base/乾坤袋/Pasted image 20250718172158.png",
+    "乾坤袋/Pasted image 20251202114000.png",
+    "README.md",
+    "乾坤袋/Pasted image 20251202103157.png",
+    "乾坤袋/Pasted image 20251202102914.png",
+    "乾坤袋/Pasted image 20251201100244.png",
+    "基础知识/ethercat/研发/LAN9252-HBI.md",
+    "基础知识/ethercat/研发/乾坤袋/Pasted image 20251127104821.png",
+    "基础知识/ethercat/研发/乾坤袋/Pasted image 20251127103914.png",
+    "基础知识/ethercat/研发/乾坤袋/Pasted image 20251127103903.png",
+    "基础知识/ethercat/研发/乾坤袋/Pasted image 20251127103849.png",
+    "基础知识/ethercat/研发/乾坤袋/Pasted image 20251127103627.png",
+    "基础知识/ethercat/研发/乾坤袋",
+    "基础知识/伺服驱动器/汇川.md",
+    "基础知识/伺服驱动器/信捷.md",
+    "基础知识/grbl/DIY/control.md",
+    "基础知识/grbl/main.md",
+    "项目/飞达/自裁自贴/调试/25-10-23.md",
+    "项目/飞达/自裁自贴/调试",
+    "项目/飞达/模切",
+    "项目/飞达/自裁自贴",
+    "基础知识/伺服驱动器/合信.md",
+    "项目/摆轮/伺服驱动器.md",
+    "项目/摆轮/项目-摆轮控制器.md",
+    "基础知识/grbl/DIY/task.md",
+    "基础知识/grbl/DIY",
+    "基础知识/grbl/乾坤袋",
+    "基础知识/grbl",
+    "基础知识/ethercat/研发/功能实现.md",
+    "基础知识/ethercat/base/ethercat.md",
+    "基础知识/ethercat/移植/ID信息.md",
+    "基础知识/ethercat/移植/移植.md",
+    "基础知识/ethercat/移植/gd32f450zgt6+ax58100 硬件接口.md",
+    "项目/ethercat/调试/lan9252.md",
+    "项目/ethercat/调试/进度.md",
+    "项目/ethercat/function/0910.md",
+    "项目/ethercat/基础配置/ssc配置.md",
+    "项目/ethercat/function",
+    "项目/飞达/模切/优化",
+    "基础知识/ethercat/研发",
+    "Untitled.canvas",
     "项目/供包台/基础信息/驱动算法.canvas",
-    "项目/ethercat/调试",
-    "项目/ethercat/基础配置/乾坤袋",
     "项目/供包台/ERTEC_AT_应用流程图.canvas",
     "项目/carCtr/Untitled.canvas",
     "项目/newpro/74hc165.canvas",
