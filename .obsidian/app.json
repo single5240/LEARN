@@ -2,6 +2,7 @@
   "attachmentFolderPath": "./乾坤袋",
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "2",
